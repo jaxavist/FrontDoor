@@ -1,0 +1,15 @@
+# Audit data (generated JSON — large, don't commit)
+data/audit_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Env / secrets
+.env
+*.env
