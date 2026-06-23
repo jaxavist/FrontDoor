@@ -1,0 +1,98 @@
+[
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10406",
+    "id": "10406",
+    "description": "",
+    "name": "Hardware failure"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/12",
+    "id": "12",
+    "description": "Work has been completed on this work item.",
+    "name": "Done"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10005",
+    "id": "10005",
+    "description": "Request or work item was canceled by requestor",
+    "name": "Canceled"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/3",
+    "id": "3",
+    "description": "The problem is a duplicate of an existing work item.",
+    "name": "Duplicate"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/1",
+    "id": "1",
+    "description": "A fix for this issue is checked into the tree and tested.",
+    "name": "Fixed"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10201",
+    "id": "10201",
+    "description": "",
+    "name": "Passed"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10100",
+    "id": "10100",
+    "description": "This issue won't be actioned.",
+    "name": "Won't Do"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10434",
+    "id": "10434",
+    "description": "This issue cannot be actioned.",
+    "name": "Can't Do"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10300",
+    "id": "10300",
+    "description": "All attempts at reproducing this work item failed, or not enough information was available to reproduce the work item. Reading the code produces no clues as to why this behavior would occur. If more information appears later, please reopen the work item.",
+    "name": "Cannot Reproduce"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10401",
+    "id": "10401",
+    "description": "This issue has already been fixed.",
+    "name": "Already Fixed"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10400",
+    "id": "10400",
+    "description": "This issue was not approved.",
+    "name": "Declined"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10402",
+    "id": "10402",
+    "description": "The problem has a documented root cause and a workaround.",
+    "name": "Known Error"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10403",
+    "id": "10403",
+    "description": "",
+    "name": "Software failure"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10404",
+    "id": "10404",
+    "description": "We made this story a long time, don't plan on getting to it soon, and may never get to it",
+    "name": "Icebox"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/10405",
+    "id": "10405",
+    "description": "Determined after some investigation that the issue is working as intended",
+    "name": "Not a Bug"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/resolution/11468",
+    "id": "11468",
+    "description": "",
+    "name": "Strategic Exclusion"
+  }
+]

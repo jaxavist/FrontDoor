@@ -1,0 +1,1900 @@
+[
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/5",
+    "id": "5",
+    "description": "The sub-task of the issue",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-Task",
+    "untranslatedName": "Sub-Task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11195",
+    "id": "11195",
+    "description": "Subtasks track small pieces of work that are part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Subtask",
+    "untranslatedName": "Subtask",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12792",
+    "id": "12792",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11199",
+    "id": "11199",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11167",
+    "id": "11167",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11201",
+    "id": "11201",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11234",
+    "id": "11234",
+    "description": "A small piece of work that's part of a larger task. (Migrated on 10 Dec 2024 03:34 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11400,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/14260",
+    "id": "14260",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11197",
+    "id": "11197",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11203",
+    "id": "11203",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11227",
+    "id": "11227",
+    "description": "A sub-task of the issue used for design/UX work. (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Design Sub-task",
+    "untranslatedName": "Design Sub-task",
+    "subtask": true,
+    "avatarId": 11400,
+    "hierarchyLevel": -1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11163",
+    "id": "11163",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11222",
+    "id": "11222",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11490",
+    "id": "11490",
+    "description": "Subtasks track small pieces of work that are part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Subtask",
+    "untranslatedName": "Subtask",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11171",
+    "id": "11171",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11173",
+    "id": "11173",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11217",
+    "id": "11217",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11165",
+    "id": "11165",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/10",
+    "id": "10",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-Test",
+    "untranslatedName": "Sub-Test",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11189",
+    "id": "11189",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11213",
+    "id": "11213",
+    "description": "This is the Xray Sub Test Execution Issue Type. Used to execute test cases already defined. A Sub Test Execution can be created for a parent issue like a requirement in order to execute the test cases associated with it.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15828?size=medium",
+    "name": "Sub Test Execution",
+    "untranslatedName": "Sub Test Execution",
+    "subtask": true,
+    "avatarId": 15828,
+    "hierarchyLevel": -1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11230",
+    "id": "11230",
+    "description": "A sub-task of the issue used for diving (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Dive Sub-task",
+    "untranslatedName": "Dive Sub-task",
+    "subtask": true,
+    "avatarId": 11400,
+    "hierarchyLevel": -1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12758",
+    "id": "12758",
+    "description": "A small piece of work that's part of a larger task.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11416?size=medium",
+    "name": "Sub-task",
+    "untranslatedName": "Sub-task",
+    "subtask": true,
+    "avatarId": 11416,
+    "hierarchyLevel": -1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/1",
+    "id": "1",
+    "description": "A problem which impairs or prevents the functions of the product.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11403?size=medium",
+    "name": "Bug",
+    "untranslatedName": "Bug",
+    "subtask": false,
+    "avatarId": 11403,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/3",
+    "id": "3",
+    "description": "A task that needs to be done.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/7",
+    "id": "7",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11413?size=medium",
+    "name": "Test Case",
+    "untranslatedName": "Test Case",
+    "subtask": false,
+    "avatarId": 11413,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11208",
+    "id": "11208",
+    "description": "This is the Xray Test Issue Type. Used to define test cases of different types that can be executed multiple times using Test Execution issues.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15829?size=medium",
+    "name": "Test",
+    "untranslatedName": "Test",
+    "subtask": false,
+    "avatarId": 15829,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11211",
+    "id": "11211",
+    "description": "This is the Xray Test Execution Issue Type. Used to execute test cases already defined.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15827?size=medium",
+    "name": "Test Execution",
+    "untranslatedName": "Test Execution",
+    "subtask": false,
+    "avatarId": 15827,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11229",
+    "id": "11229",
+    "description": "Novels consist of a group of sub-tasks that relate to a feature/enhancement or technical story, once complete, ready to release (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10300?size=medium",
+    "name": "Novel",
+    "untranslatedName": "Novel",
+    "subtask": false,
+    "avatarId": 10300,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11225",
+    "id": "11225",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10300?size=medium",
+    "name": "PM Task",
+    "untranslatedName": "PM Task",
+    "subtask": false,
+    "avatarId": 10300,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12654",
+    "id": "12654",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11420?size=medium",
+    "name": "Service Request with optional approval step",
+    "untranslatedName": "Service Request with optional approval step",
+    "subtask": false,
+    "avatarId": 11420,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11157",
+    "id": "11157",
+    "description": "Have a question? Submit it here.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15795?size=medium",
+    "name": "Ask a question",
+    "untranslatedName": "Ask a question",
+    "subtask": false,
+    "avatarId": 15795,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12993",
+    "id": "12993",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15992?size=medium",
+    "name": "DR System Request",
+    "untranslatedName": "DR System Request",
+    "subtask": false,
+    "avatarId": 15992,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11257",
+    "id": "11257",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Code Freeze Override",
+    "untranslatedName": "Code Freeze Override",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13192",
+    "id": "13192",
+    "description": "Stories track functionality or features expressed as user goals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11164",
+    "id": "11164",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13159",
+    "id": "13159",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17975"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11161",
+    "id": "11161",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17144?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 17144,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11148",
+    "id": "11148",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17144?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 17144,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15614"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11193",
+    "id": "11193",
+    "description": "Tasks track small, distinct pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12723",
+    "id": "12723",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11488",
+    "id": "11488",
+    "description": "Tasks track small, distinct pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11214",
+    "id": "11214",
+    "description": "For general requests",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15814?size=medium",
+    "name": "General request",
+    "untranslatedName": "General request",
+    "subtask": false,
+    "avatarId": 15814,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12757",
+    "id": "12757",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12791",
+    "id": "12791",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12894",
+    "id": "12894",
+    "description": "Stories track functionality or features expressed as user goals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/14261",
+    "id": "14261",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19043"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/14295",
+    "id": "14295",
+    "description": "Stories track functionality or features expressed as user goals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12858",
+    "id": "12858",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17133?size=medium",
+    "name": "Phase",
+    "untranslatedName": "Phase",
+    "subtask": false,
+    "avatarId": 17133,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12689",
+    "id": "12689",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17123?size=medium",
+    "name": "Program",
+    "untranslatedName": "Program",
+    "subtask": false,
+    "avatarId": 17123,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13026",
+    "id": "13026",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17134?size=medium",
+    "name": "test",
+    "untranslatedName": "test",
+    "subtask": false,
+    "avatarId": 17134,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12621",
+    "id": "12621",
+    "description": "Discovery idea",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17144?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 17144,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12690",
+    "id": "12690",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17150?size=medium",
+    "name": "Project",
+    "untranslatedName": "Project",
+    "subtask": false,
+    "avatarId": 17150,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11162",
+    "id": "11162",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11170",
+    "id": "11170",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11521",
+    "id": "11521",
+    "description": "Tenable Managed Vulnerability Issue Type",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Tenable Vulnerability",
+    "untranslatedName": "Tenable Vulnerability",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11176",
+    "id": "11176",
+    "description": "Stories track a goal or end-result.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11177",
+    "id": "11177",
+    "description": "An existing campaign needs to be updated or changed",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Change Request",
+    "untranslatedName": "Change Request",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11141",
+    "id": "11141",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Request AWS Product",
+    "untranslatedName": "Request AWS Product",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11166",
+    "id": "11166",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11169",
+    "id": "11169",
+    "description": "Research helps users track more non-tactile tasks, such as analyzing success of a project",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/12101?size=medium",
+    "name": "Research",
+    "untranslatedName": "Research",
+    "subtask": false,
+    "avatarId": 12101,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11188",
+    "id": "11188",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11175",
+    "id": "11175",
+    "description": "Research tickets most often result in insights, and further action items vs. actual implementation.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/12101?size=medium",
+    "name": "Research",
+    "untranslatedName": "Research",
+    "subtask": false,
+    "avatarId": 12101,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11184",
+    "id": "11184",
+    "description": "Document and share incident learning.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15796?size=medium",
+    "name": "[System] Post-incident review",
+    "untranslatedName": "[System] Post-incident review",
+    "subtask": false,
+    "avatarId": 15796,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11200",
+    "id": "11200",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11196",
+    "id": "11196",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11198",
+    "id": "11198",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11223",
+    "id": "11223",
+    "description": "Bugs track problems or errors.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11403?size=medium",
+    "name": "Bug",
+    "untranslatedName": "Bug",
+    "subtask": false,
+    "avatarId": 11403,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11233",
+    "id": "11233",
+    "description": "A signal from our customers, prospects, the market, our competitors or internal to Streem. (Migrated on 10 Dec 2024 03:34 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15831?size=medium",
+    "name": "Insight",
+    "untranslatedName": "Insight",
+    "subtask": false,
+    "avatarId": 15831,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11172",
+    "id": "11172",
+    "description": "A small, distinct piece of work. Usually <1-2 days of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11205",
+    "id": "11205",
+    "description": "Controls Compliance: Evidence Request from LogicGate",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Evidence Request",
+    "untranslatedName": "Evidence Request",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11219",
+    "id": "11219",
+    "description": "Bugs track problems or errors.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11403?size=medium",
+    "name": "Bug",
+    "untranslatedName": "Bug",
+    "subtask": false,
+    "avatarId": 11403,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11220",
+    "id": "11220",
+    "description": "Stories track functionality or features expressed as user goals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11216",
+    "id": "11216",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11221",
+    "id": "11221",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11206",
+    "id": "11206",
+    "description": "Controls Compliance: Corrective Action from LogicGate",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Corrective Action",
+    "untranslatedName": "Corrective Action",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11207",
+    "id": "11207",
+    "description": "Cyber RM: Risk Treatment Request from LogicGate",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Risk Treatment Request",
+    "untranslatedName": "Risk Treatment Request",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12960",
+    "id": "12960",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/12101?size=medium",
+    "name": "Idea",
+    "untranslatedName": "Idea",
+    "subtask": false,
+    "avatarId": 12101,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11587",
+    "id": "11587",
+    "description": "Bugs track problems or errors.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11403?size=medium",
+    "name": "Bug",
+    "untranslatedName": "Bug",
+    "subtask": false,
+    "avatarId": 11403,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12688",
+    "id": "12688",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17153?size=medium",
+    "name": "Key Initiatives",
+    "untranslatedName": "Key Initiatives",
+    "subtask": false,
+    "avatarId": 17153,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11202",
+    "id": "11202",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11224",
+    "id": "11224",
+    "description": "Dives are time-boxed stories to determine, how much work is needed, possible ETA, and complexities of issue at hand. (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Dive",
+    "untranslatedName": "Dive",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11228",
+    "id": "11228",
+    "description": "These stories are based around development work that is non-feature or enhancement related. (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Technical Story",
+    "untranslatedName": "Technical Story",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11204",
+    "id": "11204",
+    "description": "Stories track functionality or features expressed as user goals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11415?size=medium",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "avatarId": 11415,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11108",
+    "id": "11108",
+    "description": "For system outages or incidents. Created by Jira Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15677?size=medium",
+    "name": "Incident",
+    "untranslatedName": "Incident",
+    "subtask": false,
+    "avatarId": 15677,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/14259",
+    "id": "14259",
+    "description": "A small, distinct piece of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11418?size=medium",
+    "name": "Task",
+    "untranslatedName": "Task",
+    "subtask": false,
+    "avatarId": 11418,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11356",
+    "id": "11356",
+    "description": "The What (Objective, Outcome we are after)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17144?size=medium",
+    "name": "Initiative",
+    "untranslatedName": "Initiative",
+    "subtask": false,
+    "avatarId": 17144,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12687",
+    "id": "12687",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17131?size=medium",
+    "name": "Portfolio",
+    "untranslatedName": "Portfolio",
+    "subtask": false,
+    "avatarId": 17131,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13225",
+    "id": "13225",
+    "description": "Support required before or after launch to ensure success\n",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17163?size=medium",
+    "name": "Enablement Task",
+    "untranslatedName": "Enablement Task",
+    "subtask": false,
+    "avatarId": 17163,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/10402",
+    "id": "10402",
+    "description": "For system upgrades or alterations. Created by JIRA Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/servicedesk/issue-type-icons?icon=change",
+    "name": "Change",
+    "untranslatedName": "Change",
+    "subtask": false,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/10107",
+    "id": "10107",
+    "description": "Task centered around research on a question about applications or data. ",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/issuetypes/undefined.png",
+    "name": "Research/Spike",
+    "untranslatedName": "Research/Spike",
+    "subtask": false,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12",
+    "id": "12",
+    "description": "Created by Jira Software - do not edit or delete. Issue type for a user story.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/download/resources/com.atlassian.jira-core-project-templates:jira-softwaredevelopment-item/story.png",
+    "name": "Story",
+    "untranslatedName": "Story",
+    "subtask": false,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11112",
+    "id": "11112",
+    "description": "Submit a request or report a problem.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11420?size=medium",
+    "name": "Submit a request or incident",
+    "untranslatedName": "Submit a request or incident",
+    "subtask": false,
+    "avatarId": 11420,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11110",
+    "id": "11110",
+    "description": "Requests that may require 1 approval step",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15679?size=medium",
+    "name": "Service Request with 1-Step Approval",
+    "untranslatedName": "Service Request with 1-Step Approval",
+    "subtask": false,
+    "avatarId": 15679,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13126",
+    "id": "13126",
+    "description": "The How we are going to do it broken down by quarter\n",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/POLARIS_ISSUETYPE/avatar/17134?size=medium",
+    "name": "Feature",
+    "untranslatedName": "Feature",
+    "subtask": false,
+    "avatarId": 17134,
+    "hierarchyLevel": 0,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11109",
+    "id": "11109",
+    "description": "A request that follows ITSM workflows.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15678?size=medium",
+    "name": "Service Request",
+    "untranslatedName": "Service Request",
+    "subtask": false,
+    "avatarId": 15678,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11111",
+    "id": "11111",
+    "description": "Track underlying causes of incidents. Created by Jira Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15680?size=medium",
+    "name": "Problem",
+    "untranslatedName": "Problem",
+    "subtask": false,
+    "avatarId": 15680,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11114",
+    "id": "11114",
+    "description": "Request received from your email support channel.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15683?size=medium",
+    "name": "Emailed request",
+    "untranslatedName": "Emailed request",
+    "subtask": false,
+    "avatarId": 15683,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11136",
+    "id": "11136",
+    "description": "A request that follows ITSM workflows.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15786?size=medium",
+    "name": "[System] Service request",
+    "untranslatedName": "[System] Service request",
+    "subtask": false,
+    "avatarId": 15786,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11137",
+    "id": "11137",
+    "description": "A request that follows ITSM workflows.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15787?size=medium",
+    "name": "[System] Service request with approvals",
+    "untranslatedName": "[System] Service request with approvals",
+    "subtask": false,
+    "avatarId": 15787,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11138",
+    "id": "11138",
+    "description": "Created by Jira Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15788?size=medium",
+    "name": "[System] Change",
+    "untranslatedName": "[System] Change",
+    "subtask": false,
+    "avatarId": 15788,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11139",
+    "id": "11139",
+    "description": "Track underlying causes of incidents. Created by Jira Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15789?size=medium",
+    "name": "[System] Problem",
+    "untranslatedName": "[System] Problem",
+    "subtask": false,
+    "avatarId": 15789,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11135",
+    "id": "11135",
+    "description": "For system outages or incidents. Created by Jira Service Desk.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15785?size=medium",
+    "name": "[System] Incident",
+    "untranslatedName": "[System] Incident",
+    "subtask": false,
+    "avatarId": 15785,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11154",
+    "id": "11154",
+    "description": "A digital or physical item to be tracked.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15794?size=medium",
+    "name": "Asset",
+    "untranslatedName": "Asset",
+    "subtask": false,
+    "avatarId": 15794,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11226",
+    "id": "11226",
+    "description": "An improvement or enhancement to an existing feature or task. (Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Improvement",
+    "untranslatedName": "Improvement",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11231",
+    "id": "11231",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Design Story",
+    "untranslatedName": "Design Story",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11232",
+    "id": "11232",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Compliance",
+    "untranslatedName": "Compliance",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11423",
+    "id": "11423",
+    "description": "Tenable Managed Vulnerability Host Issue Type",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11400?size=medium",
+    "name": "Tenable Vulnerability Host",
+    "untranslatedName": "Tenable Vulnerability Host",
+    "subtask": false,
+    "avatarId": 11400,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11155",
+    "id": "11155",
+    "description": "Requests that may require up to 3 approval steps, with all steps requiring only 1 approval.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11411?size=medium",
+    "name": "Service Request with 3-Step (1-Approval) Approval",
+    "untranslatedName": "Service Request with 3-Step (1-Approval) Approval",
+    "subtask": false,
+    "avatarId": 11411,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11147",
+    "id": "11147",
+    "description": "Requests that may require up to 3 approval steps, with the 1st step requiring 2 approvals.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11413?size=medium",
+    "name": "Service Request with 3-Step (2-Approval) Approval",
+    "untranslatedName": "Service Request with 3-Step (2-Approval) Approval",
+    "subtask": false,
+    "avatarId": 11413,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11140",
+    "id": "11140",
+    "description": "Requests that may require 2 approval steps.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11410?size=medium",
+    "name": "Service Request with 2-Step Approval",
+    "untranslatedName": "Service Request with 2-Step Approval",
+    "subtask": false,
+    "avatarId": 11410,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11185",
+    "id": "11185",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15798?size=medium",
+    "name": "Deploy Equipment Request",
+    "untranslatedName": "Deploy Equipment Request",
+    "subtask": false,
+    "avatarId": 15798,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11186",
+    "id": "11186",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15799?size=medium",
+    "name": "Return Equipment Request",
+    "untranslatedName": "Return Equipment Request",
+    "subtask": false,
+    "avatarId": 15799,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11554",
+    "id": "11554",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15998?size=medium",
+    "name": "Service Request with 4-Step Approval",
+    "untranslatedName": "Service Request with 4-Step Approval",
+    "subtask": false,
+    "avatarId": 15998,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11187",
+    "id": "11187",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15800?size=medium",
+    "name": "Replace Equipment Request",
+    "untranslatedName": "Replace Equipment Request",
+    "subtask": false,
+    "avatarId": 15800,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11323",
+    "id": "11323",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11420?size=medium",
+    "name": "Simple Approval Request",
+    "untranslatedName": "Simple Approval Request",
+    "subtask": false,
+    "avatarId": 11420,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11389",
+    "id": "11389",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15996?size=medium",
+    "name": "Company Risk Acceptance Request",
+    "untranslatedName": "Company Risk Acceptance Request",
+    "subtask": false,
+    "avatarId": 15996,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11212",
+    "id": "11212",
+    "description": "This is the Xray Precondition Issue Type. Used to abstract common actions that must be ensured before the test case execution. A Precondition can be associated with multiple test cases.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15811?size=medium",
+    "name": "Precondition",
+    "untranslatedName": "Precondition",
+    "subtask": false,
+    "avatarId": 15811,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11209",
+    "id": "11209",
+    "description": "This is the Xray Test Set Issue Type. Creates a group of test cases. Used to associate all included Tests with other Xray issue types like Test Execution and Test Plan. A Test Set can also be associated with a requirement issue to provide coverage and test status.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15825?size=medium",
+    "name": "Test Set",
+    "untranslatedName": "Test Set",
+    "subtask": false,
+    "avatarId": 15825,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11210",
+    "id": "11210",
+    "description": "This is the Xray Test Plan Issue Type. Used to define the scope of test cases for a given test campaign and to aggregate all executions for those tests displaying the latest result for each test case.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/15826?size=medium",
+    "name": "Test Plan",
+    "untranslatedName": "Test Plan",
+    "subtask": false,
+    "avatarId": 15826,
+    "hierarchyLevel": 0
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13",
+    "id": "13",
+    "description": "Created by Jira Software - do not edit or delete. Issue type for a big user story that needs to be broken down.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/13093",
+    "id": "13093",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11404?size=medium",
+    "name": "Risk",
+    "untranslatedName": "Risk",
+    "subtask": false,
+    "avatarId": 11404,
+    "hierarchyLevel": 1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12927",
+    "id": "12927",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11413?size=medium",
+    "name": "Planning",
+    "untranslatedName": "Planning",
+    "subtask": false,
+    "avatarId": 11413,
+    "hierarchyLevel": 1
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12756",
+    "id": "12756",
+    "description": "Track larger pieces of work with a series of related tasks.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11174",
+    "id": "11174",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11168",
+    "id": "11168",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "New Campaign Creation",
+    "untranslatedName": "New Campaign Creation",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11194",
+    "id": "11194",
+    "description": "Epics track collections of related bugs, stories, and tasks.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11218",
+    "id": "11218",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11489",
+    "id": "11489",
+    "description": "Epics track collections of related bugs, stories, and tasks.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11455",
+    "id": "11455",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/14294",
+    "id": "14294",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/12825",
+    "id": "12825",
+    "description": "Epics track large pieces of work.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/11407?size=medium",
+    "name": "Epic",
+    "untranslatedName": "Epic",
+    "subtask": false,
+    "avatarId": 11407,
+    "hierarchyLevel": 1,
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/issuetype/11000",
+    "id": "11000",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/12101?size=medium",
+    "name": "Initiative",
+    "untranslatedName": "Initiative",
+    "subtask": false,
+    "avatarId": 12101,
+    "hierarchyLevel": 2
+  }
+]

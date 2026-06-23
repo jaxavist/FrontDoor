@@ -1,0 +1,74 @@
+[
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/10000",
+    "statusColor": "#ff0000",
+    "description": "Serious problem that could block progress.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/critical.svg",
+    "name": "High",
+    "id": "10000"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/10001",
+    "statusColor": "#f79232",
+    "description": "Has the potential to affect progress.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/medium.svg",
+    "name": "Medium",
+    "id": "10001"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/10002",
+    "statusColor": "#33cc00",
+    "description": "Minor problem or easily worked around.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/low.svg",
+    "name": "Low",
+    "id": "10002"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/10003",
+    "statusColor": "#990000",
+    "description": "This problem blocks production",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/blocker.svg",
+    "name": "Critical",
+    "id": "10003"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/1",
+    "statusColor": "#ff0000",
+    "description": "Blocks development and/or testing work, production could not run.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/blocker_new.svg",
+    "name": "1 - Blocker",
+    "id": "1"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/2",
+    "statusColor": "#ff9900",
+    "description": "Crashes, loss of data, severe memory leak.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/critical_new.svg",
+    "name": "2 - Critical",
+    "id": "2"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/3",
+    "statusColor": "#ffff00",
+    "description": "Major loss of function; workaround is possible, but difficult.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/major_new.svg",
+    "name": "3 - Major",
+    "id": "3"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/4",
+    "statusColor": "#00cc00",
+    "description": "Minor loss of function, missing non-essential content, or other problem where easy workaround is present.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/minor_new.svg",
+    "name": "4 - Minor",
+    "id": "4"
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/priority/5",
+    "statusColor": "#00ccff",
+    "description": "Cosmetic problem like mispelled words or misaligned text.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/priorities/trivial_new.svg",
+    "name": "5 - Trivial",
+    "id": "5"
+  }
+]

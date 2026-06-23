@@ -1,0 +1,2795 @@
+[
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13375",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "LEGAL PRIORITY",
+    "untranslatedName": "LEGAL PRIORITY",
+    "id": "13375",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13265",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Stakeholder Review",
+    "untranslatedName": "Stakeholder Review",
+    "id": "13265",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13288",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Pulling Performance",
+    "untranslatedName": "Pulling Performance",
+    "id": "13288",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13289",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Code Review / Proofing",
+    "untranslatedName": "Code Review / Proofing",
+    "id": "13289",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13297",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Final Review (peer, proofing))",
+    "untranslatedName": "Final Review (peer, proofing))",
+    "id": "13297",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13298",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13298",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13299",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "To Do",
+    "untranslatedName": "To Do",
+    "id": "13299",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13300",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Ongoing",
+    "untranslatedName": "Ongoing",
+    "id": "13300",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13301",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Launched",
+    "untranslatedName": "Launched",
+    "id": "13301",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13303",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Blocked",
+    "untranslatedName": "Blocked",
+    "id": "13303",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13306",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Ready for Dev",
+    "untranslatedName": "Ready for Dev",
+    "id": "13306",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13307",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "FTDR Review",
+    "untranslatedName": "FTDR Review",
+    "id": "13307",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13309",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Blocked",
+    "untranslatedName": "Blocked",
+    "id": "13309",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13310",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Parking Lot",
+    "untranslatedName": "Parking Lot",
+    "id": "13310",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13311",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "TO DO",
+    "untranslatedName": "TO DO",
+    "id": "13311",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13312",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "hypercare",
+    "untranslatedName": "hypercare",
+    "id": "13312",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13328",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Archive",
+    "untranslatedName": "Archive",
+    "id": "13328",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13337",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "UAT",
+    "untranslatedName": "UAT",
+    "id": "13337",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13339",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Push to Prod",
+    "untranslatedName": "Push to Prod",
+    "id": "13339",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13342",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Blocked",
+    "untranslatedName": "Blocked",
+    "id": "13342",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13340",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Chemistry Non-Dev",
+    "untranslatedName": "Chemistry Non-Dev",
+    "id": "13340",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13341",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Post-Prod QA",
+    "untranslatedName": "Post-Prod QA",
+    "id": "13341",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13264",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Testing",
+    "untranslatedName": "Testing",
+    "id": "13264",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/1",
+    "description": "The work item is open and ready for the assignee to start work on it.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/open.png",
+    "name": "Open",
+    "untranslatedName": "Open",
+    "id": "1",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/3",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/inprogress.png",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "3",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/4",
+    "description": "This work item was once resolved, but the resolution was deemed incorrect. From here the work items are either reopened, or are closed.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/reopened.png",
+    "name": "Reopened",
+    "untranslatedName": "Reopened",
+    "id": "4",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10011",
+    "description": "The issue, project or feature is considered finished, the resolution is verified correct by the stakeholder. Issues which are closed can be reopened.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/closed.png",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "10011",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/6",
+    "description": "The work item is considered finished, the resolution is correct. work items which are closed can be reopened.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/closed.png",
+    "name": "Closed",
+    "untranslatedName": "Closed",
+    "id": "6",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10000",
+    "description": "Test case has Passed current round of testing",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/download/resources/com.go2group.jira.plugin.synapse/synapse/css/images/icons/status_passed.gif",
+    "name": "Passed",
+    "untranslatedName": "Passed",
+    "id": "10000",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10001",
+    "description": "Defect found.  Subtask must be entered for this defect.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/download/resources/com.go2group.jira.plugin.synapse/synapse/css/images/icons/status_failed.gif",
+    "name": "Defect Found",
+    "untranslatedName": "Defect Found",
+    "id": "10001",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10006",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/status_generic.gif",
+    "name": "Blocked",
+    "untranslatedName": "Blocked",
+    "id": "10006",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10012",
+    "description": "This item is pending scheduling or assignment.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/open.png",
+    "name": "To Do",
+    "untranslatedName": "To Do",
+    "id": "10012",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10029",
+    "description": "Project or Feature work has been terminated prior to completion of the project.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Cancelled",
+    "untranslatedName": "Cancelled",
+    "id": "10029",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10165",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "In QA",
+    "untranslatedName": "In QA",
+    "id": "10165",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10323",
+    "description": "These are requests that have not been looked at.  Most should be new.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Backlog",
+    "untranslatedName": "Backlog",
+    "id": "10323",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10424",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Code Review",
+    "untranslatedName": "Code Review",
+    "id": "10424",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10537",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Selected for Development",
+    "untranslatedName": "Selected for Development",
+    "id": "10537",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10549",
+    "description": "Waiting on Other Team",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "WOOT",
+    "untranslatedName": "WOOT",
+    "id": "10549",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/10727",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Research",
+    "untranslatedName": "Research",
+    "id": "10727",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11027",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready",
+    "untranslatedName": "Ready",
+    "id": "11027",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11044",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Analysis",
+    "untranslatedName": "Analysis",
+    "id": "11044",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11045",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Equip/Telco Buffer",
+    "untranslatedName": "Equip/Telco Buffer",
+    "id": "11045",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11047",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Testing/UAT",
+    "untranslatedName": "Testing/UAT",
+    "id": "11047",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11048",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Handoff to Run",
+    "untranslatedName": "Handoff to Run",
+    "id": "11048",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11126",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "QA",
+    "untranslatedName": "QA",
+    "id": "11126",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11133",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "UAT",
+    "untranslatedName": "UAT",
+    "id": "11133",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11235",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Design",
+    "untranslatedName": "Design",
+    "id": "11235",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11723",
+    "description": "Test case has Passed current round of testing",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready for Deployment",
+    "untranslatedName": "Ready for Deployment",
+    "id": "11723",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/11930",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Support",
+    "untranslatedName": "Support",
+    "id": "11930",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12623",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Submit forms to contractor",
+    "untranslatedName": "Submit forms to contractor",
+    "id": "12623",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12624",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Partial Forms Received",
+    "untranslatedName": "Partial Forms Received",
+    "id": "12624",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12625",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Enrollment Packet Complete",
+    "untranslatedName": "Enrollment Packet Complete",
+    "id": "12625",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12626",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Sent to Contrel Rep for Vendor ID",
+    "untranslatedName": "Sent to Contrel Rep for Vendor ID",
+    "id": "12626",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12627",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "License and Insurance Not Approved",
+    "untranslatedName": "License and Insurance Not Approved",
+    "id": "12627",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12628",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "License and Insurance Approved",
+    "untranslatedName": "License and Insurance Approved",
+    "id": "12628",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12629",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Onboarding (E-learning, Vendor Portal, Welcome Call)",
+    "untranslatedName": "Onboarding (E-learning, Vendor Portal, Welcome Call)",
+    "id": "12629",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12630",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Activated/ Completed",
+    "untranslatedName": "Activated/ Completed",
+    "id": "12630",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12631",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Not Interested",
+    "untranslatedName": "Not Interested",
+    "id": "12631",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12633",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Potential Future Lead",
+    "untranslatedName": "Potential Future Lead",
+    "id": "12633",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/12640",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Contractor Leads",
+    "untranslatedName": "Contractor Leads",
+    "id": "12640",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13023",
+    "description": "This status is managed internally by Jira Software",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Business Requirements",
+    "untranslatedName": "Business Requirements",
+    "id": "13023",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13024",
+    "description": "This status is managed internally by Jira Software",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Documentation",
+    "untranslatedName": "Documentation",
+    "id": "13024",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13025",
+    "description": "This status is managed internally by Jira Software",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Testing",
+    "untranslatedName": "Testing",
+    "id": "13025",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13104",
+    "description": "This status is managed internally by Jira Software",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Processing Data",
+    "untranslatedName": "Processing Data",
+    "id": "13104",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13105",
+    "description": "This status is managed internally by Jira Software",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Compiling Results",
+    "untranslatedName": "Compiling Results",
+    "id": "13105",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13106",
+    "description": "For Contractor Onboarding",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "No Need At This Time",
+    "untranslatedName": "No Need At This Time",
+    "id": "13106",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13112",
+    "description": "A resolution has been taken, and it's awaiting verification by the reporter. From here work items are either reopened, or are closed.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/status_generic.gif",
+    "name": "Resolved",
+    "untranslatedName": "Resolved",
+    "id": "13112",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13113",
+    "description": "This was auto-generated by Jira Service Desk during workflow import",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/status_generic.gif",
+    "name": "Canceled",
+    "untranslatedName": "Canceled",
+    "id": "13113",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13131",
+    "description": "This was auto-generated by Jira Service Desk during workflow import",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/status_generic.gif",
+    "name": "Review",
+    "untranslatedName": "Review",
+    "id": "13131",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13182",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/status_generic.gif",
+    "name": "In Review",
+    "untranslatedName": "In Review",
+    "id": "13182",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13209",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Completed",
+    "untranslatedName": "Completed",
+    "id": "13209",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13210",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Discovery / Impact",
+    "untranslatedName": "Discovery / Impact",
+    "id": "13210",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13211",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Parking lot",
+    "untranslatedName": "Parking lot",
+    "id": "13211",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13212",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Ready for delivery / QA",
+    "untranslatedName": "Ready for delivery / QA",
+    "id": "13212",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13213",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Live",
+    "untranslatedName": "Live",
+    "id": "13213",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13214",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Prioritized",
+    "untranslatedName": "Prioritized",
+    "id": "13214",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13215",
+    "description": "This work item is being actively worked on at the moment by the assignee.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13215",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13233",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "QA-Dev",
+    "untranslatedName": "QA-Dev",
+    "id": "13233",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13234",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Test Case Review",
+    "untranslatedName": "Test Case Review",
+    "id": "13234",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13235",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Backlog",
+    "untranslatedName": "Backlog",
+    "id": "13235",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13236",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Dev In Progress",
+    "untranslatedName": "Dev In Progress",
+    "id": "13236",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13237",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13237",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13238",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Blocked/Parking Lot",
+    "untranslatedName": "Blocked/Parking Lot",
+    "id": "13238",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13239",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Cancelled",
+    "untranslatedName": "Cancelled",
+    "id": "13239",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13250",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready to Deploy to Test",
+    "untranslatedName": "Ready to Deploy to Test",
+    "id": "13250",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13255",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready for Merge",
+    "untranslatedName": "Ready for Merge",
+    "id": "13255",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13256",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Branch Testing",
+    "untranslatedName": "Branch Testing",
+    "id": "13256",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13257",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Stakeholder Review",
+    "untranslatedName": "Stakeholder Review",
+    "id": "13257",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13259",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "On Hold",
+    "untranslatedName": "On Hold",
+    "id": "13259",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13261",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Backlog",
+    "untranslatedName": "Backlog",
+    "id": "13261",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13262",
+    "description": "This work item is being actively worked on at the moment by the assignee.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13262",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13263",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13263",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13279",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Backlog",
+    "untranslatedName": "Backlog",
+    "id": "13279",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13280",
+    "description": "This work item is being actively worked on at the moment by the assignee.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13280",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13281",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13281",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13294",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Backlog",
+    "untranslatedName": "Backlog",
+    "id": "13294",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13296",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13296",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13308",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "UI Design",
+    "untranslatedName": "UI Design",
+    "id": "13308",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13325",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "backlog",
+    "untranslatedName": "backlog",
+    "id": "13325",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13326",
+    "description": "This work item is being actively worked on at the moment by the assignee.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13326",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13327",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13327",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13417",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "To Do",
+    "untranslatedName": "To Do",
+    "id": "13417",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13418",
+    "description": "This work item is being actively worked on at the moment by the assignee.",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In Progress",
+    "untranslatedName": "In Progress",
+    "id": "13418",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13419",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "13419",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13420",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Reviewed",
+    "untranslatedName": "Reviewed",
+    "id": "13420",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13606",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Monitoring / Follow-Up",
+    "untranslatedName": "Monitoring / Follow-Up",
+    "id": "13606",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13705",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Reported",
+    "untranslatedName": "Reported",
+    "id": "13705",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13706",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Investigating",
+    "untranslatedName": "Investigating",
+    "id": "13706",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13707",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Fixing",
+    "untranslatedName": "Fixing",
+    "id": "13707",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13738",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Cancelled",
+    "untranslatedName": "Cancelled",
+    "id": "13738",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13771",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Ready for Launch",
+    "untranslatedName": "Ready for Launch",
+    "id": "13771",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13837",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "On Deck",
+    "untranslatedName": "On Deck",
+    "id": "13837",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13870",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Waiting on Vendor",
+    "untranslatedName": "Waiting on Vendor",
+    "id": "13870",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13903",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "UAT",
+    "untranslatedName": "UAT",
+    "id": "13903",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13936",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Waiting For Data",
+    "untranslatedName": "Waiting For Data",
+    "id": "13936",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/13969",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Channel QA",
+    "untranslatedName": "Channel QA",
+    "id": "13969",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15003",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "15003",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15004",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Discovery",
+    "untranslatedName": "Discovery",
+    "id": "15004",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15005",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Parking lot",
+    "untranslatedName": "Parking lot",
+    "id": "15005",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15006",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Planning",
+    "untranslatedName": "Planning",
+    "id": "15006",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15007",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Execution",
+    "untranslatedName": "Execution",
+    "id": "15007",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15008",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Ideation",
+    "untranslatedName": "Ideation",
+    "id": "15008",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15009",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Measurement",
+    "untranslatedName": "Measurement",
+    "id": "15009",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15042",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Cancelled",
+    "untranslatedName": "Cancelled",
+    "id": "15042",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15075",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Hypercare / Post Launch",
+    "untranslatedName": "Hypercare / Post Launch",
+    "id": "15075",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15108",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Hypercare",
+    "untranslatedName": "Hypercare",
+    "id": "15108",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15109",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready to Launch",
+    "untranslatedName": "Ready to Launch",
+    "id": "15109",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15142",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Done",
+    "untranslatedName": "Done",
+    "id": "15142",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15143",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Parking lot",
+    "untranslatedName": "Parking lot",
+    "id": "15143",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15144",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Ready for delivery",
+    "untranslatedName": "Ready for delivery",
+    "id": "15144",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15145",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Discovery",
+    "untranslatedName": "Discovery",
+    "id": "15145",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15146",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Impact",
+    "untranslatedName": "Impact",
+    "id": "15146",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15147",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Delivery",
+    "untranslatedName": "Delivery",
+    "id": "15147",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15220",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "New Submission",
+    "untranslatedName": "New Submission",
+    "id": "15220",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15254",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Moved to Roadmap",
+    "untranslatedName": "Moved to Roadmap",
+    "id": "15254",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15287",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Under Review",
+    "untranslatedName": "Under Review",
+    "id": "15287",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15355",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Scope Review",
+    "untranslatedName": "Scope Review",
+    "id": "15355",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15356",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/images/icons/statuses/generic.png",
+    "name": "Excluded",
+    "untranslatedName": "Excluded",
+    "id": "15356",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15357",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Compatibility Review",
+    "untranslatedName": "Compatibility Review",
+    "id": "15357",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15358",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Manual Review Required",
+    "untranslatedName": "Manual Review Required",
+    "id": "15358",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15359",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Execution Phase",
+    "untranslatedName": "Execution Phase",
+    "id": "15359",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15360",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Operational",
+    "untranslatedName": "Operational",
+    "id": "15360",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15393",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Cancelled",
+    "untranslatedName": "Cancelled",
+    "id": "15393",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/3",
+      "id": 3,
+      "key": "done",
+      "colorName": "green",
+      "name": "Done"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15460",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Identified",
+    "untranslatedName": "Identified",
+    "id": "15460",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/15493",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "HOLD",
+    "untranslatedName": "HOLD",
+    "id": "15493",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16601",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "New",
+    "untranslatedName": "New",
+    "id": "16601",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16609",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Paused",
+    "untranslatedName": "Paused",
+    "id": "16609",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16610",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Reviewed",
+    "untranslatedName": "Reviewed",
+    "id": "16610",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16611",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "In-Progress",
+    "untranslatedName": "In-Progress",
+    "id": "16611",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16612",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Testing",
+    "untranslatedName": "Testing",
+    "id": "16612",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16616",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Implemented",
+    "untranslatedName": "Implemented",
+    "id": "16616",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/4",
+      "id": 4,
+      "key": "indeterminate",
+      "colorName": "yellow",
+      "name": "In Progress"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16651",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Roadmap",
+    "untranslatedName": "Roadmap",
+    "id": "16651",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/status/16652",
+    "description": "",
+    "iconUrl": "https://ftdr-sandbox-438.atlassian.net/",
+    "name": "Complete / Waiting Launch",
+    "untranslatedName": "Complete / Waiting Launch",
+    "id": "16652",
+    "statusCategory": {
+      "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  }
+]

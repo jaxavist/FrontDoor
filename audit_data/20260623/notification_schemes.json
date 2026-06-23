@@ -1,0 +1,353 @@
+[
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11117,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11117",
+    "name": "ABAHS: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11135,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11135",
+    "name": "ARC: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 10502,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/10502",
+    "name": "BSC Non-SDLC Notification Scheme",
+    "description": "This Notification Scheme is used for non-SDLC groups"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11169,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11169",
+    "name": "CONX: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11121,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11121",
+    "name": "CRMOPS: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 10000,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/10000",
+    "name": "Default Notification Scheme"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11136,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11136",
+    "name": "Default Notification Scheme (migrated)",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11118,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11118",
+    "name": "Default Scheme w/ Project Lead on Create",
+    "description": "The same as the normal default, with the addition that the project lead is notified on issue create."
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 12269,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/12269",
+    "name": "FPMD: Simplified Notification Scheme",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11137,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11137",
+    "name": "IN: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 12302,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/12302",
+    "name": "INDOBJ: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 12401,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/12401",
+    "name": "INNOV: Simplified Notification Scheme",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17975"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 12335,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/12335",
+    "name": "JID26: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11102,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11102",
+    "name": "Jira Service Desk Project Notification Scheme",
+    "description": "Only for JSD Projects"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11132,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11132",
+    "name": "LCM: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11130,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11130",
+    "name": "LCMM: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11129,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11129",
+    "name": "LCMNM: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11122,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11122",
+    "name": "LEGAGMT: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11119,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11119",
+    "name": "LEGPROJ: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11126,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11126",
+    "name": "LIFEOPS: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11131,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11131",
+    "name": "LMMMO: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11123,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11123",
+    "name": "MKTG: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11125,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11125",
+    "name": "No Notifications",
+    "description": "A scheme that will never send notifications"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 13436,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/13436",
+    "name": "PLTRDMP: Simplified Notification Scheme",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19043"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11107,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11107",
+    "name": "PRODDEMO: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15614"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 13435,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/13435",
+    "name": "PTTEST: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11202,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11202",
+    "name": "REALDUMB: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11000,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11000",
+    "name": "Shield Force Notification Scheme",
+    "description": "Update Jira ticket notifications go out to all admins"
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 12236,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/12236",
+    "name": "SPRDMP: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11120,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11120",
+    "name": "TMTEST: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11128,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11128",
+    "name": "TMTKANB: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "expand": "notificationSchemeEvents,user,group,projectRole,field,all",
+    "id": 11134,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/api/3/notificationscheme/11134",
+    "name": "WEBOPS: Simplified Notification Scheme",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  }
+]

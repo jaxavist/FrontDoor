@@ -7,9 +7,23 @@
 
 set -euo pipefail
 
-DATA_DIR="${1:?Usage: $0 <audit_data_dir>}"
-REPORT_DIR="${DATA_DIR}/reports"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+
+# Find most recent data directory, or accept explicit argument
+if [[ -n "${1:-}" ]]; then
+    DATA_DIR="$1"
+else
+    DATA_DIR=$(ls -td "${PROJECT_ROOT}/data/"*/ 2>/dev/null | head -1)
+    DATA_DIR="${DATA_DIR%/}"
+fi
+[[ -d "$DATA_DIR" ]] || { echo "No data directory found. Run 01_collect_config_data.sh first."; exit 1; }
+
+REPORT_DIR="${PROJECT_ROOT}/reports"
 mkdir -p "$REPORT_DIR"
+
+log "Using data from: $DATA_DIR"
+log "Writing reports to: $REPORT_DIR"
 
 log() { echo "[$(date '+%H:%M:%S')] $*"; }
 

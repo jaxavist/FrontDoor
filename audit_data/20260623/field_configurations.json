@@ -1,0 +1,133 @@
+[
+  {
+    "id": 10000,
+    "name": "Default Field Configuration",
+    "description": "The default field configuration",
+    "isDefault": true
+  },
+  {
+    "id": 10300,
+    "name": "AHS Field Configuration",
+    "description": "AHS field configuration for projects"
+  },
+  {
+    "id": 10401,
+    "name": "AHS SVM Admin Field Configuration",
+    "description": "AHS field configuration for the SVM Admin project - simplified list of fields"
+  },
+  {
+    "id": 10402,
+    "name": "FSG Field Configuration",
+    "description": "Merry Maids, Amerispec, and Furniture Medic field configuration"
+  },
+  {
+    "id": 10404,
+    "name": "AHS Ops and RTB Field Configuration",
+    "description": "AHS field configuration for Ops and RTB project types"
+  },
+  {
+    "id": 10500,
+    "name": "BSC Field Configuration",
+    "description": "BSC field configuration for projects; contains custom fields for Major Systems and Bus/Dept Areas"
+  },
+  {
+    "id": 10803,
+    "name": "BSC Default Field Configuration for Non-SDLC Group",
+    "description": "This is the default field configuration for Non-SDLC groups using JIRA that are not booking time"
+  },
+  {
+    "id": 11300,
+    "name": "Remedy Default Field Configuration",
+    "description": "This is the default field configuration for the Remedy Team"
+  },
+  {
+    "id": 11602,
+    "name": "BSC RTB Default Field Configuration for Non-SDLC Group - Booking Time",
+    "description": "This is the default field configuration for Non-SDLC groups using JIRA that ARE booking time to RTB"
+  },
+  {
+    "id": 11800,
+    "name": "Contractor Onboarding field config",
+    "description": ""
+  },
+  {
+    "id": 12100,
+    "name": "Generic Field Configuration",
+    "description": "Used for generic/default Field Configuration"
+  },
+  {
+    "id": 12311,
+    "name": "Jira Service Desk Field Configuration for Jira Service Management Projects",
+    "description": "This is the generic Jira Service Management Field Configuration "
+  },
+  {
+    "id": 12362,
+    "name": "Jira Service Management Field Configuration for Project CPI",
+    "description": "This Jira Service Management Field Configuration was generated for Project CPI"
+  },
+  {
+    "id": 12385,
+    "name": "Jira Service Management Field Configuration for Project SRSE",
+    "description": "This Jira Service Management Field Configuration was generated for Project SRSE"
+  },
+  {
+    "id": 12400,
+    "name": "Jira Service Management Field Configuration for Project DEPOT",
+    "description": "This Jira Service Management Field Configuration was generated for Project DEPOT"
+  },
+  {
+    "id": 12402,
+    "name": "FCP/AUTHO Bug Field Config",
+    "description": "Based on generic"
+  },
+  {
+    "id": 12403,
+    "name": "Jira Service Management Field Configuration for Project FTDRPROJ",
+    "description": "This Jira Service Management Field Configuration was generated for Project FTDRPROJ"
+  },
+  {
+    "id": 12404,
+    "name": "zArchive Field Config",
+    "description": ""
+  },
+  {
+    "id": 12429,
+    "name": "Jira Service Management Field Configuration for Project SECHUB",
+    "description": "This Jira Service Management Field Configuration was generated for Project SECHUB"
+  },
+  {
+    "id": 12442,
+    "name": "Default Field Layout (migrated)",
+    "description": "Default Field Layout, generated during migration. (Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 12475,
+    "name": "Jira Service Management Field Configuration for Project ACC210",
+    "description": "This Jira Service Management Field Configuration was generated for Project ACC210"
+  },
+  {
+    "id": 12541,
+    "name": "Jira Service Management Field Configuration for Project PPC",
+    "description": "This Jira Service Management Field Configuration was generated for Project PPC"
+  },
+  {
+    "id": 12673,
+    "name": "Jira Service Management Field Configuration for Project OMI1121",
+    "description": "This Jira Service Management Field Configuration was generated for Project OMI1121"
+  },
+  {
+    "id": 14050,
+    "name": "PMO Initiative Field Configuration",
+    "description": ""
+  },
+  {
+    "id": 14118,
+    "name": "PMO Risk Field Configuration",
+    "description": ""
+  },
+  {
+    "id": 14184,
+    "name": "Generic Field Config w/ Required Parent",
+    "description": "Used for generic/default Field Configuration, but requires a parent attached"
+  }
+]

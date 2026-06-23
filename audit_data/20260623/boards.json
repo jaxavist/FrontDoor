@@ -1,0 +1,2504 @@
+[
+  {
+    "id": 1079,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1079",
+    "name": "AR CashApp - Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 15622,
+      "displayName": "AR CashApp (CASHAPP)",
+      "projectName": "AR CashApp",
+      "projectKey": "CASHAPP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15600?size=small",
+      "name": "AR CashApp (CASHAPP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 875,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/875",
+    "name": "Connect",
+    "type": "scrum",
+    "location": {
+      "projectId": 15006,
+      "displayName": "AWS Connect (AWSC)",
+      "projectName": "AWS Connect",
+      "projectKey": "AWSC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "AWS Connect (AWSC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1011,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1011",
+    "name": "DBA Team - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 14808,
+      "displayName": "DBA Team (DBAT)",
+      "projectName": "DBA Team",
+      "projectKey": "DBAT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15724?size=small",
+      "name": "DBA Team (DBAT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1080,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1080",
+    "name": "Commercial Partners - Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15624,
+      "displayName": "Commercial Partners (CP)",
+      "projectName": "Commercial Partners",
+      "projectKey": "CP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15619?size=small",
+      "name": "Commercial Partners (CP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1150,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1150",
+    "name": "Big Ideas",
+    "type": "kanban",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1436,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1436",
+    "name": "CHEM Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15815,
+      "displayName": "Chemistry Development (CHEM)",
+      "projectName": "Chemistry Development",
+      "projectKey": "CHEM",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15604?size=small",
+      "name": "Chemistry Development (CHEM)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 986,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/986",
+    "name": "TempGlb",
+    "type": "kanban",
+    "location": {
+      "projectId": 13800,
+      "displayName": "Real Estate & Commercial (ARE)",
+      "projectName": "Real Estate & Commercial",
+      "projectKey": "ARE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Real Estate & Commercial (ARE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1183,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1183",
+    "name": "UX Designs Candace",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1081,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1081",
+    "name": "Data Science and Machine Learning- Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 15625,
+      "displayName": "Data Science and Machine Learning (DSML)",
+      "projectName": "Data Science and Machine Learning",
+      "projectKey": "DSML",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Data Science and Machine Learning (DSML)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1095,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1095",
+    "name": "Appliance Portal - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15637,
+      "displayName": "Appliance Portal (APPL)",
+      "projectName": "Appliance Portal",
+      "projectKey": "APPL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15604?size=small",
+      "name": "Appliance Portal (APPL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1090,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1090",
+    "name": "Externalizing Dispatch - Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15634,
+      "displayName": "Externalizing Dispatch (EDP)",
+      "projectName": "Externalizing Dispatch",
+      "projectKey": "EDP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15603?size=small",
+      "name": "Externalizing Dispatch (EDP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1154,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1154",
+    "name": "ISAUTO Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15667,
+      "displayName": "Information Security Automations (ISAUTO)",
+      "projectName": "Information Security Automations",
+      "projectKey": "ISAUTO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15621?size=small",
+      "name": "Information Security Automations (ISAUTO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1153,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1153",
+    "name": "TEST Default Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15664,
+      "displayName": "Jira Software Testing Sandbox (TESTSOFT)",
+      "projectName": "Jira Software Testing Sandbox",
+      "projectKey": "TESTSOFT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "Jira Software Testing Sandbox (TESTSOFT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1175,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1175",
+    "name": "Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15664,
+      "displayName": "Jira Software Testing Sandbox (TESTSOFT)",
+      "projectName": "Jira Software Testing Sandbox",
+      "projectKey": "TESTSOFT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "Jira Software Testing Sandbox (TESTSOFT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1068,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1068",
+    "name": "Pricing - Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15609,
+      "displayName": "Pricing (PRICE)",
+      "projectName": "Pricing",
+      "projectKey": "PRICE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15602?size=small",
+      "name": "Pricing (PRICE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1120,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1120",
+    "name": "ONDPRO Mobile",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 998,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/998",
+    "name": "[WORKING] SEO Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15558,
+      "displayName": "Frontdoor SEO (SEO)",
+      "projectName": "Frontdoor SEO",
+      "projectKey": "SEO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15602?size=small",
+      "name": "Frontdoor SEO (SEO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1045,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1045",
+    "name": "Product Update and Development - Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15591,
+      "displayName": "Product Update and Development (PUD)",
+      "projectName": "Product Update and Development",
+      "projectKey": "PUD",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Product Update and Development (PUD)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 997,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/997",
+    "name": "Frontdoor Pro",
+    "type": "scrum",
+    "location": {
+      "projectId": 15557,
+      "displayName": "Frontdoor Pro (OND)",
+      "projectName": "Frontdoor Pro",
+      "projectKey": "OND",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15620?size=small",
+      "name": "Frontdoor Pro (OND)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1038,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1038",
+    "name": "Rebeccas TEST 2",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1122,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1122",
+    "name": "ONDPRO - Dispatch Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15642,
+      "displayName": "OnDemand Pro Vendor Experience (ONDPRO)",
+      "projectName": "OnDemand Pro Vendor Experience",
+      "projectKey": "ONDPRO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "OnDemand Pro Vendor Experience (ONDPRO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1083,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1083",
+    "name": "AHS Business Analytics - Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15628,
+      "displayName": "AHS Business Analytics (AHSBA)",
+      "projectName": "AHS Business Analytics",
+      "projectKey": "AHSBA",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15610?size=small",
+      "name": "AHS Business Analytics (AHSBA)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1086,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1086",
+    "name": "test",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1131,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1131",
+    "name": "RE Product Launch",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1165,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1165",
+    "name": "Membership Experience Team",
+    "type": "kanban",
+    "isPrivate": false
+  },
+  {
+    "id": 1164,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1164",
+    "name": "Corp IT Project",
+    "type": "kanban",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1166,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1166",
+    "name": "InfoSec and CT Epic",
+    "type": "kanban",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1176,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1176",
+    "name": "Expert Central Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15682,
+      "displayName": "Expert Central (EC)",
+      "projectName": "Expert Central",
+      "projectKey": "EC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Expert Central (EC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1167,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1167",
+    "name": "UX Design",
+    "type": "kanban",
+    "location": {
+      "projectId": 10714,
+      "displayName": "My Account (BC)",
+      "projectName": "My Account",
+      "projectKey": "BC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15608?size=small",
+      "name": "My Account (BC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1170,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1170",
+    "name": "CSC-QA Automation",
+    "type": "scrum",
+    "location": {
+      "projectId": 15643,
+      "displayName": "Customer Service Central (CSC) (CSC)",
+      "projectName": "Customer Service Central (CSC)",
+      "projectKey": "CSC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15619?size=small",
+      "name": "Customer Service Central (CSC) (CSC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1173,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1173",
+    "name": "TEST - Automation",
+    "type": "scrum",
+    "location": {
+      "projectId": 15664,
+      "displayName": "Jira Software Testing Sandbox (TESTSOFT)",
+      "projectName": "Jira Software Testing Sandbox",
+      "projectKey": "TESTSOFT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "Jira Software Testing Sandbox (TESTSOFT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 78,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/78",
+    "name": "Sales Entry Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 10902,
+      "displayName": "Sales Entry (ASC)",
+      "projectName": "Sales Entry",
+      "projectKey": "ASC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12110?size=small",
+      "name": "Sales Entry (ASC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1113,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1113",
+    "name": "ONDPRO Vendor",
+    "type": "scrum",
+    "location": {
+      "projectId": 15642,
+      "displayName": "OnDemand Pro Vendor Experience (ONDPRO)",
+      "projectName": "OnDemand Pro Vendor Experience",
+      "projectKey": "ONDPRO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "OnDemand Pro Vendor Experience (ONDPRO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1020,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1020",
+    "name": "10xMS - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15579,
+      "displayName": "10xMS (TENXMS)",
+      "projectName": "10xMS",
+      "projectKey": "TENXMS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "10xMS (TENXMS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1021,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1021",
+    "name": "Zesty CMS - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15580,
+      "displayName": "Zesty CMS (ZESTY)",
+      "projectName": "Zesty CMS",
+      "projectKey": "ZESTY",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15600?size=small",
+      "name": "Zesty CMS (ZESTY)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1065,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1065",
+    "name": "Customer Identity - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15604,
+      "displayName": "Customer Identity (CI)",
+      "projectName": "Customer Identity",
+      "projectKey": "CI",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15606?size=small",
+      "name": "Customer Identity (CI)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1229,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1229",
+    "name": "Harmony Sales Automation",
+    "type": "scrum",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1192,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1192",
+    "name": "My FCP Board",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1111,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1111",
+    "name": "OND: Customer Experience",
+    "type": "scrum",
+    "location": {
+      "projectId": 15641,
+      "displayName": " OnDemand Customer Experience (ONDCE)",
+      "projectName": " OnDemand Customer Experience",
+      "projectKey": "ONDCE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15612?size=small",
+      "name": " OnDemand Customer Experience (ONDCE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1057,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1057",
+    "name": "Testing and Optimization - Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15601,
+      "displayName": "Testing and Optimization (TO)",
+      "projectName": "Testing and Optimization",
+      "projectKey": "TO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15620?size=small",
+      "name": "Testing and Optimization (TO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1123,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1123",
+    "name": "ONDPRO - Dispatch Board 2",
+    "type": "scrum",
+    "location": {
+      "projectId": 15642,
+      "displayName": "OnDemand Pro Vendor Experience (ONDPRO)",
+      "projectName": "OnDemand Pro Vendor Experience",
+      "projectKey": "ONDPRO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "OnDemand Pro Vendor Experience (ONDPRO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1225,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1225",
+    "name": "PMO Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 13407,
+      "displayName": "PMO (PMO)",
+      "projectName": "PMO",
+      "projectKey": "PMO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "PMO (PMO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 984,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/984",
+    "name": "CT - KANBAN",
+    "type": "kanban",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1112,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1112",
+    "name": "ONDCORE Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15640,
+      "displayName": "OnDemand Core Team (ONDCORE)",
+      "projectName": "OnDemand Core Team",
+      "projectKey": "ONDCORE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15618?size=small",
+      "name": "OnDemand Core Team (ONDCORE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1193,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1193",
+    "name": "GRC ",
+    "type": "kanban",
+    "location": {
+      "projectId": 15679,
+      "displayName": "GRC (GRC)",
+      "projectName": "GRC",
+      "projectKey": "GRC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "GRC (GRC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1194,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1194",
+    "name": "Enterprise Analytics Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15690,
+      "displayName": "Enterprise Analytics (EA)",
+      "projectName": "Enterprise Analytics",
+      "projectKey": "EA",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Enterprise Analytics (EA)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1116,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1116",
+    "name": "Renewals Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15644,
+      "displayName": "OBSOLETE - (DONT USE) Renewals (RENEW)",
+      "projectName": "OBSOLETE - (DONT USE) Renewals",
+      "projectKey": "RENEW",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "OBSOLETE - (DONT USE) Renewals (RENEW)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1184,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1184",
+    "name": "UX Design - Del",
+    "type": "kanban",
+    "location": {
+      "projectId": 15641,
+      "displayName": " OnDemand Customer Experience (ONDCE)",
+      "projectName": " OnDemand Customer Experience",
+      "projectKey": "ONDCE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15612?size=small",
+      "name": " OnDemand Customer Experience (ONDCE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1227,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1227",
+    "name": "AHSAPP Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15712,
+      "displayName": "AHS Application (AHSAPP)",
+      "projectName": "AHS Application",
+      "projectKey": "AHSAPP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15620?size=small",
+      "name": "AHS Application (AHSAPP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1130,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1130",
+    "name": "PINT 2022 (WIP)",
+    "type": "scrum",
+    "location": {
+      "projectId": 15300,
+      "displayName": "Payments Integration (PINT)",
+      "projectName": "Payments Integration",
+      "projectKey": "PINT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10211?size=small",
+      "name": "Payments Integration (PINT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1133,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1133",
+    "name": "SimpleFocus Kanban - AWEB",
+    "type": "kanban",
+    "location": {
+      "projectId": 10603,
+      "displayName": "OBSOLETE - (DONT USE) AHS EComm (AWEB)",
+      "projectName": "OBSOLETE - (DONT USE) AHS EComm",
+      "projectKey": "AWEB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/11102?size=small",
+      "name": "OBSOLETE - (DONT USE) AHS EComm (AWEB)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1134,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1134",
+    "name": "PARAP Production Support",
+    "type": "kanban",
+    "location": {
+      "projectId": 14802,
+      "displayName": "ERP Services (ERPS)",
+      "projectName": "ERP Services",
+      "projectKey": "ERPS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "ERP Services (ERPS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 876,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/876",
+    "name": "Phoenix - Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 15002,
+      "displayName": "Phoenix (PHX)",
+      "projectName": "Phoenix",
+      "projectKey": "PHX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Phoenix (PHX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1137,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1137",
+    "name": "NHD",
+    "type": "scrum",
+    "location": {
+      "projectId": 13800,
+      "displayName": "Real Estate & Commercial (ARE)",
+      "projectName": "Real Estate & Commercial",
+      "projectKey": "ARE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Real Estate & Commercial (ARE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 878,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/878",
+    "name": "Finance",
+    "type": "kanban",
+    "location": {
+      "projectId": 14809,
+      "displayName": "Finance (AFIN)",
+      "projectName": "Finance",
+      "projectKey": "AFIN",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Finance (AFIN)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 934,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/934",
+    "name": "Blueprint Design System - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15526,
+      "displayName": "Blueprint Design System (BDS)",
+      "projectName": "Blueprint Design System",
+      "projectKey": "BDS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15604?size=small",
+      "name": "Blueprint Design System (BDS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1138,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1138",
+    "name": "Vendor Selection",
+    "type": "scrum",
+    "location": {
+      "projectId": 15625,
+      "displayName": "Data Science and Machine Learning (DSML)",
+      "projectName": "Data Science and Machine Learning",
+      "projectKey": "DSML",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Data Science and Machine Learning (DSML)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1162,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1162",
+    "name": "DSMLIdeaBoards",
+    "type": "kanban",
+    "location": {
+      "projectId": 15625,
+      "displayName": "Data Science and Machine Learning (DSML)",
+      "projectName": "Data Science and Machine Learning",
+      "projectKey": "DSML",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Data Science and Machine Learning (DSML)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 907,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/907",
+    "name": "Epics for AWS Connect",
+    "type": "kanban",
+    "location": {
+      "projectId": 15006,
+      "displayName": "AWS Connect (AWSC)",
+      "projectName": "AWS Connect",
+      "projectKey": "AWSC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "AWS Connect (AWSC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1144,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1144",
+    "name": "PINT/FINENG/ERP",
+    "type": "kanban",
+    "location": {
+      "projectId": 14809,
+      "displayName": "Finance (AFIN)",
+      "projectName": "Finance",
+      "projectKey": "AFIN",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Finance (AFIN)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 993,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/993",
+    "name": "Contractor Portal",
+    "type": "scrum",
+    "location": {
+      "projectId": 15527,
+      "displayName": "Frontdoor Contractor Portal (FCP)",
+      "projectName": "Frontdoor Contractor Portal",
+      "projectKey": "FCP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Frontdoor Contractor Portal (FCP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1233,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1233",
+    "name": "Data Governance",
+    "type": "scrum",
+    "location": {
+      "projectId": 15714,
+      "displayName": "Data Governance (DG)",
+      "projectName": "Data Governance",
+      "projectKey": "DG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "Data Governance (DG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1215,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1215",
+    "name": "MC_Roadmap",
+    "type": "kanban",
+    "location": {
+      "projectId": 15679,
+      "displayName": "GRC (GRC)",
+      "projectName": "GRC",
+      "projectKey": "GRC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "GRC (GRC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1163,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1163",
+    "name": "DSML",
+    "type": "scrum",
+    "location": {
+      "projectId": 15625,
+      "displayName": "Data Science and Machine Learning (DSML)",
+      "projectName": "Data Science and Machine Learning",
+      "projectKey": "DSML",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Data Science and Machine Learning (DSML)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 844,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/844",
+    "name": "AHS EComm General Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 10603,
+      "displayName": "OBSOLETE - (DONT USE) AHS EComm (AWEB)",
+      "projectName": "OBSOLETE - (DONT USE) AHS EComm",
+      "projectKey": "AWEB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/11102?size=small",
+      "name": "OBSOLETE - (DONT USE) AHS EComm (AWEB)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1145,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1145",
+    "name": "PRODUX Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15661,
+      "displayName": "UX (PRODUX)",
+      "projectName": "UX",
+      "projectKey": "PRODUX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15618?size=small",
+      "name": "UX (PRODUX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 894,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/894",
+    "name": "Qualtrics ",
+    "type": "scrum",
+    "location": {
+      "projectId": 15002,
+      "displayName": "Phoenix (PHX)",
+      "projectName": "Phoenix",
+      "projectKey": "PHX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Phoenix (PHX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 896,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/896",
+    "name": "CCLC",
+    "type": "scrum",
+    "location": {
+      "projectId": 15002,
+      "displayName": "Phoenix (PHX)",
+      "projectName": "Phoenix",
+      "projectKey": "PHX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Phoenix (PHX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 673,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/673",
+    "name": "Process Management board",
+    "type": "kanban",
+    "location": {
+      "projectId": 13701,
+      "displayName": "Process Management (PRM)",
+      "projectName": "Process Management",
+      "projectKey": "PRM",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Process Management (PRM)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 755,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/755",
+    "name": "Contractor Onboarding",
+    "type": "kanban",
+    "location": {
+      "projectId": 14601,
+      "displayName": "Contractor Onboarding (CO)",
+      "projectName": "Contractor Onboarding",
+      "projectKey": "CO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Contractor Onboarding (CO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 898,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/898",
+    "name": "Secure Design - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15507,
+      "displayName": "Secure Design (SCRDSN)",
+      "projectName": "Secure Design",
+      "projectKey": "SCRDSN",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Secure Design (SCRDSN)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 920,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/920",
+    "name": "Secure Design",
+    "type": "kanban",
+    "location": {
+      "projectId": 15507,
+      "displayName": "Secure Design (SCRDSN)",
+      "projectName": "Secure Design",
+      "projectKey": "SCRDSN",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Secure Design (SCRDSN)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1230,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1230",
+    "name": "FSA Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 15706,
+      "displayName": "Foundational Systems Architecture (FSA)",
+      "projectName": "Foundational Systems Architecture",
+      "projectKey": "FSA",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15813?size=small",
+      "name": "Foundational Systems Architecture (FSA)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1063,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1063",
+    "name": "Autho Current Sprint",
+    "type": "scrum",
+    "location": {
+      "projectId": 15602,
+      "displayName": "Authorizations (AUTHO)",
+      "projectName": "Authorizations",
+      "projectKey": "AUTHO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15612?size=small",
+      "name": "Authorizations (AUTHO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 901,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/901",
+    "name": "ERP Services - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 14802,
+      "displayName": "ERP Services (ERPS)",
+      "projectName": "ERP Services",
+      "projectKey": "ERPS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "ERP Services (ERPS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3823,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3823",
+    "name": "MKA Team",
+    "type": "kanban",
+    "location": {
+      "projectId": 15570,
+      "displayName": "Marketing Analytics (MKA)",
+      "projectName": "Marketing Analytics",
+      "projectKey": "MKA",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15782?size=small",
+      "name": "Marketing Analytics (MKA)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 812,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/812",
+    "name": "Salesforce Solution - Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 865,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/865",
+    "name": "UX - Research Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15403,
+      "displayName": "User Experience (UX)",
+      "projectName": "User Experience",
+      "projectKey": "UX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "User Experience (UX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 866,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/866",
+    "name": "UX - Design Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 15403,
+      "displayName": "User Experience (UX)",
+      "projectName": "User Experience",
+      "projectKey": "UX",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "User Experience (UX)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 893,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/893",
+    "name": "NHD Scrum Board - Obsolete",
+    "type": "scrum",
+    "location": {
+      "projectId": 15202,
+      "displayName": "Natural Hazard Disclosure - Obsolete (NHD)",
+      "projectName": "Natural Hazard Disclosure - Obsolete",
+      "projectKey": "NHD",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10011?size=small",
+      "name": "Natural Hazard Disclosure - Obsolete (NHD)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 943,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/943",
+    "name": "QAINFRA board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15533,
+      "displayName": "QA Infrastructure (QAINFRA)",
+      "projectName": "QA Infrastructure",
+      "projectKey": "QAINFRA",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "QA Infrastructure (QAINFRA)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1177,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1177",
+    "name": "Expert Central Sprint Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15682,
+      "displayName": "Expert Central (EC)",
+      "projectName": "Expert Central",
+      "projectKey": "EC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Expert Central (EC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 974,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/974",
+    "name": "PINT",
+    "type": "scrum",
+    "location": {
+      "projectId": 15300,
+      "displayName": "Payments Integration (PINT)",
+      "projectName": "Payments Integration",
+      "projectKey": "PINT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10211?size=small",
+      "name": "Payments Integration (PINT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1156,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1156",
+    "name": "LEGACY - SEO Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15558,
+      "displayName": "Frontdoor SEO (SEO)",
+      "projectName": "Frontdoor SEO",
+      "projectKey": "SEO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15602?size=small",
+      "name": "Frontdoor SEO (SEO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1185,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1185",
+    "name": "UX Design - Candace",
+    "type": "kanban",
+    "location": {
+      "projectId": 15641,
+      "displayName": " OnDemand Customer Experience (ONDCE)",
+      "projectName": " OnDemand Customer Experience",
+      "projectKey": "ONDCE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15612?size=small",
+      "name": " OnDemand Customer Experience (ONDCE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 945,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/945",
+    "name": "AP-Invoice",
+    "type": "scrum",
+    "location": {
+      "projectId": 15531,
+      "displayName": "Finance Engineering (OLD) (FINENG)",
+      "projectName": "Finance Engineering (OLD)",
+      "projectKey": "FINENG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "Finance Engineering (OLD) (FINENG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 856,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/856",
+    "name": "SalesForce Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1188,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1188",
+    "name": "WIP Current Sprint",
+    "type": "kanban",
+    "location": {
+      "projectId": 15602,
+      "displayName": "Authorizations (AUTHO)",
+      "projectName": "Authorizations",
+      "projectKey": "AUTHO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15612?size=small",
+      "name": "Authorizations (AUTHO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1191,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1191",
+    "name": "All but Vendor Management",
+    "type": "scrum",
+    "location": {
+      "projectId": 15527,
+      "displayName": "Frontdoor Contractor Portal (FCP)",
+      "projectName": "Frontdoor Contractor Portal",
+      "projectKey": "FCP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Frontdoor Contractor Portal (FCP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1190,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1190",
+    "name": "Vendor Management",
+    "type": "scrum",
+    "location": {
+      "projectId": 15527,
+      "displayName": "Frontdoor Contractor Portal (FCP)",
+      "projectName": "Frontdoor Contractor Portal",
+      "projectKey": "FCP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Frontdoor Contractor Portal (FCP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2095,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2095",
+    "name": "Brillio/2-10 Support",
+    "type": "kanban",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 966,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/966",
+    "name": "Platform Engineering (formerly CPE)",
+    "type": "scrum",
+    "location": {
+      "projectId": 15520,
+      "displayName": "Cloud and Platform Engineering (CPE)",
+      "projectName": "Cloud and Platform Engineering",
+      "projectKey": "CPE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Cloud and Platform Engineering (CPE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1200,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1200",
+    "name": "Training ",
+    "type": "scrum",
+    "location": {
+      "projectId": 15693,
+      "displayName": "Training (TRAIN)",
+      "projectName": "Training",
+      "projectKey": "TRAIN",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Training (TRAIN)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1147,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1147",
+    "name": "SVS Scrum Board - OBSOLETE",
+    "type": "scrum",
+    "location": {
+      "projectId": 15662,
+      "displayName": "Simplefocus Vendor Support (SVS)",
+      "projectName": "Simplefocus Vendor Support",
+      "projectKey": "SVS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15602?size=small",
+      "name": "Simplefocus Vendor Support (SVS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1435,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1435",
+    "name": "CHEM Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15815,
+      "displayName": "Chemistry Development (CHEM)",
+      "projectName": "Chemistry Development",
+      "projectKey": "CHEM",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15604?size=small",
+      "name": "Chemistry Development (CHEM)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1201,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1201",
+    "name": "SFDC Initiatives",
+    "type": "kanban",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1202,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1202",
+    "name": "DSML - No Epics",
+    "type": "scrum",
+    "location": {
+      "projectId": 15625,
+      "displayName": "Data Science and Machine Learning (DSML)",
+      "projectName": "Data Science and Machine Learning",
+      "projectKey": "DSML",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "Data Science and Machine Learning (DSML)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1208,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1208",
+    "name": "SC - KTLO_tech_debt",
+    "type": "scrum",
+    "location": {
+      "projectId": 15005,
+      "displayName": "Sales Central (SC)",
+      "projectName": "Sales Central",
+      "projectKey": "SC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Sales Central (SC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1236,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1236",
+    "name": "QA Automation - CSC",
+    "type": "kanban",
+    "location": {
+      "projectId": 15643,
+      "displayName": "Customer Service Central (CSC) (CSC)",
+      "projectName": "Customer Service Central (CSC)",
+      "projectKey": "CSC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15619?size=small",
+      "name": "Customer Service Central (CSC) (CSC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1209,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1209",
+    "name": "Sales Central - Product Roadmap",
+    "type": "kanban",
+    "location": {
+      "projectId": 15005,
+      "displayName": "Sales Central (SC)",
+      "projectName": "Sales Central",
+      "projectKey": "SC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Sales Central (SC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1205,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1205",
+    "name": "Sprint + Hub",
+    "type": "kanban",
+    "location": {
+      "projectId": 15506,
+      "displayName": "Security Engineering (PS)",
+      "projectName": "Security Engineering",
+      "projectKey": "PS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/16057?size=small",
+      "name": "Security Engineering (PS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1864,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1864",
+    "name": "210 Portfolio Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15749,
+      "displayName": "2-10 Integration (INT210)",
+      "projectName": "2-10 Integration",
+      "projectKey": "INT210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "2-10 Integration (INT210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1234,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1234",
+    "name": "Sales Automation Bugs",
+    "type": "scrum",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1237,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1237",
+    "name": "COSMERE board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15716,
+      "displayName": "Cosmere (COSMERE)",
+      "projectName": "Cosmere",
+      "projectKey": "COSMERE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Cosmere (COSMERE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1336,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1336",
+    "name": "Cross Project Board",
+    "type": "scrum",
+    "isPrivate": false
+  },
+  {
+    "id": 1567,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1567",
+    "name": "Horizontal E2E",
+    "type": "kanban",
+    "location": {
+      "projectId": 15704,
+      "displayName": "Horizontal End To End Testing (HE2E)",
+      "projectName": "Horizontal End To End Testing",
+      "projectKey": "HE2E",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Horizontal End To End Testing (HE2E)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1369,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1369",
+    "name": "INT210 Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15749,
+      "displayName": "2-10 Integration (INT210)",
+      "projectName": "2-10 Integration",
+      "projectKey": "INT210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15624?size=small",
+      "name": "2-10 Integration (INT210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1996,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1996",
+    "name": "DG - SODA Bugs",
+    "type": "scrum",
+    "location": {
+      "projectId": 15714,
+      "displayName": "Data Governance (DG)",
+      "projectName": "Data Governance",
+      "projectKey": "DG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "Data Governance (DG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1666,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1666",
+    "name": "CSIRT Overview",
+    "type": "kanban",
+    "location": {
+      "projectId": 16013,
+      "displayName": "CSIRT (CSIRT)",
+      "projectName": "CSIRT",
+      "projectKey": "CSIRT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "CSIRT (CSIRT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1600,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1600",
+    "name": "MCAE Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 15914,
+      "displayName": "B2B Marketing Operations (MCAE)",
+      "projectName": "B2B Marketing Operations",
+      "projectKey": "MCAE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15609?size=small",
+      "name": "B2B Marketing Operations (MCAE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1732,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1732",
+    "name": "test",
+    "type": "kanban",
+    "location": {
+      "userId": 51554,
+      "userAccountId": "712020:c09bec8f-5454-4b13-8a9e-e8ec2bc9c56f",
+      "displayName": "Dee Chhabra",
+      "avatarURI": "https://secure.gravatar.com/avatar/2ba513f096d3582728747cdf09bc641c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDC-5.png",
+      "name": "Dee Chhabra"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1765,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1765",
+    "name": "CSIRT Project + The Hub",
+    "type": "kanban",
+    "location": {
+      "projectId": 16013,
+      "displayName": "CSIRT (CSIRT)",
+      "projectName": "CSIRT",
+      "projectKey": "CSIRT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "CSIRT (CSIRT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2392,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2392",
+    "name": "Service Desk Projects Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 16574,
+      "displayName": "Service Desk Projects (SDP)",
+      "projectName": "Service Desk Projects",
+      "projectKey": "SDP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15601?size=small",
+      "name": "Service Desk Projects (SDP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1132,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1132",
+    "name": "MOB - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15658,
+      "displayName": "Mobile Applications (MOB)",
+      "projectName": "Mobile Applications",
+      "projectKey": "MOB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15610?size=small",
+      "name": "Mobile Applications (MOB)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 985,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/985",
+    "name": "AR-Invoice",
+    "type": "scrum",
+    "location": {
+      "projectId": 15531,
+      "displayName": "Finance Engineering (OLD) (FINENG)",
+      "projectName": "Finance Engineering (OLD)",
+      "projectKey": "FINENG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "Finance Engineering (OLD) (FINENG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1831,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1831",
+    "name": "2-10 IT Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16112,
+      "displayName": "2-10 IT Projects (IT210)",
+      "projectName": "2-10 IT Projects",
+      "projectKey": "IT210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "2-10 IT Projects (IT210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2161,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2161",
+    "name": "Architecture Team Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16409,
+      "displayName": " Architecture Team (ARCHTEAM)",
+      "projectName": " Architecture Team",
+      "projectKey": "ARCHTEAM",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15606?size=small",
+      "name": " Architecture Team (ARCHTEAM)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2458,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2458",
+    "name": "2-10 Migration - Q4",
+    "type": "scrum",
+    "location": {
+      "projectId": 15001,
+      "displayName": "Salesforce Solution (SSOL)",
+      "projectName": "Salesforce Solution",
+      "projectKey": "SSOL",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Salesforce Solution (SSOL)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2491,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2491",
+    "name": "Test",
+    "type": "scrum",
+    "location": {
+      "projectId": 10603,
+      "displayName": "OBSOLETE - (DONT USE) AHS EComm (AWEB)",
+      "projectName": "OBSOLETE - (DONT USE) AHS EComm",
+      "projectKey": "AWEB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/11102?size=small",
+      "name": "OBSOLETE - (DONT USE) AHS EComm (AWEB)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2361,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2361",
+    "name": "Cloud Eng - Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 13908,
+      "displayName": "Cloud Engineering (formerly AWS Devops and CPEAUTO) (CLOUDENG)",
+      "projectName": "Cloud Engineering (formerly AWS Devops and CPEAUTO)",
+      "projectKey": "CLOUDENG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "Cloud Engineering (formerly AWS Devops and CPEAUTO) (CLOUDENG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 698,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/698",
+    "name": "[Deprecated] CloudEng - Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 13908,
+      "displayName": "Cloud Engineering (formerly AWS Devops and CPEAUTO) (CLOUDENG)",
+      "projectName": "Cloud Engineering (formerly AWS Devops and CPEAUTO)",
+      "projectKey": "CLOUDENG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "Cloud Engineering (formerly AWS Devops and CPEAUTO) (CLOUDENG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 889,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/889",
+    "name": "Security Engineering Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15506,
+      "displayName": "Security Engineering (PS)",
+      "projectName": "Security Engineering",
+      "projectKey": "PS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/16057?size=small",
+      "name": "Security Engineering (PS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1667,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1667",
+    "name": "CSIRT Proj & CSIRT Hub Queue",
+    "type": "kanban",
+    "location": {
+      "projectId": 16013,
+      "displayName": "CSIRT (CSIRT)",
+      "projectName": "CSIRT",
+      "projectKey": "CSIRT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "CSIRT (CSIRT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1115,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1115",
+    "name": "CSC Default Board [Excluding Tests]",
+    "type": "scrum",
+    "location": {
+      "projectId": 15643,
+      "displayName": "Customer Service Central (CSC) (CSC)",
+      "projectName": "Customer Service Central (CSC)",
+      "projectKey": "CSC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15619?size=small",
+      "name": "Customer Service Central (CSC) (CSC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2359,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2359",
+    "name": "Corp NetEng Project Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16508,
+      "displayName": "Corp Network Engineering (CORPNET)",
+      "projectName": "Corp Network Engineering",
+      "projectKey": "CORPNET",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corp Network Engineering (CORPNET)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 375,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/375",
+    "name": "MyAccount",
+    "type": "scrum",
+    "location": {
+      "projectId": 10714,
+      "displayName": "My Account (BC)",
+      "projectName": "My Account",
+      "projectKey": "BC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15608?size=small",
+      "name": "My Account (BC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1963,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1963",
+    "name": "CT 2-10 Sprint Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2063,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2063",
+    "name": "Cybersource to Stripe Migration",
+    "type": "scrum",
+    "location": {
+      "projectId": 16343,
+      "displayName": "2-10 Dev Team (DEV210)",
+      "projectName": "2-10 Dev Team",
+      "projectKey": "DEV210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "2-10 Dev Team (DEV210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3558,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3558",
+    "name": "DAB Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 17674,
+      "displayName": "Data Architecture (DAB)",
+      "projectName": "Data Architecture",
+      "projectKey": "DAB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15601?size=small",
+      "name": "Data Architecture (DAB)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4125,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4125",
+    "name": "Flex Team India Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 18008,
+      "displayName": "Flex Team India (FLEXIND)",
+      "projectName": "Flex Team India",
+      "projectKey": "FLEXIND",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15611?size=small",
+      "name": "Flex Team India (FLEXIND)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2425,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2425",
+    "name": "CRM Marketing Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16607,
+      "displayName": "CRM Marketing (CRMMG)",
+      "projectName": "CRM Marketing",
+      "projectKey": "CRMMG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/17090?size=small",
+      "name": "CRM Marketing (CRMMG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3690,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3690",
+    "name": "CI Kanban",
+    "type": "kanban",
+    "location": {
+      "projectId": 16673,
+      "displayName": "Continuous Improvement (CONTIMP)",
+      "projectName": "Continuous Improvement",
+      "projectKey": "CONTIMP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "Continuous Improvement (CONTIMP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 676,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/676",
+    "name": "AHS RE Sales Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 13800,
+      "displayName": "Real Estate & Commercial (ARE)",
+      "projectName": "Real Estate & Commercial",
+      "projectKey": "ARE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Real Estate & Commercial (ARE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 977,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/977",
+    "name": "DR board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15547,
+      "displayName": "FTDR Disaster Recovery (DR)",
+      "projectName": "FTDR Disaster Recovery",
+      "projectKey": "DR",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "FTDR Disaster Recovery (DR)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3723,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3723",
+    "name": "PMO Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 13407,
+      "displayName": "PMO (PMO)",
+      "projectName": "PMO",
+      "projectKey": "PMO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "PMO (PMO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3990,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3990",
+    "name": "Epics",
+    "type": "kanban",
+    "location": {
+      "projectId": 17876,
+      "displayName": "Agent Sales Engineering (ASE)",
+      "projectName": "Agent Sales Engineering",
+      "projectKey": "ASE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "Agent Sales Engineering (ASE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3789,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3789",
+    "name": "Weekly Review Board for Coupa SIM",
+    "type": "kanban",
+    "location": {
+      "projectId": 13407,
+      "displayName": "PMO (PMO)",
+      "projectName": "PMO",
+      "projectKey": "PMO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "PMO (PMO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4191,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4191",
+    "name": "Contractor Portal - QE Team",
+    "type": "scrum",
+    "location": {
+      "projectId": 15527,
+      "displayName": "Frontdoor Contractor Portal (FCP)",
+      "projectName": "Frontdoor Contractor Portal",
+      "projectKey": "FCP",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15616?size=small",
+      "name": "Frontdoor Contractor Portal (FCP)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3591,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3591",
+    "name": "CRM Marketing Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 16607,
+      "displayName": "CRM Marketing (CRMMG)",
+      "projectName": "CRM Marketing",
+      "projectKey": "CRMMG",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/17090?size=small",
+      "name": "CRM Marketing (CRMMG)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2326,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2326",
+    "name": "FDI Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 16475,
+      "displayName": "FrontDoor Intelligence (FDI)",
+      "projectName": "FrontDoor Intelligence",
+      "projectKey": "FDI",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15600?size=small",
+      "name": "FrontDoor Intelligence (FDI)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2293,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2293",
+    "name": "FTT Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16442,
+      "displayName": " Finance Transformation (FTT)",
+      "projectName": " Finance Transformation",
+      "projectKey": "FTT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15610?size=small",
+      "name": " Finance Transformation (FTT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 594,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/594",
+    "name": "PMO board",
+    "type": "kanban",
+    "location": {
+      "projectId": 13407,
+      "displayName": "PMO (PMO)",
+      "projectName": "PMO",
+      "projectKey": "PMO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "PMO (PMO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3657,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3657",
+    "name": "FDEE Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 16475,
+      "displayName": "FrontDoor Intelligence (FDI)",
+      "projectName": "FrontDoor Intelligence",
+      "projectKey": "FDI",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15600?size=small",
+      "name": "FrontDoor Intelligence (FDI)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4224,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4224",
+    "name": "MSS Scrum - All",
+    "type": "scrum",
+    "location": {
+      "projectId": 17875,
+      "displayName": "Member Self-Service (MSS)",
+      "projectName": "Member Self-Service",
+      "projectKey": "MSS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "Member Self-Service (MSS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3756,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3756",
+    "name": "TACoE Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 17807,
+      "displayName": "TACoE (TACOE)",
+      "projectName": "TACoE",
+      "projectKey": "TACOE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15610?size=small",
+      "name": "TACoE (TACOE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2194,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2194",
+    "name": "2-10 NewHome Care",
+    "type": "scrum",
+    "location": {
+      "projectId": 16343,
+      "displayName": "2-10 Dev Team (DEV210)",
+      "projectName": "2-10 Dev Team",
+      "projectKey": "DEV210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "2-10 Dev Team (DEV210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4057,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4057",
+    "name": "Flex Team Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 17909,
+      "displayName": "Flex Team US (FLEXUS)",
+      "projectName": "Flex Team US",
+      "projectKey": "FLEXUS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "Flex Team US (FLEXUS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 763,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/763",
+    "name": "AHS BI",
+    "type": "scrum",
+    "location": {
+      "projectId": 14605,
+      "displayName": "AHS BI (ABI)",
+      "projectName": "AHS BI",
+      "projectKey": "ABI",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12105?size=small",
+      "name": "AHS BI (ABI)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4090,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4090",
+    "name": "SSSE Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 17942,
+      "displayName": "Self Service Sales Engineering (SSSE)",
+      "projectName": "Self Service Sales Engineering",
+      "projectKey": "SSSE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15605?size=small",
+      "name": "Self Service Sales Engineering (SSSE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3923,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3923",
+    "name": "Agent Sales Eng. Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 17876,
+      "displayName": "Agent Sales Engineering (ASE)",
+      "projectName": "Agent Sales Engineering",
+      "projectKey": "ASE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15622?size=small",
+      "name": "Agent Sales Engineering (ASE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 5293,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/5293",
+    "name": "Kanban Board",
+    "type": "kanban",
+    "location": {
+      "projectId": 17741,
+      "displayName": "Enterprise Delivery Tools & Standards Evolution Project (JIRAEVO)",
+      "projectName": "Enterprise Delivery Tools & Standards Evolution Project",
+      "projectKey": "JIRAEVO",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15625?size=small",
+      "name": "Enterprise Delivery Tools & Standards Evolution Project (JIRAEVO)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1699,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1699",
+    "name": "CT Sprint Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15551,
+      "displayName": "Corporate Technology (CT)",
+      "projectName": "Corporate Technology",
+      "projectKey": "CT",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15607?size=small",
+      "name": "Corporate Technology (CT)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 5291,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/5291",
+    "name": "Finance",
+    "type": "scrum",
+    "location": {
+      "projectId": 19044,
+      "displayName": "Finance Engineering (FINE)",
+      "projectName": "Finance Engineering",
+      "projectKey": "FINE",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "Finance Engineering (FINE)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 2029,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/2029",
+    "name": "2-10 Development Team",
+    "type": "scrum",
+    "location": {
+      "projectId": 16343,
+      "displayName": "2-10 Dev Team (DEV210)",
+      "projectName": "2-10 Dev Team",
+      "projectKey": "DEV210",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15623?size=small",
+      "name": "2-10 Dev Team (DEV210)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1210,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1210",
+    "name": "SC Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15005,
+      "displayName": "Sales Central (SC)",
+      "projectName": "Sales Central",
+      "projectKey": "SC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/12103?size=small",
+      "name": "Sales Central (SC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 3956,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/3956",
+    "name": "Vertical Support - Sprint Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15656,
+      "displayName": "Core Services (CSVC)",
+      "projectName": "Core Services",
+      "projectKey": "CSVC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15606?size=small",
+      "name": "Core Services (CSVC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4091,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4091",
+    "name": "MSS Scrum - MOBILE",
+    "type": "scrum",
+    "location": {
+      "projectId": 17875,
+      "displayName": "Member Self-Service (MSS)",
+      "projectName": "Member Self-Service",
+      "projectKey": "MSS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "Member Self-Service (MSS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 4092,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/4092",
+    "name": "MSS Scrum - WEB",
+    "type": "scrum",
+    "location": {
+      "projectId": 17875,
+      "displayName": "Member Self-Service (MSS)",
+      "projectName": "Member Self-Service",
+      "projectKey": "MSS",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "Member Self-Service (MSS)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1126,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1126",
+    "name": "Core Services - Scrum",
+    "type": "scrum",
+    "location": {
+      "projectId": 15656,
+      "displayName": "Core Services (CSVC)",
+      "projectName": "Core Services",
+      "projectKey": "CSVC",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15606?size=small",
+      "name": "Core Services (CSVC)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1146,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1146",
+    "name": "OBSOLETE - (DONT USE) RENEWALS",
+    "type": "scrum",
+    "location": {
+      "projectId": 15644,
+      "displayName": "OBSOLETE - (DONT USE) Renewals (RENEW)",
+      "projectName": "OBSOLETE - (DONT USE) Renewals",
+      "projectKey": "RENEW",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15614?size=small",
+      "name": "OBSOLETE - (DONT USE) Renewals (RENEW)"
+    },
+    "isPrivate": false
+  },
+  {
+    "id": 1044,
+    "self": "https://ftdr-sandbox-438.atlassian.net/rest/agile/1.0/board/1044",
+    "name": "HomeBase - Scrum Board",
+    "type": "scrum",
+    "location": {
+      "projectId": 15590,
+      "displayName": "HomeBase (HB)",
+      "projectName": "HomeBase",
+      "projectKey": "HB",
+      "projectTypeKey": "software",
+      "avatarURI": "https://ftdr-sandbox-438.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/15617?size=small",
+      "name": "HomeBase (HB)"
+    },
+    "isPrivate": false
+  }
+]

@@ -1,5 +1,5 @@
-# Audit data (generated JSON — large, don't commit)
-data/audit_data/
+# Raw API data (large JSON, don't commit)
+data/
 
 # OS files
 .DS_Store

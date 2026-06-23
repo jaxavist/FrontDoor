@@ -1,52 +1,53 @@
-# Jira Align Readiness Audit — Script Suite
+# FTDR Jira Align Readiness Audit
+
+Audit scripts for assessing Jira Cloud configuration at `ftdr-sandbox-438.atlassian.net`
+in preparation for Jira Align onboarding.
 
 ## Prerequisites
+
 - `curl` and `jq` installed (`brew install jq` if needed)
 - `FTDR_CLOUD_PAT` environment variable set with your API token
-- Run from a directory where you want the output
 
-## Quick Start
+## Usage
 
 ```bash
 export FTDR_CLOUD_PAT="your-api-token"
 
 # Step 1: Collect all configuration data (~5-10 min)
-chmod +x 01_collect_config_data.sh
-./01_collect_config_data.sh
+./scripts/01_collect_config_data.sh
 
 # Step 2: Analyze and generate reports (~1 min)
-chmod +x 02_analyze_and_report.sh
-./02_analyze_and_report.sh ./audit_data/YYYYMMDD
+./scripts/02_analyze_and_report.sh
 
 # Step 3 (optional): Deep custom field usage analysis (~30-60 min)
-chmod +x 03_field_usage_analysis.sh
-./03_field_usage_analysis.sh ./audit_data/YYYYMMDD
+./scripts/03_field_usage_analysis.sh
 ```
 
-## Output Structure
+All scripts auto-detect paths relative to the project root. No arguments needed
+(though you can pass an explicit data directory path if you have multiple runs).
+
+## Project Structure
 
 ```
-audit_data/YYYYMMDD/
-├── *.json                          # Raw API data
-├── reports/
-│   ├── 00_executive_summary.md     # Readiness scorecard + roadmap
-│   ├── 01_config_inventory.md      # Object counts vs targets
-│   ├── 02_project_types.md         # Classic vs team-managed breakdown
-│   ├── 03_workflow_analysis.md     # Consolidation opportunities
-│   ├── 04_status_analysis.md       # Duplication + category mapping
-│   ├── 05_issue_type_analysis.md   # Sprawl + Align hierarchy check
-│   ├── 06_custom_field_analysis.md # Field audit + Align field gaps
-│   ├── 07_scheme_consolidation.md  # Scheme sharing analysis
-│   ├── 08_priority_resolution.md   # Priority/resolution cleanup
-│   ├── 09_field_usage.md           # (Phase 3) Usage-based cleanup list
-│   ├── projects.csv                # For spreadsheet analysis
-│   ├── workflows.csv
-│   ├── custom_fields.csv
-│   ├── statuses.csv
-│   └── issue_types.csv
+ftdr-jira-align-audit/
+├── scripts/              # Audit scripts (committed)
+├── reports/              # Generated markdown reports + CSVs (committed)
+├── data/                 # Raw API JSON (gitignored — large)
+└── docs/                 # Engagement notes and specs
 ```
 
-## Reports for the Project Lead
+## Reports
 
-The executive summary (00) gives the roadmap metrics. The CSVs let
-stakeholders filter and sort in Excel/Sheets for their own analysis.
+| File | Contents |
+|---|---|
+| `00_executive_summary.md` | Readiness scorecard, key metrics, phased roadmap |
+| `01_config_inventory.md` | Object counts vs Align target ranges |
+| `02_project_types.md` | Classic vs team-managed breakdown |
+| `03_workflow_analysis.md` | Unused workflows, age distribution |
+| `04_status_analysis.md` | Duplicate statuses, category mismatches |
+| `05_issue_type_analysis.md` | Sprawl metrics, Align hierarchy check |
+| `06_custom_field_analysis.md` | Field types, Align field gap check |
+| `07_scheme_consolidation.md` | Scheme reduction targets + effort |
+| `08_priority_resolution.md` | Priority/resolution standardization |
+| `09_field_usage.md` | (Phase 3) Usage-based field cleanup list |
+| `*.csv` | Spreadsheet-ready exports for stakeholder analysis |

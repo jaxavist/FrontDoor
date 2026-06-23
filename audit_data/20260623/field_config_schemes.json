@@ -1,0 +1,117 @@
+[
+  {
+    "id": "10300",
+    "name": "AHS Field Configuration Scheme",
+    "description": "Used for AHS or BSC/E projects/initiatives worked by AHS teams"
+  },
+  {
+    "id": "10400",
+    "name": "AHS SVM Admin Field Configuration Scheme",
+    "description": "Used for SVM Admin project"
+  },
+  {
+    "id": "10403",
+    "name": "FSG Field Configuration Scheme",
+    "description": "Used for Merry Maids, Furniture Medic, Amerispec projects"
+  },
+  {
+    "id": "10404",
+    "name": "AHS Ops and RTB Field Configuration Scheme",
+    "description": "Used for work that is Ops or RTB in nature"
+  },
+  {
+    "id": "10500",
+    "name": "BSC Field Configuration Scheme",
+    "description": "BSC/E projects/initiatives worked by BSC teams"
+  },
+  {
+    "id": "10801",
+    "name": "BSC Default Field Configuration Scheme for Non-SDLC Group",
+    "description": "BSC Default Field Configuration Scheme - NOT booking time"
+  },
+  {
+    "id": "11300",
+    "name": "Remedy Team Field Config Scheme",
+    "description": ""
+  },
+  {
+    "id": "11602",
+    "name": "BSC RTB Default Field Configuration Scheme for Non-SDLC Group - Booking Time",
+    "description": "BSC RTB Default Field Configuration Scheme - booking time"
+  },
+  {
+    "id": "11700",
+    "name": "Contractor Onboarding Field config scheme",
+    "description": ""
+  },
+  {
+    "id": "12000",
+    "name": "Generic Field Configuration Scheme",
+    "description": "Used for generic/default Field Configuration Scheme"
+  },
+  {
+    "id": "12106",
+    "name": "Jira Service Desk Field Configuration Scheme for Jira Service Management Projects",
+    "description": "This Jira Service Desk Field Configuration Scheme was generated for Project AMSD"
+  },
+  {
+    "id": "12132",
+    "name": "Jira Service Management Field Configuration Scheme for Project CPI",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project CPI"
+  },
+  {
+    "id": "12141",
+    "name": "Jira Service Management Field Configuration Scheme for Project SRSE",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project SRSE"
+  },
+  {
+    "id": "12144",
+    "name": "Jira Service Management Field Configuration Scheme for Project DEPOT",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project DEPOT"
+  },
+  {
+    "id": "12145",
+    "name": "FCP/AUTHO Field Config Scheme",
+    "description": "Based on generic"
+  },
+  {
+    "id": "12146",
+    "name": "Jira Service Management Field Configuration Scheme for Project FTDRPROJ",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project FTDRPROJ"
+  },
+  {
+    "id": "12147",
+    "name": "zArchive Field Config Scheme",
+    "description": ""
+  },
+  {
+    "id": "12155",
+    "name": "Jira Service Management Field Configuration Scheme for Project SECHUB",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project SECHUB"
+  },
+  {
+    "id": "12159",
+    "name": "Default Field Layout Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": "12192",
+    "name": "Jira Service Management Field Configuration Scheme for Project ACC210",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project ACC210"
+  },
+  {
+    "id": "12258",
+    "name": "Jira Service Management Field Configuration Scheme for Project PPC",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project PPC"
+  },
+  {
+    "id": "12324",
+    "name": "Jira Service Management Field Configuration Scheme for Project OMI1121",
+    "description": "This Jira Service Management Field Configuration Scheme was generated for Project OMI1121"
+  },
+  {
+    "id": "13490",
+    "name": "PMO Field Configuration Scheme",
+    "description": "PMO Field Configuration Scheme"
+  }
+]

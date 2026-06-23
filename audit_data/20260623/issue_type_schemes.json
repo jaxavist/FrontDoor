@@ -1,0 +1,197 @@
+[
+  {
+    "id": "10000",
+    "name": "Default Issue Type Scheme",
+    "description": "Default issue type scheme is the list of global issue types. All newly created issue types will automatically be added to this scheme.",
+    "defaultIssueTypeId": "12",
+    "isDefault": true
+  },
+  {
+    "id": "11604",
+    "name": "Simple Non-Dev Issue Tracking + InfoSec & Ops: Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "12744",
+    "name": "Generic Issue Type Scheme (Simplified)",
+    "description": "Used as a simplified version of the generic/default Issue Type Scheme; primarily for non-software teams",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "15807",
+    "name": "Generic Issue Type Scheme",
+    "description": "Used as a generic/default Issue Type Scheme",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "16668",
+    "name": "Generic Jira Service Desk Issue Type Scheme",
+    "description": "This Jira Service Desk Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17176",
+    "name": "CHANGE: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17266",
+    "name": "WORKTEST: Project Management Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17378",
+    "name": "AHSCR: Content Management Issue Type Scheme",
+    "defaultIssueTypeId": "11154"
+  },
+  {
+    "id": "17381",
+    "name": "PMEN: Task Management Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17428",
+    "name": "CPI: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17497",
+    "name": "SOR: Project Management Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17513",
+    "name": "PROPROJ: Project Management Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17607",
+    "name": "A123456: Blank project issue type scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17608",
+    "name": "B123456: Scrum Issue Type Scheme",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "17609",
+    "name": "C123456: Task Management Issue Type Scheme",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "17689",
+    "name": "SRSE: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17771",
+    "name": "DEPOT: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17773",
+    "name": "[Global] Basic Service Request",
+    "description": "Provides only the most basic \"Service Request\" issue type."
+  },
+  {
+    "id": "17776",
+    "name": "DEPOT: Issue Type Scheme"
+  },
+  {
+    "id": "17782",
+    "name": "FTDRPROJ: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "17808",
+    "name": "zArchived Issue Type Scheme"
+  },
+  {
+    "id": "17813",
+    "name": "FPM: Scrum Issue Type Scheme",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "17911",
+    "name": "GRC: Issye Type Scheme",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "17915",
+    "name": "XRay Testing Issue Type Scheme",
+    "description": "Our generic issue types, plus all of XRay's types",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "17921",
+    "name": "SECHUB: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "18035",
+    "name": "COSMERE: Kanban Issue Type Scheme",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "18300",
+    "name": "STREEM: Scrum Issue Type Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "18398",
+    "name": "ACC210: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "18959",
+    "name": "WORK210: Project Management Issue Type Scheme",
+    "description": "",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "19355",
+    "name": "PPC: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "19356",
+    "name": "Generic Simplified JSM Type Scheme",
+    "description": "",
+    "defaultIssueTypeId": "11109"
+  },
+  {
+    "id": "19553",
+    "name": "Generic Issue Type Scheme w/ Xray Types",
+    "description": "Used as a generic/default Issue Type Scheme, but includes Xray's issue types",
+    "defaultIssueTypeId": "12"
+  },
+  {
+    "id": "19983",
+    "name": "Tenable Issue Type Scheme",
+    "description": "Issue type scheme for Tenable vulnerabilities",
+    "defaultIssueTypeId": "11521"
+  },
+  {
+    "id": "20378",
+    "name": "OMI1121: Jira Service Management Issue Type Scheme",
+    "description": "This Jira Service Management Issue Type Scheme was generated automatically"
+  },
+  {
+    "id": "22668",
+    "name": "DR Issue Type Scheme",
+    "description": "",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "22769",
+    "name": "FAC: Task Management Issue Type Scheme",
+    "description": "",
+    "defaultIssueTypeId": "3"
+  },
+  {
+    "id": "22903",
+    "name": "PMO Issue Type Scheme",
+    "defaultIssueTypeId": "12"
+  }
+]

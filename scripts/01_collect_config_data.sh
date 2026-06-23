@@ -12,7 +12,9 @@ SITE="https://ftdr-sandbox-438.atlassian.net"
 EMAIL="jax.kane@frontdoor.com"
 PAT="${FTDR_CLOUD_PAT:?Set FTDR_CLOUD_PAT before running}"
 AUTH_HEADER="Authorization: Basic $(printf '%s:%s' "$EMAIL" "$PAT" | base64)"
-OUTPUT_DIR="./audit_data/$(date +%Y%m%d)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+OUTPUT_DIR="${PROJECT_ROOT}/data/$(date +%Y%m%d)"
 
 mkdir -p "$OUTPUT_DIR"
 

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Default Issue Type Screen Scheme",
+    "description": "The default issue type screen scheme"
+  },
+  {
+    "id": "10303",
+    "name": "AHS Default Issue Type Screen Scheme",
+    "description": "The default issue type screen scheme for AHS"
+  },
+  {
+    "id": "10304",
+    "name": "SVM IT Issue Type Screen Scheme",
+    "description": "Issue type screen scheme for SVM IT"
+  },
+  {
+    "id": "10908",
+    "name": "BSC Non-SDLC Groups Issue Type Screen Scheme",
+    "description": "Issue Type Screen Scheme for Non-SDLC Groups"
+  },
+  {
+    "id": "11801",
+    "name": "Product and Price Default Issue Type Screen Scheme",
+    "description": "copy of  issue type screen scheme for AHS for product and price"
+  },
+  {
+    "id": "12111",
+    "name": "Remedy",
+    "description": "Remedy Issue Type Screen Scheme"
+  },
+  {
+    "id": "12602",
+    "name": "PREP: Kanban Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "13302",
+    "name": "Contractor Onboarding",
+    "description": ""
+  },
+  {
+    "id": "13400",
+    "name": "AHSD: Kanban Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "13500",
+    "name": " IT Sourcing (ITS) Issue Type Screen Scheme",
+    "description": "Issue Type Screen Scheme for IT Sourcing (ITS)"
+  },
+  {
+    "id": "13503",
+    "name": "Generic Issue Type Screen Scheme",
+    "description": "Used for default/generic Issue Type Screen Scheme"
+  },
+  {
+    "id": "14132",
+    "name": "Generic Jira Service Desk Issue Type Screen Scheme",
+    "description": "This is the Generic Jira Service Desk Issue Type Screen Scheme for service desks"
+  },
+  {
+    "id": "14155",
+    "name": "BBBSD: Jira Service Desk Issue Type Screen Scheme",
+    "description": "This Jira Service Desk Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14156",
+    "name": "IT1234: Jira Service Desk Issue Type Screen Scheme",
+    "description": "This Jira Service Desk Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14158",
+    "name": "CHANGE: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14159",
+    "name": "LEGAL: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14165",
+    "name": "WORKTEST: Project Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14176",
+    "name": "AHSCR: Content Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14177",
+    "name": "PMEN: Task Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14179",
+    "name": "CPI: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14183",
+    "name": "SOR: Project Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14185",
+    "name": "PROPROJ: Project Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14189",
+    "name": "A123456: Blank project screen scheme",
+    "description": ""
+  },
+  {
+    "id": "14190",
+    "name": "B123456: Scrum Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14191",
+    "name": "C123456: Task Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14192",
+    "name": "VULN: Task Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14193",
+    "name": "CRM Project - Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14195",
+    "name": "FCP/AUTHO: Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14197",
+    "name": "SRSE: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14198",
+    "name": "APPL Project - Generic Issue Type Screen Scheme",
+    "description": "Used for default/generic Issue Type Screen Scheme"
+  },
+  {
+    "id": "14201",
+    "name": "RESR: IT Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14202",
+    "name": "DEPOT: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14203",
+    "name": "FTDRPROJ: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14204",
+    "name": "zArchived Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14205",
+    "name": "FPM: Scrum Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14213",
+    "name": "GRC: Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14214",
+    "name": "SECHUB: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14218",
+    "name": "COSMERE: Kanban Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14284",
+    "name": "STREEM: Scrum Issue Type Screen Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": "14317",
+    "name": "ACC210: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14416",
+    "name": "WORK210: Project Management Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14515",
+    "name": "PPC: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "14548",
+    "name": "FACILITIES: Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14647",
+    "name": "TNBL: Simple Issue Tracking Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "14680",
+    "name": "OMI1121: Jira Service Management Issue Type Screen Scheme",
+    "description": "This Jira Service Management Issue Type Screen Scheme was generated automatically"
+  },
+  {
+    "id": "15846",
+    "name": "Generic Issue Type Screen Scheme w/unique Research/Spike",
+    "description": ""
+  },
+  {
+    "id": "15879",
+    "name": "DR Issue Type Screen Scheme",
+    "description": ""
+  },
+  {
+    "id": "15913",
+    "name": "FAC: Task Management Issue Type Screen Scheme",
+    "description": ""
+  }
+]

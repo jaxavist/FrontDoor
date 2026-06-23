@@ -1,0 +1,2849 @@
+[
+  {
+    "id": 1,
+    "name": "Default Screen",
+    "description": "Allows to update all system fields."
+  },
+  {
+    "id": 2,
+    "name": "Workflow Screen",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 3,
+    "name": "Resolve Issue Screen",
+    "description": "Allows to set resolution, change fix versions and assign an issue."
+  },
+  {
+    "id": 10202,
+    "name": "AHS Enhancement/Epic Screen",
+    "description": "Screen for creation of Enhancements and Epics"
+  },
+  {
+    "id": 10300,
+    "name": "AHS Fail/Reopen Workflow Screen",
+    "description": "This screen is used when an issue is failed or reopened in the AHS Default Workflow Scheme"
+  },
+  {
+    "id": 10301,
+    "name": "AHS Resolve/Close Issue Screen",
+    "description": "Allows to set resolution, change fix versions and assign an issue."
+  },
+  {
+    "id": 10302,
+    "name": "AHS Assignment Workflow Screen",
+    "description": "This screen is used in the AHS Default Workflow scheme and enables you to assign issues"
+  },
+  {
+    "id": 10303,
+    "name": "AHS Test Case Screen",
+    "description": "Allows to update Test Case Issue Type fields."
+  },
+  {
+    "id": 10308,
+    "name": "SVM IT Test Case Screen",
+    "description": "Test Case Issue Type fields."
+  },
+  {
+    "id": 10310,
+    "name": "SVM IT Enhancement/Epic Screen",
+    "description": "Screen for creation of Enhancements and Epics for SVM IT"
+  },
+  {
+    "id": 10925,
+    "name": "BSC Non-SDLC Groups Create/Edit/View Screen",
+    "description": "Create/Edit/View Screen for Epics, Stories, or Tasks by BSC Non-SDLC Groups"
+  },
+  {
+    "id": 11006,
+    "name": "BSC Non-SDLC Assignment Workflow Screen",
+    "description": "This screen is used by BSC Non-SDLC Groups on workflows and enables you to assign issues"
+  },
+  {
+    "id": 11007,
+    "name": "BSC Non-SDLC Reopen Workflow Screen",
+    "description": "This screen is used when an issue is reopened by a Non-SDLC Group"
+  },
+  {
+    "id": 11008,
+    "name": "BSC Non-SDLC Resolve/Close Issue Screen",
+    "description": "Allows BSC Non-SDLC Group to resolve and close an issue"
+  },
+  {
+    "id": 11306,
+    "name": "IMG Reopen Workflow Screen",
+    "description": "This screen is used when an issue is reopened by IMG"
+  },
+  {
+    "id": 11307,
+    "name": "IMG Resolve/Close Issue Screen",
+    "description": "Allows IMG to resolve and close an issue"
+  },
+  {
+    "id": 12121,
+    "name": "Remedy Screen",
+    "description": "Remedy Screen"
+  },
+  {
+    "id": 12604,
+    "name": "PREP: Kanban Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 12605,
+    "name": "PREP: Kanban Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 13304,
+    "name": "Contractor Onboarding",
+    "description": ""
+  },
+  {
+    "id": 13400,
+    "name": "AHSD: Kanban Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 13401,
+    "name": "AHSD: Kanban Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 13500,
+    "name": "IT Sourcing (ITS) Create/Edit/View Screen",
+    "description": "Create/Edit/View Screen for Epics, Stories, or Tasks by IT Sourcing (ITS)"
+  },
+  {
+    "id": 13505,
+    "name": "Generic Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 13506,
+    "name": "Generic Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14174,
+    "name": "Generic Epic/Initiative Screen",
+    "description": "Same as Generic Default Issue Screen (currently as of 3/27/2020)"
+  },
+  {
+    "id": 14246,
+    "name": "AMSD: Jira Service Desk: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14248,
+    "name": "AMSD: Jira Service Desk: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14250,
+    "name": "AMSD: Jira Service Desk: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14252,
+    "name": "AMSD: Jira Service Desk: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14254,
+    "name": "JIRA Service Desk Resolve Issue Screen - 19",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14255,
+    "name": "Workflow Screen - 26",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14256,
+    "name": "JIRA Service Desk Pending Reason screen - 19",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14257,
+    "name": "JIRA Service Desk Resolve Issue Screen - 20",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14258,
+    "name": "JIRA Service Desk Pending Reason screen - 20",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14259,
+    "name": "Workflow Screen - 27",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14260,
+    "name": "Workflow Screen - 28",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14261,
+    "name": "JIRA Service Desk Pending Reason screen - 21",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14262,
+    "name": "JIRA Service Desk Resolve Issue Screen - 21",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14263,
+    "name": "Workflow Screen - 29",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14264,
+    "name": "JIRA Service Desk Pending Reason screen - 22",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14265,
+    "name": "JIRA Service Desk Resolve Issue Screen - 22",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14266,
+    "name": "Workflow Screen - 30",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14267,
+    "name": "JIRA Service Desk Pending Reason screen - 23",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14268,
+    "name": "JIRA Service Desk Resolve Issue Screen - 23",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14269,
+    "name": "Workflow Screen - 31",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14270,
+    "name": "JIRA Service Desk Pending Reason screen - 24",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14271,
+    "name": "JIRA Service Desk Resolve Issue Screen - 24",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14272,
+    "name": "AMSD: Jira Service Desk: Service Reques Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14273,
+    "name": "AMSD: Jira Service Desk: Task Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14276,
+    "name": "AMSD: Jira Service Desk: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14344,
+    "name": "AMSD: Submit a request or incident issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14345,
+    "name": "AMSD: Jira Service Desk: Incident View-Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14346,
+    "name": "AMSD: Jira Service Desk: Problem View-Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14347,
+    "name": "AMSD: Jira Service Desk: Request Fulfilment View-Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14441,
+    "name": "BBBSD: Jira Service Desk Screen",
+    "description": "This Jira Service Desk Screen was generated automatically"
+  },
+  {
+    "id": 14442,
+    "name": "BBBSD: Jira Service Desk: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14443,
+    "name": "BBBSD: Jira Service Desk: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14444,
+    "name": "BBBSD: Jira Service Desk: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14445,
+    "name": "BBBSD: Jira Service Desk: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14446,
+    "name": "BBBSD: Jira Service Desk: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14447,
+    "name": "BBBSD: Jira Service Desk: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14448,
+    "name": "BBBSD: Jira Service Desk: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14449,
+    "name": "BBBSD: Jira Service Desk: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14450,
+    "name": "JIRA Service Desk Resolve Issue Screen - 26",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14451,
+    "name": "Workflow Screen - 34",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14452,
+    "name": "JIRA Service Desk Pending Reason screen - 26",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14453,
+    "name": "JIRA Service Desk Resolve Issue Screen - 27",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14454,
+    "name": "JIRA Service Desk Pending Reason screen - 27",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14455,
+    "name": "Workflow Screen - 35",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14456,
+    "name": "Workflow Screen - 36",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14457,
+    "name": "JIRA Service Desk Pending Reason screen - 28",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14458,
+    "name": "JIRA Service Desk Resolve Issue Screen - 28",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14459,
+    "name": "Workflow Screen - 37",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14460,
+    "name": "JIRA Service Desk Pending Reason screen - 29",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14461,
+    "name": "JIRA Service Desk Resolve Issue Screen - 29",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14462,
+    "name": "Workflow Screen - 39",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14463,
+    "name": "JIRA Service Desk Pending Reason screen - 31",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14464,
+    "name": "JIRA Service Desk Resolve Issue Screen - 31",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14465,
+    "name": "Workflow Screen - 40",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14466,
+    "name": "JIRA Service Desk Pending Reason screen - 32",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14467,
+    "name": "JIRA Service Desk Resolve Issue Screen - 32",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14468,
+    "name": "IT1234: Jira Service Desk Screen",
+    "description": "This Jira Service Desk Screen was generated automatically"
+  },
+  {
+    "id": 14469,
+    "name": "IT1234: Jira Service Desk: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14470,
+    "name": "IT1234: Jira Service Desk: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14471,
+    "name": "IT1234: Jira Service Desk: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14472,
+    "name": "IT1234: Jira Service Desk: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14473,
+    "name": "IT1234: Jira Service Desk: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14474,
+    "name": "IT1234: Jira Service Desk: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14475,
+    "name": "IT1234: Jira Service Desk: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14476,
+    "name": "IT1234: Jira Service Desk: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14477,
+    "name": "JIRA Service Desk Resolve Issue Screen - 33",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14478,
+    "name": "Workflow Screen - 32",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14479,
+    "name": "JIRA Service Desk Pending Reason screen - 33",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14480,
+    "name": "JIRA Service Desk Resolve Issue Screen - 34",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14481,
+    "name": "JIRA Service Desk Pending Reason screen - 34",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14482,
+    "name": "Workflow Screen - 33",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14485,
+    "name": "JIRA Service Desk Resolve Issue Screen - 35",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14486,
+    "name": "Workflow Screen - 41",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14487,
+    "name": "JIRA Service Desk Pending Reason screen - 36",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14488,
+    "name": "JIRA Service Desk Resolve Issue Screen - 36",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14489,
+    "name": "Workflow Screen - 42",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14490,
+    "name": "JIRA Service Desk Pending Reason screen - 37",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14491,
+    "name": "JIRA Service Desk Resolve Issue Screen - 37",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14492,
+    "name": "Workflow Screen - 43",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14493,
+    "name": "JIRA Service Desk Pending Reason screen - 38",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14494,
+    "name": "JIRA Service Desk Resolve Issue Screen - 38",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14497,
+    "name": "CHANGE: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14498,
+    "name": "CHANGE: Jira Service Management: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14499,
+    "name": "CHANGE: Jira Service Management: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14500,
+    "name": "CHANGE: Jira Service Management: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14501,
+    "name": "CHANGE: Jira Service Management: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14502,
+    "name": "CHANGE: Jira Service Management: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14503,
+    "name": "CHANGE: Jira Service Management: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14504,
+    "name": "CHANGE: Jira Service Management: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14505,
+    "name": "CHANGE: Jira Service Management: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14506,
+    "name": "JIRA Service Desk Resolve Issue Screen",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14507,
+    "name": "Workflow Screen - 38",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14508,
+    "name": "JIRA Service Desk Pending Reason screen",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14509,
+    "name": "JIRA Service Desk Resolve Issue Screen - 30",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14510,
+    "name": "JIRA Service Desk Pending Reason screen - 25",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14511,
+    "name": "Workflow Screen - 44",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14514,
+    "name": "JIRA Service Desk Resolve Issue Screen - 39",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14515,
+    "name": "Workflow Screen - 46",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14516,
+    "name": "JIRA Service Desk Pending Reason screen - 35",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14517,
+    "name": "JIRA Service Desk Resolve Issue Screen - 40",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14518,
+    "name": "Workflow Screen - 47",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14519,
+    "name": "JIRA Service Desk Pending Reason screen - 39",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14520,
+    "name": "JIRA Service Desk Resolve Issue Screen - 41",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14521,
+    "name": "Workflow Screen - 48",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14522,
+    "name": "JIRA Service Desk Pending Reason screen - 40",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14523,
+    "name": "JIRA Service Desk Resolve Issue Screen - 42",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14524,
+    "name": "LEGAL: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14525,
+    "name": "LEGAL: Jira Service Management: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14526,
+    "name": "LEGAL: Jira Service Management: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14527,
+    "name": "LEGAL: Jira Service Management: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14528,
+    "name": "LEGAL: Jira Service Management: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14529,
+    "name": "LEGAL: Jira Service Management: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14530,
+    "name": "LEGAL: Jira Service Management: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14531,
+    "name": "LEGAL: Jira Service Management: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14532,
+    "name": "LEGAL: Jira Service Management: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14585,
+    "name": "WORKTEST: Project Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14586,
+    "name": "WORKTEST: Project Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14594,
+    "name": "Field Screen for Project : 15614",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15614"
+      }
+    }
+  },
+  {
+    "id": 14654,
+    "name": "AHSCR: Content Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14655,
+    "name": "AHSCR: Content Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14657,
+    "name": "PMEN: Task Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14658,
+    "name": "PMEN: Task Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14661,
+    "name": "CPI: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14662,
+    "name": "CPI: Jira Service Management: General Request Issue Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14663,
+    "name": "CPI: Jira Service Management: General Questions Issue Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14664,
+    "name": "Jira Service Desk Resolve Issue Screen",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14665,
+    "name": "Jira Service Desk Resolve Issue Screen - 2",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14666,
+    "name": "Workflow Screen - 45",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14667,
+    "name": "JIRA Service Desk Pending Reason screen - 30",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14668,
+    "name": "JIRA Service Desk Resolve Issue Screen - 25",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14673,
+    "name": "PRODDEMO-11148",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15614"
+      }
+    }
+  },
+  {
+    "id": 14679,
+    "name": "Generic Issue Create Screen",
+    "description": "Used by Generic Scrum Default Screen Scheme for issue creation screen"
+  },
+  {
+    "id": 14682,
+    "name": "SOR: Project Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14683,
+    "name": "SOR: Project Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14684,
+    "name": "SOR: Project Management Resolve Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14685,
+    "name": "Field Screen for Project : 15654",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "id": 14686,
+    "name": "ABAHS-11161",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15654"
+      }
+    }
+  },
+  {
+    "id": 14687,
+    "name": "PROPROJ: Project Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14688,
+    "name": "PROPROJ: Project Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14689,
+    "name": "PROPROJ: Project Management Resolve Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14690,
+    "name": "Workflow Screen - Sailpoint Info",
+    "description": ""
+  },
+  {
+    "id": 14691,
+    "name": "Default Screen - CREATE",
+    "description": "Allows to update all system fields (minus resolution)"
+  },
+  {
+    "id": 14692,
+    "name": "AHS Test Case Screen - CREATE",
+    "description": "Allows to update Test Case Issue Type fields (minus resolution)"
+  },
+  {
+    "id": 14693,
+    "name": "Generic Bug Screen - Create",
+    "description": ""
+  },
+  {
+    "id": 14697,
+    "name": "Field Screen for Project : 15666",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "id": 14698,
+    "name": "LEGPROJ-11162",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "id": 14699,
+    "name": "LEGPROJ-11163",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15666"
+      }
+    }
+  },
+  {
+    "id": 14700,
+    "name": "Field Screen for Project : 15668",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "id": 14701,
+    "name": "TMTEST-11164",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "id": 14702,
+    "name": "TMTEST-11165",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15668"
+      }
+    }
+  },
+  {
+    "id": 14703,
+    "name": "Workflow Screen - Fix Approver",
+    "description": ""
+  },
+  {
+    "id": 14704,
+    "name": "Workflow Screen - Add Comment",
+    "description": ""
+  },
+  {
+    "id": 14705,
+    "name": "A123456: Blank project create issue screen",
+    "description": ""
+  },
+  {
+    "id": 14706,
+    "name": "A123456: Blank project edit/view issue screen",
+    "description": ""
+  },
+  {
+    "id": 14707,
+    "name": "B123456: Scrum Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14708,
+    "name": "B123456: Scrum Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14709,
+    "name": "PM: Simple Issue Tracking Resolve Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14710,
+    "name": "C123456: Task Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14711,
+    "name": "C123456: Task Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14712,
+    "name": "PM: Simple Issue Tracking Resolve Issue Screen - 2",
+    "description": ""
+  },
+  {
+    "id": 14713,
+    "name": "VULN: Task Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14714,
+    "name": "VULN: Task Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14715,
+    "name": "CRM Project - Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14716,
+    "name": "CRM Project - Bug Screen - Create",
+    "description": ""
+  },
+  {
+    "id": 14717,
+    "name": "CRM Project - Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14718,
+    "name": "CRM Project - Epic/Initiative Screen",
+    "description": ""
+  },
+  {
+    "id": 14719,
+    "name": "CRM Project - Default Issue Screen - Create",
+    "description": ""
+  },
+  {
+    "id": 14720,
+    "name": "Field Screen for Project : 15673",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14721,
+    "name": "CRMOPS-11166",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14722,
+    "name": "CRMOPS-11167",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14723,
+    "name": "CRMOPS-11168",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14724,
+    "name": "CRMOPS-11169",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14725,
+    "name": "Bug Screen - FCP/AUTHO",
+    "description": ""
+  },
+  {
+    "id": 14726,
+    "name": "Bug Screen - Create - FCP/AUTHO",
+    "description": ""
+  },
+  {
+    "id": 14727,
+    "name": "Workflow Screen - RCA Decision",
+    "description": ""
+  },
+  {
+    "id": 14728,
+    "name": "Field Screen for Project : 15674",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "id": 14729,
+    "name": "LEGAGMT-11170",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "id": 14730,
+    "name": "LEGAGMT-11171",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15674"
+      }
+    }
+  },
+  {
+    "id": 14731,
+    "name": "SRSE: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14732,
+    "name": "SRSE: Jira Service Management: General Request Issue Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14733,
+    "name": "SRSE: Jira Service Management: General Questions Issue Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14734,
+    "name": "Jira Service Desk Resolve Issue Screen - 3",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14735,
+    "name": "Jira Service Desk Resolve Issue Screen - 4",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14736,
+    "name": "Workflow Screen - 49",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14737,
+    "name": "JIRA Service Desk Pending Reason screen - 41",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14738,
+    "name": "JIRA Service Desk Resolve Issue Screen - 43",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14739,
+    "name": "APPL Project - Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14740,
+    "name": "APPL Project - Bug Screen - Create",
+    "description": ""
+  },
+  {
+    "id": 14741,
+    "name": "APPL Project - Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14742,
+    "name": "APPL Project - Issue Create Screen",
+    "description": "Used by Generic Scrum Default Screen Scheme for issue creation screen"
+  },
+  {
+    "id": 14743,
+    "name": "Field Screen for Project : 15680",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14744,
+    "name": "MKTG-11172",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14745,
+    "name": "MKTG-11173",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14746,
+    "name": "MKTG-11174",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14747,
+    "name": "MKTG-11175",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14748,
+    "name": "MKTG-11176",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14749,
+    "name": "CRMOPS-11177",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15673"
+      }
+    }
+  },
+  {
+    "id": 14750,
+    "name": "Workflow Screen - FCP/Autho Code Review Bugs",
+    "description": ""
+  },
+  {
+    "id": 14758,
+    "name": "RESR: Issue Create Screen",
+    "description": ""
+  },
+  {
+    "id": 14759,
+    "name": "RESR: Issue Edit/View Screen",
+    "description": ""
+  },
+  {
+    "id": 14760,
+    "name": "DEPOT: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14761,
+    "name": "DEPOT: Jira Service Management: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14762,
+    "name": "DEPOT: Jira Service Management: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14763,
+    "name": "DEPOT: Jira Service Management: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14764,
+    "name": "DEPOT: Jira Service Management: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14765,
+    "name": "DEPOT: Jira Service Management: Post-Incident Review Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14766,
+    "name": "DEPOT: Jira Service Management: Post-Incident Review View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14767,
+    "name": "DEPOT: Jira Service Management: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14768,
+    "name": "DEPOT: Jira Service Management: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14769,
+    "name": "DEPOT: Jira Service Management: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14770,
+    "name": "DEPOT: Jira Service Management: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14771,
+    "name": "JIRA Service Desk Resolve Issue Screen - 44",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14772,
+    "name": "Workflow Screen - 50",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14773,
+    "name": "JIRA Service Desk Pending Reason screen - 42",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14774,
+    "name": "JIRA Service Desk Resolve Issue Screen - 45",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14775,
+    "name": "JIRA Service Desk Pending Reason screen - 43",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14776,
+    "name": "Workflow Screen - 51",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14777,
+    "name": "Workflow Screen - 52",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14778,
+    "name": "JIRA Service Desk Pending Reason screen - 44",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14779,
+    "name": "JIRA Service Desk Resolve Issue Screen - 46",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14780,
+    "name": "Workflow Screen - 53",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14781,
+    "name": "JIRA Service Desk Pending Reason screen - 45",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14782,
+    "name": "JIRA Service Desk Resolve Issue Screen - 47",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14783,
+    "name": "Workflow Screen - 54",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14784,
+    "name": "JIRA Service Desk Pending Reason screen - 46",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14785,
+    "name": "JIRA Service Desk Resolve Issue Screen - 48",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14786,
+    "name": "Workflow Screen - 55",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14787,
+    "name": "JIRA Service Desk Pending Reason screen - 47",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14788,
+    "name": "JIRA Service Desk Resolve Issue Screen - 49",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14789,
+    "name": "Workflow Screen - 56",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14790,
+    "name": "JIRA Service Desk Pending Reason screen - 48",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14791,
+    "name": "JIRA Service Desk Resolve Issue Screen - 50",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14792,
+    "name": "Workflow Screen - Fix Version",
+    "description": ""
+  },
+  {
+    "id": 14793,
+    "name": "Workflow Screen - Story Points",
+    "description": ""
+  },
+  {
+    "id": 14794,
+    "name": "Workflow Screen - FV & SP",
+    "description": ""
+  },
+  {
+    "id": 14795,
+    "name": "Workflow Screen - Link Issue",
+    "description": ""
+  },
+  {
+    "id": 14796,
+    "name": "FTDRPROJ: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14797,
+    "name": "FTDRPROJ: Jira Service Management: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14798,
+    "name": "FTDRPROJ: Jira Service Management: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14799,
+    "name": "FTDRPROJ: Jira Service Management: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14800,
+    "name": "FTDRPROJ: Jira Service Management: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14801,
+    "name": "FTDRPROJ: Jira Service Management: Post-Incident Review Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14802,
+    "name": "FTDRPROJ: Jira Service Management: Post-Incident Review View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14803,
+    "name": "FTDRPROJ: Jira Service Management: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14804,
+    "name": "FTDRPROJ: Jira Service Management: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14805,
+    "name": "FTDRPROJ: Jira Service Management: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14806,
+    "name": "FTDRPROJ: Jira Service Management: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 14807,
+    "name": "JIRA Service Desk Resolve Issue Screen - 51",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14808,
+    "name": "Workflow Screen - 57",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14809,
+    "name": "JIRA Service Desk Pending Reason screen - 49",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14810,
+    "name": "JIRA Service Desk Resolve Issue Screen - 52",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14811,
+    "name": "JIRA Service Desk Pending Reason screen - 50",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14812,
+    "name": "Workflow Screen - 58",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14813,
+    "name": "Workflow Screen - 59",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14814,
+    "name": "JIRA Service Desk Pending Reason screen - 51",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14815,
+    "name": "JIRA Service Desk Resolve Issue Screen - 53",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14816,
+    "name": "Workflow Screen - 60",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14817,
+    "name": "JIRA Service Desk Pending Reason screen - 52",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14818,
+    "name": "JIRA Service Desk Resolve Issue Screen - 54",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14819,
+    "name": "Workflow Screen - 61",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14820,
+    "name": "JIRA Service Desk Pending Reason screen - 53",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14821,
+    "name": "JIRA Service Desk Resolve Issue Screen - 55",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14822,
+    "name": "Workflow Screen - 62",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14823,
+    "name": "JIRA Service Desk Pending Reason screen - 54",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14824,
+    "name": "JIRA Service Desk Resolve Issue Screen - 56",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14825,
+    "name": "Workflow Screen - 63",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14826,
+    "name": "JIRA Service Desk Pending Reason screen - 55",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14827,
+    "name": "JIRA Service Desk Resolve Issue Screen - 57",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14828,
+    "name": "zArchived Screen",
+    "description": "A screen for archived projects that includes every field in the system"
+  },
+  {
+    "id": 14829,
+    "name": "FPM: Scrum Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14830,
+    "name": "FPM: Scrum Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14831,
+    "name": "Field Screen for Project : 15696",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "id": 14832,
+    "name": "LIFEOPS-11188",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "id": 14833,
+    "name": "LIFEOPS-11189",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15696"
+      }
+    }
+  },
+  {
+    "id": 14838,
+    "name": "TMTKANB: Simple Default Issue Screen",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "id": 14839,
+    "name": "TMTKANB-11193",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "id": 14840,
+    "name": "TMTKANB-11194",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "id": 14841,
+    "name": "TMTKANB-11195",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15698"
+      }
+    }
+  },
+  {
+    "id": 14842,
+    "name": "Field Screen for Project : 15699",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "id": 14843,
+    "name": "LCMNM-11196",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "id": 14844,
+    "name": "LCMNM-11197",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15699"
+      }
+    }
+  },
+  {
+    "id": 14845,
+    "name": "Field Screen for Project : 15700",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "id": 14846,
+    "name": "LCMM-11198",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "id": 14847,
+    "name": "LCMM-11199",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15700"
+      }
+    }
+  },
+  {
+    "id": 14848,
+    "name": "Field Screen for Project : 15701",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "id": 14849,
+    "name": "LMMMO-11200",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "id": 14850,
+    "name": "LMMMO-11201",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15701"
+      }
+    }
+  },
+  {
+    "id": 14851,
+    "name": "Field Screen for Project : 15702",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 14852,
+    "name": "LCM-11202",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 14853,
+    "name": "LCM-11203",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 14854,
+    "name": "LCM-11204",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 14855,
+    "name": "GRC: Evidence Request Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14856,
+    "name": "GRC: Evidence Request Issue View Screen",
+    "description": ""
+  },
+  {
+    "id": 14857,
+    "name": "GRC: Corrective Action Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14858,
+    "name": "GRC: Corrective Action Issue View Screen",
+    "description": ""
+  },
+  {
+    "id": 14859,
+    "name": "GRC: Risk Treatment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14860,
+    "name": "GRC: Risk Treatment Issue View Screen",
+    "description": ""
+  },
+  {
+    "id": 14861,
+    "name": "SECHUB: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14862,
+    "name": "SECHUB: Jira Service Management Task and Subtask Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14863,
+    "name": "Jira Service Desk Resolve Issue Screen - 5",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14864,
+    "name": "Workflow Screen - 64",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14865,
+    "name": "JIRA Service Desk Pending Reason screen - 56",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14866,
+    "name": "JIRA Service Desk Resolve Issue Screen - 58",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 14869,
+    "name": "Field Screen for Project : 15711",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14870,
+    "name": "WEBOPS-11216",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14871,
+    "name": "WEBOPS-11217",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14872,
+    "name": "Workflow Screen - Assign Compliance Issue",
+    "description": ""
+  },
+  {
+    "id": 14873,
+    "name": "WEBOPS-11218",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14874,
+    "name": "WEBOPS-11219",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14875,
+    "name": "WEBOPS-11220",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15711"
+      }
+    }
+  },
+  {
+    "id": 14876,
+    "name": "Field Screen for Project : 15713",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "id": 14877,
+    "name": "ARC-11221",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "id": 14878,
+    "name": "ARC-11222",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15713"
+      }
+    }
+  },
+  {
+    "id": 14879,
+    "name": "MKTG-11223",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15680"
+      }
+    }
+  },
+  {
+    "id": 14880,
+    "name": "COSMERE: Kanban Default Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 14881,
+    "name": "COSMERE: Kanban Bug Screen",
+    "description": ""
+  },
+  {
+    "id": 14946,
+    "name": "STREEM: Scrum Default Issue Screen",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14947,
+    "name": "Resolve Issue Screen (migrated)",
+    "description": "Allows to set resolution, change fix versions and assign an issue. (Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14948,
+    "name": "STREEM: Scrum Bug Screen",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14949,
+    "name": "Merged Screen",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14950,
+    "name": "Compliance View Screen",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14951,
+    "name": "Compliance Create/Edit Screen",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)"
+  },
+  {
+    "id": 14952,
+    "name": "Field Screen for Project : 10049",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "id": 14953,
+    "name": "IN-10116",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "id": 14954,
+    "name": "IN-10117",
+    "description": "(Migrated on 10 Dec 2024 03:34 UTC)",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15883"
+      }
+    }
+  },
+  {
+    "id": 14979,
+    "name": "ACC210: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14980,
+    "name": "ACC210: Jira Service Management Task and Subtask Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 14981,
+    "name": "Jira Service Desk Resolve Issue Screen - 6",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 14982,
+    "name": "Workflow Screen - 65",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 14983,
+    "name": "JIRA Service Desk Pending Reason screen - 57",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 14984,
+    "name": "JIRA Service Desk Resolve Issue Screen - 59",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15045,
+    "name": "Field Screen for Project : 16079",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "id": 15046,
+    "name": "CONX-11356",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "id": 15078,
+    "name": "WORK210: Project Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15079,
+    "name": "WORK210: Project Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15080,
+    "name": "WORK210: Project Management Resolve Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15177,
+    "name": "PPC: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 15178,
+    "name": "PPC: Jira Service Management Task and Subtask Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 15179,
+    "name": "Jira Service Desk Resolve Issue Screen - 7",
+    "description": "Allows to set resolution"
+  },
+  {
+    "id": 15180,
+    "name": "Workflow Screen - 66",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15181,
+    "name": "JIRA Service Desk Pending Reason screen - 58",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15182,
+    "name": "JIRA Service Desk Resolve Issue Screen - 60",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15210,
+    "name": "FACILITIES: Default Screen",
+    "description": ""
+  },
+  {
+    "id": 15211,
+    "name": "FACILITIES: Budget Approval Screen",
+    "description": ""
+  },
+  {
+    "id": 15243,
+    "name": "LCM-11455",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 15276,
+    "name": "REALDUMB: Simple Default Issue Screen",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "id": 15277,
+    "name": "REALDUMB-11488",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "id": 15278,
+    "name": "REALDUMB-11489",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "id": 15279,
+    "name": "REALDUMB-11490",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16310"
+      }
+    }
+  },
+  {
+    "id": 15309,
+    "name": "TNBL: Simple Issue Tracking Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15310,
+    "name": "TNBL: Simple Issue Tracking Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15311,
+    "name": "TNBL: Simple Issue Tracking Resolve Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15342,
+    "name": "LCM-11587",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "15702"
+      }
+    }
+  },
+  {
+    "id": 15375,
+    "name": "OMI1121: Jira Service Management Screen",
+    "description": "This Jira Service Management Screen was generated automatically"
+  },
+  {
+    "id": 15376,
+    "name": "OMI1121: Jira Service Management: Change Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15377,
+    "name": "OMI1121: Jira Service Management: Change View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 15378,
+    "name": "OMI1121: Jira Service Management: Incident Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15379,
+    "name": "OMI1121: Jira Service Management: Incident View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 15380,
+    "name": "OMI1121: Jira Service Management: Post-Incident Review Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15381,
+    "name": "OMI1121: Jira Service Management: Post-Incident Review View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 15382,
+    "name": "OMI1121: Jira Service Management: Problem Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15383,
+    "name": "OMI1121: Jira Service Management: Problem View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 15384,
+    "name": "OMI1121: Jira Service Management: Request Fulfilment Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 15385,
+    "name": "OMI1121: Jira Service Management: Request Fulfilment View/Edit Screen",
+    "description": ""
+  },
+  {
+    "id": 15386,
+    "name": "JIRA Service Desk Resolve Issue Screen - 61",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15387,
+    "name": "Workflow Screen - 67",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15388,
+    "name": "JIRA Service Desk Pending Reason screen - 59",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15389,
+    "name": "JIRA Service Desk Resolve Issue Screen - 62",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15390,
+    "name": "JIRA Service Desk Pending Reason screen - 60",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15391,
+    "name": "Workflow Screen - 68",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15392,
+    "name": "Workflow Screen - 69",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15393,
+    "name": "JIRA Service Desk Pending Reason screen - 61",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15394,
+    "name": "JIRA Service Desk Resolve Issue Screen - 63",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15395,
+    "name": "Workflow Screen - 70",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15396,
+    "name": "JIRA Service Desk Pending Reason screen - 62",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15397,
+    "name": "JIRA Service Desk Resolve Issue Screen - 64",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15398,
+    "name": "Workflow Screen - 71",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15399,
+    "name": "JIRA Service Desk Pending Reason screen - 63",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15400,
+    "name": "JIRA Service Desk Resolve Issue Screen - 65",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15401,
+    "name": "Workflow Screen - 72",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15402,
+    "name": "JIRA Service Desk Pending Reason screen - 64",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15403,
+    "name": "JIRA Service Desk Resolve Issue Screen - 66",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15404,
+    "name": "Workflow Screen - 73",
+    "description": "This screen is used in the workflow and enables you to assign issues"
+  },
+  {
+    "id": 15405,
+    "name": "JIRA Service Desk Pending Reason screen - 65",
+    "description": "Screen to specify the pending reason when transitioning to the Pending status"
+  },
+  {
+    "id": 15406,
+    "name": "JIRA Service Desk Resolve Issue Screen - 67",
+    "description": "Allows to set resolution and linked issues"
+  },
+  {
+    "id": 15408,
+    "name": "Workflow Screen - Resolution",
+    "description": "Allows the resolution to be updated on change"
+  },
+  {
+    "id": 16442,
+    "name": "Field Screen for Project : 17707",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16443,
+    "name": "SPRDMP-12621",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16476,
+    "name": "SPRDMP-12687",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16477,
+    "name": "SPRDMP-12688",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16478,
+    "name": "SPRDMP-12689",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16479,
+    "name": "SPRDMP-12690",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16512,
+    "name": "Default Field Screen for Project : FPMD",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "id": 16513,
+    "name": "FPMD - idea",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "id": 16546,
+    "name": "Field Screen for Project : 17774",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "id": 16547,
+    "name": "INDOBJ-12756",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "id": 16548,
+    "name": "INDOBJ-12757",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "id": 16549,
+    "name": "INDOBJ-12758",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "id": 16582,
+    "name": "Field Screen for Project : 17808",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16583,
+    "name": "JID26-12791",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16584,
+    "name": "JID26-12792",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16617,
+    "name": "Generic Research/Spike Create Screen",
+    "description": ""
+  },
+  {
+    "id": 16618,
+    "name": "Generic Research/Spike Screen",
+    "description": ""
+  },
+  {
+    "id": 16651,
+    "name": "JID26-12825",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16684,
+    "name": "SPRDMP-12858",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17707"
+      }
+    }
+  },
+  {
+    "id": 16720,
+    "name": "JID26-12894",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16753,
+    "name": "JID26-12960",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17808"
+      }
+    }
+  },
+  {
+    "id": 16786,
+    "name": "DR System Create Screen",
+    "description": ""
+  },
+  {
+    "id": 16787,
+    "name": "DR System Default Screen",
+    "description": ""
+  },
+  {
+    "id": 16820,
+    "name": "FPMD-13026",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17740"
+      }
+    }
+  },
+  {
+    "id": 16856,
+    "name": "PM: Simple Issue Tracking Resolve Issue Screen - 3",
+    "description": ""
+  },
+  {
+    "id": 16857,
+    "name": "FAC: Task Management Create Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 16858,
+    "name": "FAC: Task Management Edit/View Issue Screen",
+    "description": ""
+  },
+  {
+    "id": 16891,
+    "name": "PMO: Risk Default Screen",
+    "description": ""
+  },
+  {
+    "id": 16924,
+    "name": "PRODUCT-13126",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "id": 16957,
+    "name": "Default Field Screen for Project : INNOV",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17975"
+      }
+    }
+  },
+  {
+    "id": 16958,
+    "name": "INNOV - idea",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17975"
+      }
+    }
+  },
+  {
+    "id": 16991,
+    "name": "INDOBJ-13192",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "17774"
+      }
+    }
+  },
+  {
+    "id": 17024,
+    "name": "PRODUCT-13225",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "16079"
+      }
+    }
+  },
+  {
+    "id": 18058,
+    "name": "Field Screen for Project : 19042",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "id": 18059,
+    "name": "PTTEST-14259",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "id": 18060,
+    "name": "PTTEST-14260",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "id": 18061,
+    "name": "Default Field Screen for Project : PLTRDMP",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19043"
+      }
+    }
+  },
+  {
+    "id": 18062,
+    "name": "PLTRDMP - idea",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19043"
+      }
+    }
+  },
+  {
+    "id": 18094,
+    "name": "PT-14294",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  },
+  {
+    "id": 18095,
+    "name": "PT-14295",
+    "description": "",
+    "scope": {
+      "type": "PROJECT",
+      "project": {
+        "id": "19042"
+      }
+    }
+  }
+]

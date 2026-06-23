@@ -1,0 +1,770 @@
+[
+  {
+    "id": 12901,
+    "name": "Finance Project - Workflow",
+    "defaultWorkflow": "[For Finance] Copy of AHS STARWars 10.25",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 14503,
+    "name": "Contractor Onboarding WF Scheme",
+    "defaultWorkflow": "Copy of Contractor Onboarding 6/17",
+    "issueTypeMappings": {
+      "5": "Copy of Contractor Onboarding 6/17",
+      "3": "Copy of Contractor Onboarding 6/17"
+    }
+  },
+  {
+    "id": 15304,
+    "name": "UX: Software Simplified Workflow Scheme",
+    "defaultWorkflow": "Software Simplified Workflow for Project UX",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15463,
+    "name": "Generic Simplified Workflow Scheme",
+    "defaultWorkflow": "Generic Simplified Workflow",
+    "issueTypeMappings": {
+      "13093": "PMO: Risk Workflow",
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15466,
+    "name": "Archived Projects - Generic Simplified Workflow Scheme",
+    "defaultWorkflow": "Generic Simplified Workflow",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15468,
+    "name": "Archived Projects - Generic Simplified Workflow (with Code Review, QA, UAT, & Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15469,
+    "name": "Generic Simplified Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15471,
+    "name": "Archived Projects - Generic Simplified Workflow (with Code Review, QA, and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, and UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15472,
+    "name": "Generic Simplified Workflow (with Code Review, QA, and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, and UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15473,
+    "name": "Generic Simplified Workflow (with QA)",
+    "defaultWorkflow": "Generic Simplified Workflow (with QA)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15492,
+    "name": "BSC Information Security WF Scheme",
+    "defaultWorkflow": "Information Security_WF_1/5/18",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15507,
+    "name": "Jira Service Desk IT Support Workflow Scheme generated for Project BBBSD",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11108": "BBBSD: Incident Management workflow for Jira Service Desk",
+      "3": "BBBSD: Jira Service Desk default workflow",
+      "11109": "BBBSD: Service Request Fulfilment workflow for Jira Service Desk",
+      "5": "BBBSD: Jira Service Desk default workflow",
+      "11111": "BBBSD: Problem Management workflow for Jira Service Desk",
+      "11110": "BBBSD: Service Request Fulfilment with Approvals workflow for Jira Service Desk",
+      "10402": "BBBSD: Change Management workflow for Jira Service Desk"
+    }
+  },
+  {
+    "id": 15508,
+    "name": "Jira Service Desk IT Support Workflow Scheme generated for Project IT1234",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "3": "IT1234: Jira Service Desk default workflow",
+      "5": "IT1234: Jira Service Desk default workflow",
+      "11135": "IT1234: Incident Management workflow for Jira Service Desk",
+      "11137": "IT1234: Service Request Fulfilment with Approvals workflow for Jira Service Desk",
+      "11136": "IT1234: Service Request Fulfilment workflow for Jira Service Desk",
+      "11139": "IT1234: Problem Management workflow for Jira Service Desk",
+      "11138": "IT1234: Change Management workflow for Jira Service Desk"
+    }
+  },
+  {
+    "id": 15515,
+    "name": "Generic Simplified Workflow (with Code Review, QA, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15519,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project CHANGE",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "3": "CHANGE: Jira Service Management default workflow",
+      "5": "CHANGE: Jira Service Management default workflow",
+      "11135": "CHANGE: Incident Management workflow for Jira Service Management",
+      "11137": "CHANGE: Service Request Fulfilment with Approvals workflow for Jira Service Management",
+      "11136": "CHANGE: Service Request Fulfilment workflow for Jira Service Management",
+      "11257": "Code Freeze Override",
+      "11139": "CHANGE: Problem Management workflow for Jira Service Management",
+      "11138": "CHANGE: Change Management workflow for Jira Service Management"
+    }
+  },
+  {
+    "id": 15527,
+    "name": "Generic Simplified Workflow (with QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15528,
+    "name": "WORKTEST: Project Management Workflow Scheme",
+    "defaultWorkflow": "WORKTEST: Project Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15530,
+    "name": "Generic Simplified Workflow (with QA and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with QA and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15544,
+    "name": "AHSCR: Content Management Workflow Scheme",
+    "defaultWorkflow": "AHSCR: Content Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15545,
+    "name": "PMEN: Task Management Workflow Scheme",
+    "defaultWorkflow": "PMEN: Task Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15546,
+    "name": "Generic Simplified Workflow (with QA and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with QA and UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15548,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project CPI",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11157": "CPI: Simple ESM workflow for Jira Service Management",
+      "3": "CPI: Jira Service Management default workflow",
+      "11112": "CPI: Default ESM workflow for Jira Service Management",
+      "5": "CPI: Jira Service Management default workflow",
+      "11114": "CPI: Simple ESM workflow for Jira Service Management"
+    }
+  },
+  {
+    "id": 15553,
+    "name": "SOR: Project Management Workflow Scheme",
+    "defaultWorkflow": "SOR: Project Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15555,
+    "name": "PROPROJ: Project Management Workflow Scheme",
+    "defaultWorkflow": "PROPROJ: Project Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15556,
+    "name": "Generic Simplified Workflow (with Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15557,
+    "name": "BSC Infra Workflow Scheme - System Team 2",
+    "defaultWorkflow": "Infra Workflow - System Team",
+    "issueTypeMappings": {
+      "7": "Standard Test Case Workflow",
+      "10": "Standard Test Case Workflow"
+    }
+  },
+  {
+    "id": 15560,
+    "name": "Generic Simplified Workflow (with Code Rev, QA, UAT, Pending Remed, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, UAT, Pending Remediation, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15561,
+    "name": "A123456: Blank project workflow scheme",
+    "defaultWorkflow": "A123456: Blank project default workflow",
+    "issueTypeMappings": {
+      "5": "A123456: Blank project default workflow",
+      "3": "A123456: Blank project default workflow"
+    }
+  },
+  {
+    "id": 15562,
+    "name": "B123456: Software Simplified Workflow Scheme",
+    "defaultWorkflow": "Software Simplified Workflow for Project B123456",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15563,
+    "name": "C123456: Task Management Workflow Scheme",
+    "defaultWorkflow": "C123456: Task Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15568,
+    "name": "Copy of MODIFIED Gen. Simplified Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "CUSTOMIZED Simplified Workflow (with Code Review, QA-Dev, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "1": "Customized Bug Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15570,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project SRSE",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11157": "SRSE: Simple ESM workflow for Jira Service Management",
+      "3": "SRSE: Jira Service Management default workflow",
+      "11112": "SRSE: Default ESM workflow for Jira Service Management",
+      "5": "SRSE: Jira Service Management default workflow",
+      "11114": "SRSE: Simple ESM workflow for Jira Service Management"
+    }
+  },
+  {
+    "id": 15571,
+    "name": "Generic Simplified Workflow (with UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15572,
+    "name": "Generic Simplified Workflow (with Code Review, QA, Test Case Review, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, Test Case Review, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15574,
+    "name": "[SUBTASK BLOCK] Generic Simplified Workflow (with Code Review, QA, and Ready for Deployment)",
+    "defaultWorkflow": "[SUBTASK BLOCK] Generic Simplified Workflow (with Code Review, QA, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15576,
+    "name": "zTEST Generic Jira Service Desk Workflow Scheme",
+    "defaultWorkflow": "Copy of Generic Change Management workflow for Jira Service Desk",
+    "issueTypeMappings": {
+      "11108": "Generic Incident Management workflow for Jira Service Desk v2",
+      "3": "Generic Jira Service Desk default workflow",
+      "11109": "Generic Service Request Fulfilment workflow for Jira Service Desk",
+      "11140": "Generic Service Request Fulfilment with 2-Step Approval workflow for Jira Service Desk",
+      "5": "Generic Jira Service Desk default workflow",
+      "11111": "Generic Problem Management workflow for Jira Service Desk v2",
+      "11155": "Generic - 3-Step (1-Approve) JSM Service Request Fulfilment",
+      "11110": "test 1-approval flow",
+      "11112": "Governance Risk Compliance Workflow",
+      "11147": "Generic Service Request Fulfilment with 3-Step Approval workflow for Jira Service Desk"
+    }
+  },
+  {
+    "id": 15579,
+    "name": "Generic Simplified Workflow (with Code Review and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review and UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15580,
+    "name": "Generic Simplified Workflow (with Code Review, Ready for Deployment and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15581,
+    "name": "RESR Project Workflow Scheme",
+    "defaultWorkflow": "RESR Service Request Workflow (real)",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15582,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project DEPOT",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "3": "DEPOT: Jira Service Management default workflow",
+      "11184": "DEPOT: Post-Incident Review workflow for Jira Service Management",
+      "5": "DEPOT: Jira Service Management default workflow",
+      "11135": "DEPOT: Incident Management workflow for Jira Service Management",
+      "11137": "DEPOT: Service Request Fulfilment with Approvals workflow for Jira Service Management",
+      "11136": "DEPOT: Service Request Fulfilment workflow for Jira Service Management",
+      "11139": "DEPOT: Problem Management workflow for Jira Service Management",
+      "11138": "DEPOT: Change Management workflow for Jira Service Management"
+    }
+  },
+  {
+    "id": 15583,
+    "name": "DEPOT: Workflow Scheme",
+    "defaultWorkflow": "DEPOT: Service Request Fulfilment workflow for Jira Service Management",
+    "issueTypeMappings": {
+      "11187": "DEPOT: Replace Equip",
+      "11136": "DEPOT: Service Request Fulfilment workflow for Jira Service Management",
+      "11186": "DEPOT: Return Equip",
+      "11185": "DEPOT: Deploy Equip"
+    }
+  },
+  {
+    "id": 15584,
+    "name": "MODIFIED Gen. Simplified Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "(real)CUSTOMIZED Simplified Workflow (with Code Review, QA-Dev, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "1": "(real)Customized Bug Workflow (with Code Review, QA, UAT, and Ready for Deployment)",
+      "13": "No Required Epic - (real)CUSTOMIZED Simplified Workflow (with Code Review, QA-Dev, QA, UAT, and Ready for Deployment)",
+      "5": "No Required Epic - (real)CUSTOMIZED Simplified Workflow (with Code Review, QA-Dev, QA, UAT, and Ready for Deployment)",
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15585,
+    "name": "FCP & Autho Workflow Scheme",
+    "defaultWorkflow": "FCP & AUTHO - Other Issues Workflow",
+    "issueTypeMappings": {
+      "12": "FCP & AUTHO - Story Workflow",
+      "13": "FCP & AUTHO - Epic Workflow",
+      "1": "FCP & AUTHO - Bug Workflow",
+      "11209": "FCP & AUTHO - Xray Types Workflow",
+      "3": "FCP & AUTHO - Task Workflow",
+      "11208": "FCP & AUTHO - Xray Types Workflow",
+      "5": "FCP & AUTHO - Sub-Task Workflow",
+      "7": "FCP & AUTHO - Xray Types Workflow",
+      "11210": "FCP & AUTHO - Xray Types Workflow",
+      "11212": "FCP & AUTHO - Xray Types Workflow",
+      "11211": "FCP & AUTHO - Xray Types Workflow",
+      "11213": "FCP & AUTHO - Xray Types Workflow",
+      "10": "FCP & AUTHO - Xray Types Workflow"
+    }
+  },
+  {
+    "id": 15586,
+    "name": "Generic Simplified Workflow (with Code Review, QA, QA-Dev, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA, QA-Dev, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15588,
+    "name": "Generic Jira Service Desk Workflow Scheme",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11140": "(real)Generic Service Request Fulfilment with 2-Step Approval workflow for Jira Service Desk",
+      "11108": "(real)Generic Incident Management workflow for Jira Service Desk v2",
+      "11109": "(real)Generic Service Request Fulfilment workflow for Jira Service Desk",
+      "3": "Generic Jira Service Desk default workflow",
+      "5": "Generic Jira Service Desk default workflow",
+      "11111": "(real)Generic Problem Management workflow for Jira Service Desk v2",
+      "11155": "(real)Generic - 3-Step (1-Approve) JSM Service Request Fulfilment",
+      "11110": "(real)Generic Service Request Fulfilment with Approvals workflow for Jira Service Desk",
+      "11135": "(real)Generic Incident Management workflow for Jira Service Desk v2",
+      "11112": "Governance Risk Compliance Workflow",
+      "11137": "(real)Generic Service Request Fulfilment with Approvals workflow for Jira Service Desk",
+      "11323": "Simple Approval Workflow",
+      "11136": "(real)Generic Service Request Fulfilment workflow for Jira Service Desk",
+      "11147": "(real)Generic Service Request Fulfilment with 3-Step Approval workflow for Jira Service Desk",
+      "11554": "Generic - 4-Step JSM Service Request Fulfilment",
+      "11139": "(real)Generic Problem Management workflow for Jira Service Desk v2",
+      "10402": "Copy of Generic Change Management workflow for Jira Service Desk",
+      "12654": "Generic - Service request workflow with optional approval step",
+      "11138": "Copy of Generic Change Management workflow for Jira Service Desk"
+    }
+  },
+  {
+    "id": 15589,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project FTDRPROJ",
+    "defaultWorkflow": "FTDRPROJ Core Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15590,
+    "name": "[Global] Simple Default Single Workflow",
+    "defaultWorkflow": "Generic Simplified Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15591,
+    "name": "Generic Simplified Workflow (with Code Review, Ready for Merge, QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, Ready for Merge, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15592,
+    "name": "Generic Simplified Workflow (with Code Rev, R4M, QA, UAT, Pending Remed, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, Ready for Merge, QA, UAT, Pending Remediation, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15593,
+    "name": "Generic Simplified Workflow (with Code Rev, BT, R4M, QA, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, Branch Testing, Ready for Merge, QA, UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15594,
+    "name": "BC Workflow Scheme",
+    "defaultWorkflow": "BC: Default Workflow",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15595,
+    "name": "zArchive Workflow Scheme",
+    "defaultWorkflow": "zArchive Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15596,
+    "name": "Generic Simplified Workflow (with Stakeholder Review and UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with UAT, and Stakeholder Review)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15597,
+    "name": "TRAIN: Workflow Scheme",
+    "defaultWorkflow": "Test Case Workflow v2",
+    "issueTypeMappings": {
+      "10107": "TRAIN: Default Workflow",
+      "12": "TRAIN: Default Workflow",
+      "1": "TRAIN: Default Workflow",
+      "13": "TRAIN: Default Workflow",
+      "3": "TRAIN: Default Workflow",
+      "5": "TRAIN: Default Workflow",
+      "11000": "TRAIN: Default Workflow"
+    }
+  },
+  {
+    "id": 15598,
+    "name": "TALENT: Project Workflow Scheme",
+    "defaultWorkflow": "TALENT: TA Requisition Form Workflow v2",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15599,
+    "name": "FPM: Software Simplified Workflow Scheme",
+    "defaultWorkflow": "Software Simplified Workflow for Project FPM",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15607,
+    "name": "Generic Simplified Workflow (with UAT)",
+    "defaultWorkflow": "Generic Simplified Workflow (with UAT)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15609,
+    "name": "FSA: Workflow Scheme",
+    "defaultWorkflow": "Generic Simplified Workflow (with UI Design, Research,Code Review, Ready for Merge, QA, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15610,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project SECHUB",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11214": "SECHUB: General request workflow for Jira Service Management",
+      "5": "SECHUB: Jira Service Management default workflow",
+      "3": "SECHUB: Jira Service Management default workflow"
+    }
+  },
+  {
+    "id": 15613,
+    "name": "GRC Project Scheme",
+    "defaultWorkflow": "Generic Simplified Workflow (with UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "11207": "LogicGate Sync Workflow",
+      "11206": "LogicGate Sync Workflow",
+      "11205": "LogicGate Sync Workflow",
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15615,
+    "name": "Generic Simplified Workflow (with Code Review and Ready 4 Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15616,
+    "name": "CLOUDSEC Workflow Scheme",
+    "defaultWorkflow": "CLOUDSEC Workflow",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 15617,
+    "name": "COSMERE: Software Simplified Workflow Scheme",
+    "defaultWorkflow": "Software Simplified Workflow for Project COSMERE",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15650,
+    "name": "STREEM: Software Simplified Workflow Scheme",
+    "defaultWorkflow": "STREEM: Copy of Generic Simplified Workflow (with CR and R4D)",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15683,
+    "name": "Streem Workflow Scheme",
+    "defaultWorkflow": "Streem Shipments Workflow",
+    "issueTypeMappings": {
+      "11209": "Test Cases Workflow v1.2",
+      "11208": "Test Cases Workflow v1.2",
+      "11232": "Compliance Workflow",
+      "11210": "Test Cases Workflow v1.2",
+      "11211": "Test Executions v1",
+      "11213": "Test Executions v1"
+    }
+  },
+  {
+    "id": 15716,
+    "name": "MCAE Scheme",
+    "defaultWorkflow": "MCAE Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15749,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project ACC210",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11214": "ACC210: General request workflow for Jira Service Management",
+      "5": "ACC210: Jira Service Management default workflow",
+      "3": "ACC210: Jira Service Management default workflow"
+    }
+  },
+  {
+    "id": 15848,
+    "name": "SECHUB Workflow Scheme",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "11108": "(real)Generic Incident Management workflow for Jira Service Desk v2",
+      "11109": "(real)Generic Service Request Fulfilment workflow for Jira Service Desk",
+      "3": "Generic Jira Service Desk default workflow",
+      "11140": "(real)Generic Service Request Fulfilment with 2-Step Approval workflow for Jira Service Desk",
+      "5": "Generic Jira Service Desk default workflow",
+      "11111": "(real)Generic Problem Management workflow for Jira Service Desk v2",
+      "11155": "(real)Generic - 3-Step (1-Approve) JSM Service Request Fulfilment",
+      "11110": "(real)Generic Service Request Fulfilment with Approvals workflow for Jira Service Desk",
+      "11112": "Governance Risk Compliance Workflow",
+      "11323": "Simple Approval Workflow",
+      "11389": "Risk Acceptance Request Workflow (7 approval step)",
+      "11147": "(real)Generic Service Request Fulfilment with 3-Step Approval workflow for Jira Service Desk"
+    }
+  },
+  {
+    "id": 15881,
+    "name": "WORK210: Project Management Workflow Scheme",
+    "defaultWorkflow": "WORK210: Project Management Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 15947,
+    "name": "PPC - Workflow Scheme",
+    "defaultWorkflow": "PPC: Default Request",
+    "issueTypeMappings": {
+      "5": "Generic Jira Service Desk default workflow",
+      "11109": "PPC: Default Request"
+    }
+  },
+  {
+    "id": 15980,
+    "name": "[Comment Screens&Cancel Resolution] Generic Simplified Workflow (with QA)",
+    "defaultWorkflow": "[Comment Screens] Generic Simplified Workflow (with QA)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 16013,
+    "name": "FACILITIES: Workflow Scheme",
+    "defaultWorkflow": "FACILITIES: Vehicle Request Workflow v2",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 16079,
+    "name": "DG: Workflow Scheme",
+    "defaultWorkflow": "DG: Generic workflow + Soda Statuses",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 16112,
+    "name": " Generic Simplified Workflow w/Stakeholder Review",
+    "defaultWorkflow": "Generic Simplified Workflow (with Stakeholder Review)",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 16145,
+    "name": "Generic Simplified Workflow (with Code Review and QA)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, and QA)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 16178,
+    "name": "Generic Simplified Workflow for CSVC (with Code Review, QA-Dev, Test, UAT, and Ready for Deployment)",
+    "defaultWorkflow": "Generic Simplified Workflow (with Code Review, QA-Dev, Test, UAT, and Ready for Deployment)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 16211,
+    "name": "Extra Simplified Tracking Workflow Scheme",
+    "defaultWorkflow": "Extra Simplified Tracking Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 16244,
+    "name": "Tenable Vulnerability Workflow Scheme",
+    "defaultWorkflow": "Tenable Vulnerability Workflow",
+    "issueTypeMappings": {}
+  },
+  {
+    "id": 16277,
+    "name": "[fixversion required] Generic Simplified Workflow (with Code Review, QA, and UAT)",
+    "defaultWorkflow": "[FixVersion Required] Generic Simplified Workflow (with Code Review, and QA)",
+    "issueTypeMappings": {
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 16310,
+    "name": "Jira Service Management IT Support Workflow Scheme generated for Project OMI1121",
+    "defaultWorkflow": "jira",
+    "issueTypeMappings": {
+      "3": "OMI1121: Jira Service Management default workflow",
+      "11184": "OMI1121: Post-Incident Review workflow for Jira Service Management",
+      "5": "OMI1121: Jira Service Management default workflow",
+      "11135": "OMI1121: Incident Management workflow for Jira Service Management",
+      "11137": "OMI1121: Service Request Fulfilment with Approvals workflow for Jira Service Management",
+      "11136": "OMI1121: Service Request Fulfilment workflow for Jira Service Management",
+      "11139": "OMI1121: Problem Management workflow for Jira Service Management",
+      "11138": "OMI1121: Change Management workflow for Jira Service Management"
+    }
+  },
+  {
+    "id": 17510,
+    "name": "DR Workflow Scheme",
+    "defaultWorkflow": "Generic Simplified Workflow",
+    "issueTypeMappings": {
+      "12993": "DR System Request",
+      "7": "Test Case Workflow v2",
+      "10": "Test Case Workflow v2"
+    }
+  },
+  {
+    "id": 17545,
+    "name": "FAC: Task Management Workflow Scheme",
+    "defaultWorkflow": "FAC: Task Management Workflow",
+    "issueTypeMappings": {}
+  }
+]

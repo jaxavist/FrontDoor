@@ -1,0 +1,1029 @@
+[
+  {
+    "id": 1,
+    "name": "Default Screen Scheme",
+    "description": "Default Screen Scheme",
+    "screens": {
+      "default": 1,
+      "create": 14691
+    }
+  },
+  {
+    "id": 10302,
+    "name": "Master Feature Screen Scheme",
+    "description": "Screen Scheme for Master Feature Request issue types",
+    "screens": {
+      "default": 1,
+      "edit": 10202,
+      "create": 10202,
+      "view": 10202
+    }
+  },
+  {
+    "id": 10400,
+    "name": "AHS Test Case Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 10303,
+      "edit": 10303,
+      "create": 14692,
+      "view": 10303
+    }
+  },
+  {
+    "id": 10403,
+    "name": "SVM IT Test Case Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 10308,
+      "edit": 10308,
+      "create": 10308,
+      "view": 10308
+    }
+  },
+  {
+    "id": 10404,
+    "name": "SVM IT Master Feature Screen Scheme",
+    "description": "Screen Scheme for Master Feature Request issue types for SVM IT",
+    "screens": {
+      "default": 1,
+      "edit": 10310,
+      "create": 10310,
+      "view": 10310
+    }
+  },
+  {
+    "id": 10405,
+    "name": "SVM IT Default Screen Scheme",
+    "description": "Default Screen Scheme for SVM IT",
+    "screens": {
+      "default": 1
+    }
+  },
+  {
+    "id": 11012,
+    "name": "BSC Non-SDLC Groups Screen Scheme",
+    "description": "This is a screen scheme for non-software development groups",
+    "screens": {
+      "default": 10925,
+      "edit": 10925,
+      "create": 10925,
+      "view": 10925
+    }
+  },
+  {
+    "id": 12220,
+    "name": "Remedy Screen Scheme",
+    "description": "This is a screen scheme for non-software development groups",
+    "screens": {
+      "default": 12121,
+      "edit": 12121,
+      "create": 12121,
+      "view": 12121
+    }
+  },
+  {
+    "id": 12704,
+    "name": "PREP: Kanban Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 12604
+    }
+  },
+  {
+    "id": 12705,
+    "name": "PREP: Kanban Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 12605
+    }
+  },
+  {
+    "id": 13404,
+    "name": "Contractor Onboarding",
+    "description": "",
+    "screens": {
+      "default": 13304
+    }
+  },
+  {
+    "id": 13500,
+    "name": "AHSD: Kanban Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 13400
+    }
+  },
+  {
+    "id": 13501,
+    "name": "AHSD: Kanban Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 13401
+    }
+  },
+  {
+    "id": 13600,
+    "name": " IT Sourcing (ITS) Screen Scheme",
+    "description": "This is a screen scheme for IT Sourcing (ITS)",
+    "screens": {
+      "default": 13500,
+      "edit": 13500,
+      "create": 13500,
+      "view": 13500
+    }
+  },
+  {
+    "id": 13605,
+    "name": "Generic Scrum Default Screen Scheme",
+    "description": "Used for generic/default Default Screen Scheme",
+    "screens": {
+      "default": 13505,
+      "create": 14679
+    }
+  },
+  {
+    "id": 13606,
+    "name": "Generic Scrum Bug Screen Scheme",
+    "description": "Used for generic/default Bug Screen Scheme",
+    "screens": {
+      "default": 13506,
+      "create": 14693
+    }
+  },
+  {
+    "id": 14252,
+    "name": "Generic Epic/Initiative Screen Scheme",
+    "description": "Used for generic/default screen scheme for epics and initiatives",
+    "screens": {
+      "default": 14174
+    }
+  },
+  {
+    "id": 14275,
+    "name": "AMSD: Jira Service Desk Screen Scheme (1)",
+    "description": "This Jira Service Desk Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14344,
+      "create": 14344
+    }
+  },
+  {
+    "id": 14276,
+    "name": "AMSD: Jira Service Desk: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14246,
+      "edit": 14276,
+      "create": 14246,
+      "view": 14276
+    }
+  },
+  {
+    "id": 14277,
+    "name": "AMSD: Jira Service Desk: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14248,
+      "edit": 14345,
+      "create": 14248,
+      "view": 14345
+    }
+  },
+  {
+    "id": 14278,
+    "name": "AMSD: Jira Service Desk: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14250,
+      "edit": 14346,
+      "create": 14250,
+      "view": 14346
+    }
+  },
+  {
+    "id": 14279,
+    "name": "AMSD: Jira Service Desk: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14252,
+      "edit": 14347,
+      "create": 14252,
+      "view": 14347
+    }
+  },
+  {
+    "id": 14280,
+    "name": "AMSD: Jira Service Desk: Service Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14272
+    }
+  },
+  {
+    "id": 14281,
+    "name": "AMSD: Jira Service Desk: Task Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14273
+    }
+  },
+  {
+    "id": 14338,
+    "name": "BBBSD: Jira Service Desk Screen Scheme",
+    "description": "This Jira Service Desk Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14441
+    }
+  },
+  {
+    "id": 14339,
+    "name": "BBBSD: Jira Service Desk: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14442,
+      "edit": 14443,
+      "create": 14442,
+      "view": 14443
+    }
+  },
+  {
+    "id": 14340,
+    "name": "BBBSD: Jira Service Desk: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14444,
+      "edit": 14445,
+      "create": 14444,
+      "view": 14445
+    }
+  },
+  {
+    "id": 14341,
+    "name": "BBBSD: Jira Service Desk: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14446,
+      "edit": 14447,
+      "create": 14446,
+      "view": 14447
+    }
+  },
+  {
+    "id": 14342,
+    "name": "BBBSD: Jira Service Desk: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14448,
+      "edit": 14449,
+      "create": 14448,
+      "view": 14449
+    }
+  },
+  {
+    "id": 14343,
+    "name": "IT1234: Jira Service Desk Screen Scheme",
+    "description": "This Jira Service Desk Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14468
+    }
+  },
+  {
+    "id": 14344,
+    "name": "IT1234: Jira Service Desk: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14469,
+      "edit": 14470,
+      "create": 14469,
+      "view": 14470
+    }
+  },
+  {
+    "id": 14345,
+    "name": "IT1234: Jira Service Desk: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14471,
+      "edit": 14472,
+      "create": 14471,
+      "view": 14472
+    }
+  },
+  {
+    "id": 14346,
+    "name": "IT1234: Jira Service Desk: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14473,
+      "edit": 14474,
+      "create": 14473,
+      "view": 14474
+    }
+  },
+  {
+    "id": 14347,
+    "name": "IT1234: Jira Service Desk: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14475,
+      "edit": 14476,
+      "create": 14475,
+      "view": 14476
+    }
+  },
+  {
+    "id": 14350,
+    "name": "CHANGE: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14497
+    }
+  },
+  {
+    "id": 14351,
+    "name": "CHANGE: Jira Service Management: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14498,
+      "edit": 14499,
+      "create": 14498,
+      "view": 14499
+    }
+  },
+  {
+    "id": 14352,
+    "name": "CHANGE: Jira Service Management: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14500,
+      "edit": 14501,
+      "create": 14500,
+      "view": 14501
+    }
+  },
+  {
+    "id": 14353,
+    "name": "CHANGE: Jira Service Management: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14502,
+      "edit": 14503,
+      "create": 14502,
+      "view": 14503
+    }
+  },
+  {
+    "id": 14354,
+    "name": "CHANGE: Jira Service Management: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14504,
+      "edit": 14505,
+      "create": 14504,
+      "view": 14505
+    }
+  },
+  {
+    "id": 14355,
+    "name": "LEGAL: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14524
+    }
+  },
+  {
+    "id": 14356,
+    "name": "LEGAL: Jira Service Management: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14525,
+      "edit": 14526,
+      "create": 14525,
+      "view": 14526
+    }
+  },
+  {
+    "id": 14357,
+    "name": "LEGAL: Jira Service Management: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14527,
+      "edit": 14528,
+      "create": 14527,
+      "view": 14528
+    }
+  },
+  {
+    "id": 14358,
+    "name": "LEGAL: Jira Service Management: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14529,
+      "edit": 14530,
+      "create": 14529,
+      "view": 14530
+    }
+  },
+  {
+    "id": 14359,
+    "name": "LEGAL: Jira Service Management: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14531,
+      "edit": 14532,
+      "create": 14531,
+      "view": 14532
+    }
+  },
+  {
+    "id": 14372,
+    "name": "WORKTEST: Project Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14586,
+      "create": 14585
+    }
+  },
+  {
+    "id": 14391,
+    "name": "AHSCR: Content Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14655,
+      "create": 14654
+    }
+  },
+  {
+    "id": 14392,
+    "name": "PMEN: Task Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14658,
+      "create": 14657
+    }
+  },
+  {
+    "id": 14395,
+    "name": "CPI: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14661
+    }
+  },
+  {
+    "id": 14396,
+    "name": "CPI: Jira Service Management: General Request Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14662
+    }
+  },
+  {
+    "id": 14397,
+    "name": "CPI: Jira Service Management: General Questions Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14663
+    }
+  },
+  {
+    "id": 14410,
+    "name": "SOR: Project Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14683,
+      "create": 14682
+    }
+  },
+  {
+    "id": 14413,
+    "name": "PROPROJ: Project Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14688,
+      "create": 14687
+    }
+  },
+  {
+    "id": 14422,
+    "name": "A123456: Blank project screen scheme",
+    "description": "",
+    "screens": {
+      "default": 14706,
+      "create": 14705
+    }
+  },
+  {
+    "id": 14423,
+    "name": "B123456: Scrum Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14707
+    }
+  },
+  {
+    "id": 14424,
+    "name": "B123456: Scrum Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14708
+    }
+  },
+  {
+    "id": 14425,
+    "name": "C123456: Task Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14711,
+      "create": 14710
+    }
+  },
+  {
+    "id": 14426,
+    "name": "VULN: Task Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14714,
+      "create": 14713
+    }
+  },
+  {
+    "id": 14427,
+    "name": "CRM Project - Epic/Initiative Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14718
+    }
+  },
+  {
+    "id": 14428,
+    "name": "CRM Project - Scrum Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14715,
+      "create": 14716
+    }
+  },
+  {
+    "id": 14429,
+    "name": "CRM Project - Scrum Default Screen Scheme",
+    "description": "Used for generic/default Default Screen Scheme",
+    "screens": {
+      "default": 14717,
+      "create": 14719
+    }
+  },
+  {
+    "id": 14435,
+    "name": "Scrum Bug Screen Scheme - FCP/AUTHO",
+    "description": "",
+    "screens": {
+      "default": 14725,
+      "create": 14726
+    }
+  },
+  {
+    "id": 14439,
+    "name": "SRSE: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14731
+    }
+  },
+  {
+    "id": 14440,
+    "name": "SRSE: Jira Service Management: General Request Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14732
+    }
+  },
+  {
+    "id": 14441,
+    "name": "SRSE: Jira Service Management: General Questions Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14733
+    }
+  },
+  {
+    "id": 14442,
+    "name": "APPL Project - Scrum Default Screen Scheme",
+    "description": "Used for generic/default Default Screen Scheme in the APPL project only",
+    "screens": {
+      "default": 14741,
+      "create": 14742
+    }
+  },
+  {
+    "id": 14443,
+    "name": "APPL Project - Scrum Bug Screen Scheme",
+    "description": "Used for generic/default Bug Screen Scheme for the APPL project only",
+    "screens": {
+      "default": 14739,
+      "create": 14740
+    }
+  },
+  {
+    "id": 14458,
+    "name": "RESR: Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14759,
+      "create": 14758
+    }
+  },
+  {
+    "id": 14459,
+    "name": "DEPOT: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14760
+    }
+  },
+  {
+    "id": 14460,
+    "name": "DEPOT: Jira Service Management: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14761,
+      "edit": 14762,
+      "create": 14761,
+      "view": 14762
+    }
+  },
+  {
+    "id": 14461,
+    "name": "DEPOT: Jira Service Management: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14763,
+      "edit": 14764,
+      "create": 14763,
+      "view": 14764
+    }
+  },
+  {
+    "id": 14462,
+    "name": "DEPOT: Jira Service Management: Post-Incident Review Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14765,
+      "edit": 14766,
+      "create": 14765,
+      "view": 14766
+    }
+  },
+  {
+    "id": 14463,
+    "name": "DEPOT: Jira Service Management: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14767,
+      "edit": 14768,
+      "create": 14767,
+      "view": 14768
+    }
+  },
+  {
+    "id": 14464,
+    "name": "DEPOT: Jira Service Management: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14769,
+      "edit": 14770,
+      "create": 14769,
+      "view": 14770
+    }
+  },
+  {
+    "id": 14465,
+    "name": "FTDRPROJ: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14796
+    }
+  },
+  {
+    "id": 14466,
+    "name": "FTDRPROJ: Jira Service Management: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14797,
+      "edit": 14798,
+      "create": 14797,
+      "view": 14798
+    }
+  },
+  {
+    "id": 14467,
+    "name": "FTDRPROJ: Jira Service Management: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14799,
+      "edit": 14800,
+      "create": 14799,
+      "view": 14800
+    }
+  },
+  {
+    "id": 14468,
+    "name": "FTDRPROJ: Jira Service Management: Post-Incident Review Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14801,
+      "edit": 14802,
+      "create": 14801,
+      "view": 14802
+    }
+  },
+  {
+    "id": 14469,
+    "name": "FTDRPROJ: Jira Service Management: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14803,
+      "edit": 14804,
+      "create": 14803,
+      "view": 14804
+    }
+  },
+  {
+    "id": 14470,
+    "name": "FTDRPROJ: Jira Service Management: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14805,
+      "edit": 14806,
+      "create": 14805,
+      "view": 14806
+    }
+  },
+  {
+    "id": 14471,
+    "name": "zArchived Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14828
+    }
+  },
+  {
+    "id": 14472,
+    "name": "FPM: Scrum Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14829
+    }
+  },
+  {
+    "id": 14473,
+    "name": "FPM: Scrum Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14830
+    }
+  },
+  {
+    "id": 14498,
+    "name": "GRC: Evidence Request Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14856,
+      "create": 14855
+    }
+  },
+  {
+    "id": 14499,
+    "name": "GRC: Corrective Action Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14858,
+      "create": 14857
+    }
+  },
+  {
+    "id": 14500,
+    "name": "GRC: Risk Treatment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14860,
+      "create": 14859
+    }
+  },
+  {
+    "id": 14501,
+    "name": "SECHUB: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14861
+    }
+  },
+  {
+    "id": 14502,
+    "name": "SECHUB: Jira Service Management Task and Subtask Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14862
+    }
+  },
+  {
+    "id": 14515,
+    "name": "COSMERE: Kanban Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14880
+    }
+  },
+  {
+    "id": 14516,
+    "name": "COSMERE: Kanban Bug Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 14881
+    }
+  },
+  {
+    "id": 14581,
+    "name": "STREEM: Scrum Bug Screen Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "screens": {
+      "default": 14948
+    }
+  },
+  {
+    "id": 14582,
+    "name": "STREEM: Scrum Default Screen Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "screens": {
+      "default": 14946
+    }
+  },
+  {
+    "id": 14583,
+    "name": "Compliance Screen Scheme",
+    "description": "(Migrated on 10 Dec 2024 03:13 UTC)",
+    "screens": {
+      "default": 14950,
+      "edit": 14951,
+      "create": 14951,
+      "view": 14950
+    }
+  },
+  {
+    "id": 14614,
+    "name": "ACC210: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14979
+    }
+  },
+  {
+    "id": 14615,
+    "name": "ACC210: Jira Service Management Task and Subtask Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 14980
+    }
+  },
+  {
+    "id": 14713,
+    "name": "WORK210: Project Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15079,
+      "create": 15078
+    }
+  },
+  {
+    "id": 14812,
+    "name": "PPC: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 15177
+    }
+  },
+  {
+    "id": 14813,
+    "name": "PPC: Jira Service Management Task and Subtask Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 15178
+    }
+  },
+  {
+    "id": 14845,
+    "name": "FACILITIES: Default Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15210
+    }
+  },
+  {
+    "id": 14944,
+    "name": "TNBL: Simple Issue Tracking Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15310,
+      "create": 15309
+    }
+  },
+  {
+    "id": 15010,
+    "name": "OMI1121: Jira Service Management Screen Scheme",
+    "description": "This Jira Service Management Screen Scheme was generated automatically",
+    "screens": {
+      "default": 15375
+    }
+  },
+  {
+    "id": 15011,
+    "name": "OMI1121: Jira Service Management: Change Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15376,
+      "edit": 15377,
+      "create": 15376,
+      "view": 15377
+    }
+  },
+  {
+    "id": 15012,
+    "name": "OMI1121: Jira Service Management: Incident Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15378,
+      "edit": 15379,
+      "create": 15378,
+      "view": 15379
+    }
+  },
+  {
+    "id": 15013,
+    "name": "OMI1121: Jira Service Management: Post-Incident Review Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15380,
+      "edit": 15381,
+      "create": 15380,
+      "view": 15381
+    }
+  },
+  {
+    "id": 15014,
+    "name": "OMI1121: Jira Service Management: Problem Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15382,
+      "edit": 15383,
+      "create": 15382,
+      "view": 15383
+    }
+  },
+  {
+    "id": 15015,
+    "name": "OMI1121: Jira Service Management: Request Fulfilment Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 15384,
+      "edit": 15385,
+      "create": 15384,
+      "view": 15385
+    }
+  },
+  {
+    "id": 16219,
+    "name": "Generic Research/Spike Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 16618,
+      "create": 16617
+    }
+  },
+  {
+    "id": 16387,
+    "name": "DR System Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 16787,
+      "create": 16786
+    }
+  },
+  {
+    "id": 16456,
+    "name": "FAC: Task Management Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 16858,
+      "create": 16857
+    }
+  },
+  {
+    "id": 16489,
+    "name": "PMO: Risk Screen Scheme",
+    "description": "",
+    "screens": {
+      "default": 16891
+    }
+  }
+]
