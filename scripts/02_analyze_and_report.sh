@@ -22,10 +22,10 @@ fi
 REPORT_DIR="${PROJECT_ROOT}/reports"
 mkdir -p "$REPORT_DIR"
 
+log() { echo "[$(date '+%H:%M:%S')] $*"; }
+
 log "Using data from: $DATA_DIR"
 log "Writing reports to: $REPORT_DIR"
-
-log() { echo "[$(date '+%H:%M:%S')] $*"; }
 
 # ============================================================================
 # REPORT 1: Configuration Inventory Summary
