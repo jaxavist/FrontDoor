@@ -449,7 +449,7 @@ Expected Results,customfield_17669,string,com.atlassian.jira.plugin.system.custo
 Current Results,customfield_17668,string,com.atlassian.jira.plugin.system.customfieldtypes:textarea,0,0,,True,0,Unused
 WSJF,customfield_16563,number,com.atlassian.jira.plugin.system.customfieldtypes:float,0,0,,True,1,Unused
 Cost of Delay,customfield_16561,number,com.atlassian.jira.plugin.system.customfieldtypes:float,0,0,,True,1,Unused
-RR OE,customfield_16560,number,com.atlassian.jira.plugin.system.customfieldtypes:float,0,0,,True,1,Unused
+RR OE,customfield_16560,number,com.atlassian.jira.plugin.system.customfieldtypes:float,0,0,,True,0,Unused
 Was this for a Real Estate or Direct to Consumer?,customfield_16329,option,com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons,0,0,,True,1,Unused
 Director,customfield_16319,user,com.atlassian.jira.plugin.system.customfieldtypes:userpicker,0,0,,True,1,Unused
 What GitLab Project permissions do you need?,customfield_16314,option,com.atlassian.jira.plugin.system.customfieldtypes:select,0,0,,True,1,Unused

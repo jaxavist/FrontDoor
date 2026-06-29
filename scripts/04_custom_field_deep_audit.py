@@ -411,12 +411,28 @@ def main():
         f.write("\n## Top 50 Most Used Custom Fields\n\n")
         f.write("| Rank | Field Name | Key | Type | Hits (sampled) | Projects Using |\n")
         f.write("|---|---|---|---|---|---|\n")
-        top_used = sorted(
+        all_used_sorted = sorted(
             [u for u in field_usage.values() if u["issue_count"] > 0],
             key=lambda x: x["issue_count"], reverse=True
-        )[:50]
-        for rank, u in enumerate(top_used, 1):
+        )
+        for rank, u in enumerate(all_used_sorted[:50], 1):
             f.write(f"| {rank} | {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {u['project_count']} |\n")
+
+        # Full field usage list (all 802)
+        all_sorted = sorted(field_usage.values(), key=lambda x: (-x["issue_count"], x["name"]))
+        f.write(f"\n## Complete Custom Field Usage ({len(all_sorted)} fields)\n\n")
+        f.write("| # | Field Name | Key | Type | Hits | Projects | Status |\n")
+        f.write("|---|---|---|---|---|---|---|\n")
+        for rank, u in enumerate(all_sorted, 1):
+            if u["issue_count"] == 0:
+                status = "Unused"
+            elif total_issues_sampled > 0 and (u["issue_count"] / total_issues_sampled) < 0.01:
+                status = "Low"
+            elif u["project_count"] == 1:
+                status = "Single-Project"
+            else:
+                status = "Active"
+            f.write(f"| {rank} | {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {u['project_count']} | {status} |\n")
 
         # Unused fields
         f.write(f"\n## Unused Custom Fields ({len(unused_fields)} fields — deletion candidates)\n\n")
