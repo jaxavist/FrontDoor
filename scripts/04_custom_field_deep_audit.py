@@ -77,6 +77,23 @@ def api_get(endpoint):
         return 0, {"error": str(e.reason)}
 
 
+def api_post(endpoint, body):
+    url = f"{SITE}{endpoint}"
+    data = json.dumps(body).encode()
+    req = Request(url, data=data, headers=HEADERS, method="POST")
+    try:
+        with urlopen(req) as resp:
+            return resp.status, json.loads(resp.read())
+    except HTTPError as e:
+        body_resp = e.read().decode() if e.readable() else ""
+        try:
+            return e.code, json.loads(body_resp)
+        except Exception:
+            return e.code, {"error": e.reason, "body": body_resp[:200]}
+    except URLError as e:
+        return 0, {"error": str(e.reason)}
+
+
 def api_get_paginated(endpoint, values_key="values", page_size=50):
     results = []
     start = 0
@@ -102,16 +119,6 @@ def load_json(filename):
     return []
 
 
-def get_field_usage_count(field_key):
-    """Use JQL to count issues where a custom field is populated."""
-    field_id = field_key.replace("customfield_", "cf[") + "]"
-    jql = f"{field_id}+is+not+EMPTY"
-    status, data = api_get(f"/rest/api/3/search/jql?jql={jql}&maxResults=0")
-    if status == 200:
-        return data.get("total", 0)
-    return -1  # -1 means query failed (field may not be searchable)
-
-
 def main():
     log("=" * 60)
     log("  Custom Field Deep Audit")
@@ -135,34 +142,88 @@ def main():
     log(f"  {len(projects)} projects")
 
     # ================================================================
-    # 1. Get field usage counts via JQL
+    # 1. Get field usage via issue sampling (per project)
     # ================================================================
     log("")
-    log("=== Phase 1: Field Usage Counts (JQL) ===")
-    log(f"Querying usage for {len(custom_fields)} custom fields...")
-    log("(This will take several minutes — one API call per field)")
+    log("=== Phase 1: Field Usage via Issue Sampling ===")
+    log(f"Sampling issues from {len(projects)} projects to check field population...")
     log("")
 
+    SAMPLE_SIZE = 50  # issues per project
+    cf_keys = {f["key"] for f in custom_fields}
+
+    # Track: field_key → {total_populated, projects_with_data, by_project}
     field_usage = {}
-    total = len(custom_fields)
-    for i, field in enumerate(custom_fields, 1):
-        key = field["key"]
-        name = field["name"]
-        if i % 25 == 0 or i == 1:
-            log(f"  [{i}/{total}] Processing {name}...")
-
-        count = get_field_usage_count(key)
-        field_usage[key] = {
-            "name": name,
-            "key": key,
-            "type": field.get("schema", {}).get("type", "unknown"),
-            "custom_type": field.get("schema", {}).get("custom", ""),
-            "issue_count": count,
-            "searchable": count >= 0,
+    for f in custom_fields:
+        field_usage[f["key"]] = {
+            "name": f["name"],
+            "key": f["key"],
+            "type": f.get("schema", {}).get("type", "unknown"),
+            "custom_type": f.get("schema", {}).get("custom", ""),
+            "issue_count": 0,
+            "project_count": 0,
+            "projects": [],
         }
-        time.sleep(0.2)  # rate limiting
 
-    log(f"  Done. {sum(1 for v in field_usage.values() if v['issue_count'] > 0)} fields have data.")
+    total_issues_sampled = 0
+    total_issues_in_instance = 0
+
+    for pi, project in enumerate(projects, 1):
+        pkey = project["key"]
+        pname = project["name"]
+        if pi % 10 == 0 or pi == 1:
+            log(f"  [{pi}/{len(projects)}] Sampling {pkey} ({pname})...")
+
+        # Use POST to /rest/api/3/search/jql to avoid URL encoding issues
+        status, data = api_post("/rest/api/3/search/jql", {
+            "jql": f"project = {pkey} ORDER BY updated DESC",
+            "maxResults": SAMPLE_SIZE,
+            "fields": ["*all"],
+        })
+
+        if status != 200:
+            # Try GET as fallback
+            from urllib.parse import quote
+            jql_encoded = quote(f"project = {pkey} ORDER BY updated DESC")
+            status, data = api_get(
+                f"/rest/api/3/search/jql?jql={jql_encoded}&maxResults={SAMPLE_SIZE}&fields=*all"
+            )
+
+        if status != 200:
+            continue
+
+        project_total = data.get("total", 0) or data.get("totalCount", 0) or len(data.get("issues", []))
+        total_issues_in_instance += project_total
+        issues = data.get("issues", [])
+        total_issues_sampled += len(issues)
+
+        # Check which custom fields are populated in these issues
+        project_field_hits = defaultdict(int)
+        for issue in issues:
+            fields_data = issue.get("fields", {})
+            for cf_key in cf_keys:
+                val = fields_data.get(cf_key)
+                if val is not None and val != "" and val != [] and val != {}:
+                    project_field_hits[cf_key] += 1
+
+        # Record results
+        for cf_key, hit_count in project_field_hits.items():
+            if cf_key in field_usage:
+                field_usage[cf_key]["issue_count"] += hit_count
+                field_usage[cf_key]["project_count"] += 1
+                field_usage[cf_key]["projects"].append({
+                    "key": pkey,
+                    "name": pname,
+                    "hits": hit_count,
+                    "sampled": len(issues),
+                    "project_total": project_total,
+                })
+
+        time.sleep(0.3)  # rate limiting
+
+    log(f"  Sampled {total_issues_sampled:,} issues across {len(projects)} projects")
+    log(f"  Estimated total issues in instance: {total_issues_in_instance:,}")
+    log(f"  Fields with data: {sum(1 for v in field_usage.values() if v['issue_count'] > 0)}")
 
     # ================================================================
     # 2. Get Field Configuration Scheme → Project mappings
@@ -213,11 +274,12 @@ def main():
     log("=== Phase 4: Custom Field Contexts (Scope) ===")
 
     field_contexts = {}
+    total_cf = len(custom_fields)
     for i, field in enumerate(custom_fields, 1):
         key = field["key"]
         field_id = key.replace("customfield_", "")
         if i % 50 == 0:
-            log(f"  [{i}/{total}] Fetching contexts...")
+            log(f"  [{i}/{total_cf}] Fetching contexts...")
 
         status, data = api_get(f"/rest/api/3/field/{key}/context?maxResults=100")
         if status == 200:
@@ -237,13 +299,13 @@ def main():
     log(f"  Contexts fetched for {len(field_contexts)} fields")
 
     # ================================================================
-    # 5. Get total issue count for percentage calculations
+    # 5. Issue counts already gathered from sampling
     # ================================================================
     log("")
-    log("=== Phase 5: Total Issue Count ===")
-    status, data = api_get("/rest/api/3/search/jql?jql=created+is+not+EMPTY&maxResults=0")
-    total_issues = data.get("total", 0) if status == 200 else 0
-    log(f"  Total issues in instance: {total_issues}")
+    log("=== Phase 5: Summary Counts ===")
+    total_issues = total_issues_in_instance
+    log(f"  Total issues (sum across projects): {total_issues:,}")
+    log(f"  Issues sampled: {total_issues_sampled:,}")
 
     # ================================================================
     # Generate Reports
@@ -254,19 +316,18 @@ def main():
     # Categorize fields
     used_fields = []
     unused_fields = []
-    low_usage_fields = []  # < 1% of total issues
-    unsearchable_fields = []
+    low_usage_fields = []  # < 1% of sampled issues
+    single_project_fields = []  # only used in 1 project
 
     for key, usage in field_usage.items():
-        if not usage["searchable"]:
-            unsearchable_fields.append(usage)
-        elif usage["issue_count"] == 0:
+        if usage["issue_count"] == 0:
             unused_fields.append(usage)
-        elif total_issues > 0 and (usage["issue_count"] / total_issues) < 0.01:
-            low_usage_fields.append(usage)
-            used_fields.append(usage)
         else:
             used_fields.append(usage)
+            if total_issues_sampled > 0 and (usage["issue_count"] / total_issues_sampled) < 0.01:
+                low_usage_fields.append(usage)
+            if usage["project_count"] == 1:
+                single_project_fields.append(usage)
 
     # Usage by type
     type_stats = defaultdict(lambda: {"count": 0, "used": 0, "unused": 0, "total_usage": 0})
@@ -276,7 +337,7 @@ def main():
         if usage["issue_count"] > 0:
             type_stats[ftype]["used"] += 1
             type_stats[ftype]["total_usage"] += usage["issue_count"]
-        elif usage["searchable"]:
+        else:
             type_stats[ftype]["unused"] += 1
 
     # Align-relevant fields
@@ -329,12 +390,14 @@ def main():
         f.write(f"| Metric | Value |\n")
         f.write(f"|---|---|\n")
         f.write(f"| Total custom fields | {len(custom_fields)} |\n")
-        f.write(f"| Fields with data (populated) | {len(used_fields)} |\n")
+        f.write(f"| Fields with data (populated in sample) | {len(used_fields)} |\n")
         f.write(f"| Fields with ZERO usage | {len(unused_fields)} |\n")
-        f.write(f"| Fields with <1% usage | {len(low_usage_fields)} |\n")
-        f.write(f"| Fields not searchable (JQL) | {len(unsearchable_fields)} |\n")
-        f.write(f"| Total issues in instance | {total_issues:,} |\n")
+        f.write(f"| Fields with <1% usage (in sample) | {len(low_usage_fields)} |\n")
+        f.write(f"| Fields used in only 1 project | {len(single_project_fields)} |\n")
+        f.write(f"| Issues sampled | {total_issues_sampled:,} |\n")
+        f.write(f"| Estimated total issues | {total_issues:,} |\n")
         f.write(f"| **Cleanup candidates (unused + low)** | **{len(unused_fields) + len(low_usage_fields)}** |\n\n")
+        f.write(f"_Note: Usage based on sampling {SAMPLE_SIZE} recent issues per project across {len(projects)} projects._\n\n")
 
         # Usage by type
         f.write("## Usage by Field Type\n\n")
@@ -346,15 +409,14 @@ def main():
 
         # Top used fields
         f.write("\n## Top 50 Most Used Custom Fields\n\n")
-        f.write("| Rank | Field Name | Key | Type | Issues | % of Total |\n")
+        f.write("| Rank | Field Name | Key | Type | Hits (sampled) | Projects Using |\n")
         f.write("|---|---|---|---|---|---|\n")
         top_used = sorted(
             [u for u in field_usage.values() if u["issue_count"] > 0],
             key=lambda x: x["issue_count"], reverse=True
         )[:50]
         for rank, u in enumerate(top_used, 1):
-            pct = round(u["issue_count"] / total_issues * 100, 1) if total_issues > 0 else 0
-            f.write(f"| {rank} | {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {pct}% |\n")
+            f.write(f"| {rank} | {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {u['project_count']} |\n")
 
         # Unused fields
         f.write(f"\n## Unused Custom Fields ({len(unused_fields)} fields — deletion candidates)\n\n")
@@ -364,22 +426,21 @@ def main():
             f.write(f"| {u['name']} | {u['key']} | {u['type']} | {u['custom_type']} |\n")
 
         # Low usage fields
-        f.write(f"\n## Low Usage Fields (<1% population — {len(low_usage_fields)} fields)\n\n")
-        f.write("| Field Name | Key | Type | Issues | % of Total |\n")
+        f.write(f"\n## Low Usage Fields (<1% of sampled issues — {len(low_usage_fields)} fields)\n\n")
+        f.write("| Field Name | Key | Type | Hits | Projects |\n")
         f.write("|---|---|---|---|---|\n")
         for u in sorted(low_usage_fields, key=lambda x: x["issue_count"]):
-            pct = round(u["issue_count"] / total_issues * 100, 2) if total_issues > 0 else 0
-            f.write(f"| {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {pct}% |\n")
+            f.write(f"| {u['name']} | {u['key']} | {u['type']} | {u['issue_count']:,} | {u['project_count']} |\n")
 
-        # Unsearchable fields
-        if unsearchable_fields:
-            f.write(f"\n## Unsearchable Fields ({len(unsearchable_fields)} — cannot query via JQL)\n\n")
-            f.write("These fields could not be queried for usage. They may be deprecated, ")
-            f.write("restricted, or use types that don't support JQL search.\n\n")
-            f.write("| Field Name | Key | Type |\n")
-            f.write("|---|---|---|\n")
-            for u in sorted(unsearchable_fields, key=lambda x: x["name"]):
-                f.write(f"| {u['name']} | {u['key']} | {u['type']} |\n")
+        # Single-project fields
+        f.write(f"\n## Single-Project Fields ({len(single_project_fields)} — consolidation candidates)\n\n")
+        f.write("Fields used in only one project. May indicate project-specific customization ")
+        f.write("that should be standardized before Align.\n\n")
+        f.write("| Field Name | Key | Type | Project | Hits |\n")
+        f.write("|---|---|---|---|---|\n")
+        for u in sorted(single_project_fields, key=lambda x: x["name"]):
+            proj = u["projects"][0] if u["projects"] else {}
+            f.write(f"| {u['name']} | {u['key']} | {u['type']} | {proj.get('key', '?')} | {u['issue_count']:,} |\n")
 
         # Field context/scope analysis
         f.write("\n## Field Scope Analysis\n\n")
@@ -417,9 +478,9 @@ def main():
         # Recommendations
         f.write("\n## Align Readiness Recommendations\n\n")
         f.write("### Immediate Actions\n")
-        f.write(f"1. **Delete {len(unused_fields)} unused fields** — zero data, safe to remove after stakeholder confirmation\n")
-        f.write(f"2. **Review {len(low_usage_fields)} low-usage fields** — likely candidates for retirement or consolidation\n")
-        f.write(f"3. **Audit {len(unsearchable_fields)} unsearchable fields** — may indicate deprecated or broken configurations\n")
+        f.write(f"1. **Delete {len(unused_fields)} unused fields** — no data found in sample, safe to remove after stakeholder confirmation\n")
+        f.write(f"2. **Review {len(low_usage_fields)} low-usage fields** — candidates for retirement or consolidation\n")
+        f.write(f"3. **Standardize {len(single_project_fields)} single-project fields** — consolidate or remove before Align onboarding\n")
         if duplicates:
             f.write(f"4. **Consolidate {len(duplicates)} potential duplicate pairs** — merge data before Align onboarding\n")
         f.write("\n### Align Integration Prep\n")
@@ -438,23 +499,23 @@ def main():
         writer = csv.writer(f)
         writer.writerow([
             "Field Name", "Field Key", "Type", "Custom Type",
-            "Issue Count", "% of Total", "Searchable",
+            "Hits (Sampled)", "Projects Using", "Project List",
             "Is Global", "Context Count", "Status"
         ])
         for key, usage in sorted(field_usage.items(), key=lambda x: x[1]["issue_count"], reverse=True):
             ctx = field_contexts.get(key, {})
-            pct = round(usage["issue_count"] / total_issues * 100, 2) if total_issues > 0 and usage["issue_count"] > 0 else 0
-            if not usage["searchable"]:
-                status = "Unsearchable"
-            elif usage["issue_count"] == 0:
+            if usage["issue_count"] == 0:
                 status = "Unused"
-            elif total_issues > 0 and (usage["issue_count"] / total_issues) < 0.01:
+            elif total_issues_sampled > 0 and (usage["issue_count"] / total_issues_sampled) < 0.01:
                 status = "Low Usage"
+            elif usage["project_count"] == 1:
+                status = "Single Project"
             else:
                 status = "Active"
+            proj_list = ", ".join(p["key"] for p in usage.get("projects", []))
             writer.writerow([
                 usage["name"], key, usage["type"], usage["custom_type"],
-                usage["issue_count"], pct, usage["searchable"],
+                usage["issue_count"], usage["project_count"], proj_list,
                 ctx.get("is_global", ""), ctx.get("context_count", ""), status
             ])
 
@@ -467,13 +528,13 @@ def main():
     log("=" * 60)
     log("  CUSTOM FIELD DEEP AUDIT COMPLETE")
     log("=" * 60)
-    log(f"  Total fields:      {len(custom_fields)}")
-    log(f"  Active:            {len(used_fields) - len(low_usage_fields)}")
-    log(f"  Low usage (<1%):   {len(low_usage_fields)}")
-    log(f"  Unused (0 issues): {len(unused_fields)}")
-    log(f"  Unsearchable:      {len(unsearchable_fields)}")
-    log(f"  Align-relevant:    {len(align_relevant)}")
-    log(f"  Duplicate pairs:   {len(duplicates)}")
+    log(f"  Total fields:        {len(custom_fields)}")
+    log(f"  Active:              {len(used_fields) - len(low_usage_fields)}")
+    log(f"  Low usage (<1%):     {len(low_usage_fields)}")
+    log(f"  Unused (0 hits):     {len(unused_fields)}")
+    log(f"  Single-project only: {len(single_project_fields)}")
+    log(f"  Align-relevant:      {len(align_relevant)}")
+    log(f"  Duplicate pairs:     {len(duplicates)}")
     log("")
 
 
