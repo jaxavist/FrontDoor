@@ -13,3 +13,11 @@ Thumbs.db
 # Env / secrets
 .env
 *.env
+
+# Confluence edit-access restriction outputs (sensitive — do not commit)
+reports/13_confluence_edit_access.md
+reports/confluence_edit_access.csv
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls

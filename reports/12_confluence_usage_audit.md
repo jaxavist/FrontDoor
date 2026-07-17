@@ -1,4 +1,56 @@
 # Confluence Usage Audit — FrontDoor
+
+**Prepared for:** Tina | **Site:** ftdr-sandbox-438.atlassian.net | **Updated:** 2026-07-17
+
+## Purpose
+
+Baseline of the current Confluence footprint to inform space consolidation and
+restructuring. Identifies where content lives, what's active vs. abandoned, and
+which spaces are candidates for archival or merge.
+
+## Headline Findings
+
+- **1,980 total spaces**, but **1,834 (93%) are personal spaces**. The real
+  restructuring surface is the **146 regular (team/project) spaces**.
+- **53,033 pages** across all spaces.
+- **1,489 spaces (75%) have not been updated in over a year**; 1,272 (64%) idle
+  over two years.
+- **621 spaces are empty** (homepage only) — immediate archival candidates.
+
+The practical story: this is not a 1,980-space problem. It's ~146 team spaces to
+organize, plus a large tail of personal and abandoned spaces to clean up.
+
+## Data Files
+
+| File | Contents |
+|---|---|
+| `confluence_spaces.xlsx` | Consolidated space metrics workbook (primary deliverable) |
+| `space_keys_regular.csv` | The 146 regular / communal space keys |
+| `space_keys_personal.csv` | The 1,834 personal space keys |
+| `confluence_spaces.csv` | Full space-level export (pages, contributors, last activity, days idle) |
+| `confluence_pages.csv` | Page-level export (last updated, version) |
+
+Detailed per-space tables follow below in this document.
+
+## Recommended Consolidation Path
+
+1. **Personal spaces (1,834):** archive stale ones, migrate any valuable content
+   into team spaces. Largest volume, lowest restructuring value.
+2. **Empty spaces (621):** safe to archive/delete — no real content.
+3. **Stale team spaces (idle >1yr):** evaluate for merge into active spaces.
+4. **Focus restructuring on the ~146 regular spaces** — that's the footprint that
+   matters for the go-forward information architecture.
+
+## Caveat on Page Views
+
+Page **view/visit counts are not reliable in this report**. This audit ran against
+the sandbox, which carries no analytics history — nearly all pages show zero views
+regardless of real usage. Last-modified dates, page counts, and contributor counts
+are accurate. **For genuine visit data, this must be re-run against the production
+Confluence instance.**
+
+---
+# Confluence Usage Audit — FrontDoor
 # Site: https://ftdr-sandbox-438.atlassian.net
 # Generated: 2026-07-16 20:24
 
@@ -84,7 +136,7 @@ All spaces ranked by last activity. Older = stronger consolidation candidate.
 | Asawari Bhagat | ~442259029 | personal | 5 | 1 | 2021-05-06 | 1897 | 0 |
 | Begimai Ismailova | ~565987782 | personal | 5 | 1 | 2021-05-05 | 1897 | 0 |
 | Michael Carrera | ~922528803 | personal | 5 | 1 | 2021-05-05 | 1897 | 0 |
-| Bhumika | PAP | global | 7 | 1 | 2021-05-07 | 1896 | 0 |
+| Bhumika \| PAP | global | 7 | 1 | 2021-05-07 | 1896 | 0 |
 | Haribabu Kamisetty | ~192580884 | personal | 5 | 1 | 2021-05-06 | 1896 | 0 |
 | Jason Bailey | ~246250935 | personal | 5 | 1 | 2021-05-07 | 1896 | 0 |
 | Ben Moore | ~347732216 | personal | 5 | 1 | 2021-05-07 | 1895 | 0 |
@@ -2069,7 +2121,7 @@ All spaces ranked by last activity. Older = stronger consolidation candidate.
 | Asawari Bhagat | ~442259029 | personal | 5 | 2021-05-06 | 1897 |
 | Begimai Ismailova | ~565987782 | personal | 5 | 2021-05-05 | 1897 |
 | Michael Carrera | ~922528803 | personal | 5 | 2021-05-05 | 1897 |
-| Bhumika | PAP | global | 7 | 2021-05-07 | 1896 |
+| Bhumika \| PAP | global | 7 | 2021-05-07 | 1896 |
 | Haribabu Kamisetty | ~192580884 | personal | 5 | 2021-05-06 | 1896 |
 | Jason Bailey | ~246250935 | personal | 5 | 2021-05-07 | 1896 |
 | Ben Moore | ~347732216 | personal | 5 | 2021-05-07 | 1895 |
